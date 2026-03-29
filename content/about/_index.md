@@ -1,10 +1,24 @@
 ---
 title: "About Us"
-date: 2015-05-09T01:30:31
+date: 2026-01-01T00:00:00
 slug: about
 type: page
 aliases:
   - "/about-us/"
+---
+
+## Current Officers (2025–2026)
+
+Elected at the Board of Directors meeting on December 1, 2024.
+
+| Role | Name |
+|------|------|
+| President | Chunhua Liao |
+| Vice President | Jeff Tang |
+| Vice President | Bu He (Emily He) |
+| Secretary | Tony Guan |
+| Treasurer | Cheney Gao |
+
 ---
 
 About SVCAF

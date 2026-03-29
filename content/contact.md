@@ -18,4 +18,3 @@ We are also encouraging active civic engagement and political participation by t
 **Come on, drop us a line!**
 
 - Send us email: [info@svcaf.org](mailto:info@svcaf.org)
-- Or fill in the form of this page.

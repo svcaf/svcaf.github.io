@@ -27,6 +27,14 @@ pagerSize = 10
     url = "https://x.com/svcaf_official"
   
   [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@svca6924"
+  
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/SiliconValleyChineseAssociation"
+  
+  [[params.socialIcons]]
     name = "email"
     url = "mailto:info@svcaf.org"
 

@@ -18,7 +18,7 @@ pagerSize = 10
   ShowFullTextinRSS = true
   
   [params.label]
-    text = "SVCAF"
+    text = " "
     icon = "/images/logo.jpg"
     iconHeight = 35
 

@@ -1,6 +1,6 @@
 ---
 title: "Programs"
-description: "SVCAF programs and initiatives — Education, Civic Engagement, and AI4Legislation"
+description: ""
 ---
 
 SVCAF runs several programs to serve the Chinese American community in Silicon Valley.

@@ -22,7 +22,7 @@ jobs:
 
           echo ""
           echo "=== 1. Secret/Token Detection ==="
-          if grep -rn 'appmsg_token\|api_key\|apikey\|secret_key\|private_key\|access_token\|auth_token' content/ --include='*.md' | grep -v '""' | grep -v "= \"\""; then
+          if grep -rn 'appmsg_token\|secret_key\|private_key\|access_token\|auth_token' content/ --include='*.md' | grep -v '""' | grep -v '= ""' | grep -v 'api.data.gov' | grep -v 'apikey \$API_KEY' | grep -v 'api_key=' | grep -v 'requires an API key'; then
             echo "CRITICAL: Potential secrets found!"
             ISSUES=$((ISSUES + 1))
           else

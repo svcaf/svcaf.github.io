@@ -8,7 +8,15 @@ title: "Home"
 
 **Silicon Valley Chinese Association Foundation** (SVCAF) is a 501(c)(3) nonprofit dedicated to empowering Chinese Americans through education, civic engagement, and community action since 2015.
 
-[Our Programs →](/programs/) · [About Us →](/about/) · [**Donate →**](/donate/)
+[Our Programs →](/programs/) · [About Us →](/about/)
+
+---
+
+### 💛 Support Our Mission
+
+Your donation helps us continue our work in education, civic engagement, and community empowerment.
+
+[**Donate Now →**](/donate/)
 
 ---
 

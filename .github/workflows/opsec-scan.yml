@@ -1,0 +1,103 @@
+name: OPSEC Security Scan
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  opsec-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: OPSEC Scan
+        run: |
+          echo "============================================"
+          echo "   OPSEC SCAN — $(date '+%Y-%m-%d %H:%M %Z')"
+          echo "============================================"
+          ISSUES=0
+
+          echo ""
+          echo "=== 1. Secret/Token Detection ==="
+          if grep -rn 'appmsg_token\|api_key\|apikey\|secret_key\|private_key\|access_token\|auth_token' content/ --include='*.md' | grep -v '""' | grep -v "= \"\""; then
+            echo "CRITICAL: Potential secrets found!"
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No secrets detected"
+          fi
+
+          echo ""
+          echo "=== 2. GitHub Token Detection ==="
+          if grep -rn 'github_pat_\|ghp_\|gho_\|glpat-' . --include='*.md' --include='*.html' --include='*.yml' --include='*.yaml' --include='*.json' --include='*.toml' | grep -v '.git/'; then
+            echo "CRITICAL: GitHub token found!"
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No GitHub tokens detected"
+          fi
+
+          echo ""
+          echo "=== 3. AWS/Cloud Key Detection ==="
+          if grep -rnoP 'AKIA[0-9A-Z]{16}|AIza[0-9A-Za-z_-]{35}' . --include='*.md' --include='*.html' --include='*.yml'; then
+            echo "CRITICAL: Cloud API key found!"
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No cloud API keys detected"
+          fi
+
+          echo ""
+          echo "=== 4. Private Key Detection ==="
+          if grep -rn 'BEGIN.*PRIVATE KEY\|BEGIN RSA\|BEGIN DSA\|BEGIN EC' . --include='*.md' --include='*.html' --include='*.pem' --include='*.key'; then
+            echo "CRITICAL: Private key found!"
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No private keys detected"
+          fi
+
+          echo ""
+          echo "=== 5. SSN Pattern Detection ==="
+          if grep -rnoP '\b\d{3}-\d{2}-\d{4}\b' content/; then
+            echo "CRITICAL: Possible SSN found!"
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No SSN patterns detected"
+          fi
+
+          echo ""
+          echo "=== 6. WordPress Admin Artifacts ==="
+          if grep -rn 'wp-admin\|wp-login\.php\|xmlrpc\.php' content/ --include='*.md'; then
+            echo "WARNING: WordPress admin references found"
+          else
+            echo "OK: No WordPress admin artifacts"
+          fi
+
+          echo ""
+          echo "=== 7. Hardcoded WordPress URLs ==="
+          WPLINKS=$(grep -rn 'svcaf\.org' content/ --include='*.md' | grep -oP 'https?://[^\s")\]<>]*svcaf\.org[^\s")\]<>]*' | grep -v 'mailto:' | sort -u | wc -l)
+          if [ "$WPLINKS" -gt 0 ]; then
+            echo "WARNING: $WPLINKS hardcoded svcaf.org URLs found"
+            grep -rn 'svcaf\.org' content/ --include='*.md' | grep -oP 'https?://[^\s")\]<>]*svcaf\.org[^\s")\]<>]*' | grep -v 'mailto:' | sort -u | head -10
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No hardcoded WordPress URLs"
+          fi
+
+          echo ""
+          echo "=== 8. Sensitive File Detection ==="
+          if find . -name ".env" -o -name "*.key" -o -name "*.pem" -o -name "wp-config*" -o -name "*.sql" | grep -v '.git/' | grep -v 'node_modules'; then
+            echo "CRITICAL: Sensitive files found!"
+            ISSUES=$((ISSUES + 1))
+          else
+            echo "OK: No sensitive files detected"
+          fi
+
+          echo ""
+          echo "============================================"
+          if [ "$ISSUES" -gt 0 ]; then
+            echo "SCAN FAILED: $ISSUES issue(s) found"
+            exit 1
+          else
+            echo "SCAN PASSED: No issues found"
+          fi

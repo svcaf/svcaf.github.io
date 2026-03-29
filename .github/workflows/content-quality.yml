@@ -163,11 +163,11 @@ jobs:
               # Static files
               if [ "$found" -eq 0 ] && [ -f "static${clean}" ]; then found=1; fi
               if [ "$found" -eq 0 ]; then
-                echo "⚠️  $f: Link to $link may be broken"
+                echo "⚠️  $f: Link to $link may be broken (run link checker locally to verify)"
               fi
             done
           done
-          echo "✅ Internal link scan complete"
+          echo "✅ Internal link scan complete (informational - warnings above are not blocking)"
 
       - name: "8. Menu-title consistency"
         if: always()
@@ -201,6 +201,6 @@ for name, url in menu_items:
                 if page_title.lower() != name.lower():
                     print(f'⚠️  Menu \"{name}\" → {url} but page title is \"{page_title}\"')
             break
-print('✅ Menu-title check complete')
+print('✅ Menu-title check complete (informational only)')
 "
           fi

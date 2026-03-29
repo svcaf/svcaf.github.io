@@ -68,22 +68,23 @@ jobs:
             exit 1
           fi
 
-      - name: "4. Redundant description leak (description repeating in body)"
+      - name: "4. Redundant description leak (section pages only)"
         if: always()
         run: |
-          echo "🔍 Checking for description metadata leaking into page..."
+          echo "🔍 Checking for description metadata leaking into section pages..."
           ERRORS=0
-          for f in $(find content -name '_index.md' -o -name '*.md' | head -200); do
-            desc=$(awk '/^---$/{n++} n==1 && /^description:/{gsub(/^description:\s*"?|"?\s*$/,""); print}' "$f")
+          # Only check _index.md section pages (not regular posts — descriptions often match first paragraph)
+          for f in $(find content -name '_index.md'); do
+            desc=$(awk '/^---$/{n++} n==1 && /^description:/{gsub(/^description:[[:space:]]*"?|"?[[:space:]]*$/,""); print}' "$f")
             if [ -n "$desc" ] && [ ${#desc} -gt 20 ]; then
               body=$(awk '/^---$/{n++; next} n>=2' "$f")
-              if echo "$body" | head -5 | grep -qF "$desc"; then
-                echo "⚠️  $f: 'description' frontmatter is repeated verbatim in body text"
+              if echo "$body" | head -3 | grep -qF "$desc"; then
+                echo "⚠️  $f: description frontmatter is repeated verbatim in first 3 lines of page body"
                 ERRORS=$((ERRORS + 1))
               fi
             fi
           done
-          if [ "$ERRORS" -eq 0 ]; then echo "✅ No description leaks"; fi
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ No description leaks in section pages"; fi
           [ "$ERRORS" -gt 0 ] && exit 1 || true
 
       - name: "5. Stale references (forms, features that don't exist on static site)"

@@ -23,7 +23,7 @@ pagerSize = 10
     iconHeight = 35
 
   [[params.socialIcons]]
-    name = "x"
+    name = "twitter"
     url = "https://x.com/svcaf_official"
   
   [[params.socialIcons]]

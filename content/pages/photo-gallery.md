@@ -22,23 +22,53 @@ The Gold Building
 
 [h4]Youtube Video[/h4]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
 [column size=”col-6″ last_column=”true”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
@@ -48,17 +78,37 @@ The Gold Building
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
 [column size=”col-6″ last_column=”true”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
@@ -68,17 +118,37 @@ The Gold Building
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
 [column size=”col-6″ last_column=”true”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
@@ -90,17 +160,37 @@ The Gold Building
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
 [column size=”col-6″ last_column=”true”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
@@ -110,17 +200,37 @@ The Gold Building
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
 [column size=”col-6″ last_column=”true”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
@@ -130,17 +240,37 @@ The Gold Building
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 
 [column size=”col-6″ last_column=”false”]
 
-[hb_video width=”95%” height=”300px”]
-
-[/hb_video]
+{{< youtube "GxpQ3xhL7aY" >}}
+{{< youtube "4x_KwBk16Aw" >}}
+{{< youtube "Eb2TMea9LcA" >}}
+{{< youtube "SKmVUe7Pfw8" >}}
+{{< youtube "hhZ6VtFcsVs" >}}
+{{< youtube "JCmgMspMBpQ" >}}
+{{< youtube "kIQdqBQ4ws8" >}}
+{{< youtube "4HixbG8fYMI" >}}
+{{< youtube "0F8gsvWV9WI" >}}
+{{< youtube "zaUXCMVOpso" >}}
+{{< youtube "mRnHZXJqJGQ" >}}
+{{< youtube "vufGTZgUGRY" >}}
+{{< youtube "ja7rFl97Uq0" >}}
 
 [/column]
 

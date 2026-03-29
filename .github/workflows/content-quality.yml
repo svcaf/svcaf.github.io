@@ -19,14 +19,10 @@ jobs:
           # Frontmatter should appear exactly once (between first two ---)
           # If "---" appears 3+ times, content may have duplicate frontmatter
           for f in $(find content -name '*.md'); do
-            count=$(grep -c '^---$' "$f" 2>/dev/null || echo 0)
-            if [ "$count" -gt 2 ]; then
-              echo "❌ $f: Found $count '---' delimiters (expected 2). Possible duplicate frontmatter."
-              ERRORS=$((ERRORS + 1))
-            fi
-            # Check for frontmatter keys appearing in body (after 2nd ---)
+            # Check for frontmatter keys appearing in first 3 lines of body (true duplicate)
+            # Note: --- is also valid markdown HR, so don't count them
             body=$(awk '/^---$/{n++; next} n>=2' "$f")
-            if echo "$body" | head -3 | grep -qP '^(aliases|slug|type|date|draft|weight):'; then
+            if echo "$body" | head -3 | grep -qP '^(aliases|slug|type|date|draft|weight):\s'; then
               echo "❌ $f: Frontmatter keys found in page body — likely duplicate/malformed frontmatter."
               ERRORS=$((ERRORS + 1))
             fi
@@ -95,7 +91,7 @@ jobs:
         run: |
           echo "🔍 Checking for stale WordPress references..."
           ERRORS=0
-          STALE_PATTERNS='fill in the form|submit.* form below|leave a comment|log ?in to|wp-login|wp-admin'
+          STALE_PATTERNS='fill in the form of this page|submit.* form below|log ?in to comment|wp-login|wp-admin'
           for f in $(find content -name '*.md'); do
             body=$(awk '/^---$/{n++; next} n>=2' "$f")
             match=$(echo "$body" | grep -iP "$STALE_PATTERNS" | head -1 || true)

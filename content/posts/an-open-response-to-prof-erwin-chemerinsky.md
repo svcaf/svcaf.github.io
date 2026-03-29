@@ -5,18 +5,6 @@ slug: an-open-response-to-prof-erwin-chemerinsky
 description: "August 6, 2017 Dear Prof. Chemerinsky: I am writing in response to your op-ed, “Don’t use Asian Americans to justify anti-affirmative action politics,” published by Washington Post on 8/3/2017. “Use”?"
 categories: ["SVCAF"]
 ---
-
-a:link {text-decoration: underline; color:blue}
-   ul {
-    display: block;
-    list-style-type: disc;
-    margin-top: 1em;
-    margin-bottom: 1 em;
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 40px;
-   }
-
 August 6, 2017
 
 Dear Prof. Chemerinsky:

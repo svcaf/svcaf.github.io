@@ -5,9 +5,6 @@ slug: "svca基金会再次恳请全美朋友加入sffa并捐款支持blum的诉"
 description: "**********重要事情放最前*********        行动是最有力的抗议！2017/8/3, 著名左翼媒体华盛顿邮报上登载了一篇奇葩文章“Don’t use Asian Americans to Justify Anti-affirmative Action Politics”（https://www.washingtonpost.com/news/posteverything/wp"
 categories: ["SVCAF"]
 ---
-
-a:link {text-decoration: underline; color:blue}
-
 **********重要事情放最前*********
        **行动是最有力的抗议！**2017/8/3, 著名左翼媒体华盛顿邮报上登载了一篇奇葩文章“*Don’t use Asian Americans to Justify Anti-affirmative Action Politics*”（*[https://www.washingtonpost.com/news/posteverything/wp/2017/08/03/dont-use-asian-americans-to-justify-anti-affirmative-action-politics](https://www.washingtonpost.com/news/posteverything/wp/2017/08/03/dont-use-asian-americans-to-justify-anti-affirmative-action-politics)*）。作者虽然是法学教授，行文却极不负责任，没有调查研究事情前因后果，就凭臆想断定我们亚裔是被人利用，并指名道姓对我们亚裔的战友Edward Blum先生进行指责。
 

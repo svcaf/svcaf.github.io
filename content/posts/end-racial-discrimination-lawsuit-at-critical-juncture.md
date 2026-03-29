@@ -5,27 +5,6 @@ slug: end-racial-discrimination-lawsuit-at-critical-juncture
 description: "Dear Friends, For decades, Harvard and many other elite universities have been discriminating against Asian American students, just as they did to Jewish students in the 1920s and 30s. Students For Fa"
 categories: ["SVCAF"]
 ---
-
-a:link {text-decoration: underline; color:blue}
-
-   ul {
-
-    display: block;
-
-    list-style-type: disc;
-
-    margin-top: 1em;
-
-    margin-bottom: 1 em;
-
-    margin-left: 0;
-
-    margin-right: 0;
-
-    padding-left: 40px;
-
-   }
-
 Dear Friends,
 
 For decades, Harvard and many other elite universities have been discriminating against Asian American students, just as they did to Jewish students in the 1920s and 30s. [Students For Fair Admissions](https://studentsforfairadmissions.org/) (SFFA), a not-for-profit organization led by Mr. Edward Blum, sued Harvard in 2014 for its discriminatory practice in admissions. Last week, documents detailing Harvard’s admissions processes were made public. Discrimination evidenced in these documents is so overwhelming that SFFA moved for a summary judgment, “a request that the judge rule against Harvard without a trial, based on facts not in dispute.” Media coverage has been extensive, appearing in numerous major outlets.

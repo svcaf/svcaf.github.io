@@ -5,9 +5,6 @@ slug: today-we-say-it-loudly-and-obnoxiously
 description: "Speech at the Boston Rally (Youtube) Crystal Lu October 14, 2018 Hello everyone! Hello Boston! My name is Crystal Lu. I come from California. Anyone here also from California? I am President of a gras"
 categories: ["SVCAF"]
 ---
-
-a:link {text-decoration: underline; color:blue}
-
 [Speech at the Boston Rally](https://youtu.be/D6v5Td7tfj4) (Youtube)
 
 Crystal Lu

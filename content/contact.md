@@ -9,15 +9,32 @@ type: page
 ---
 
 # We are here for You!
-Incorporated in April 2015, Silicon Valley Chinese Association Foundation (SVCAF) is a nonprofit grassroot organization working to promote the involvement of Chinese communities in public affairs and public policies in the United States.
 
-As an integral part of the Chinese communities in Northern California and with strong ties across the United States, we are making meaningful progress in providing education to the Chinese communities on the legal and political systems in California and the nation.
+Incorporated in April 2015, Silicon Valley Chinese Association Foundation (SVCAF) is a nonprofit grassroots organization working to promote the involvement of Chinese communities in public affairs and public policies in the United States.
 
-We are also encouraging active civic engagement and political participation by the Chinese communities, while actively promoting recognition and respect of their contributions.
+We are making meaningful progress in providing education to the Chinese communities on the legal and political systems in California and the nation — and encouraging active civic engagement and political participation while promoting recognition of their contributions.
 
 **Come on, drop us a line!**
 
-- Send us email: [info@svcaf.org](mailto:info@svcaf.org)
+---
+
+## 📧 Email
+[info@svcaf.org](mailto:info@svcaf.org)
+
+## 💬 Discord Community
+Join our public Discord server to ask questions, get involved, or reach the board directly:
+[discord.gg/9eNxw3HYYJ](https://discord.gg/9eNxw3HYYJ)
+
+## 🐦 X (Twitter)
+Follow us for news and announcements:
+[x.com/svcaf_official](https://x.com/svcaf_official)
+
+## 📘 Facebook
+[facebook.com/svcafoundation](https://www.facebook.com/svcafoundation)
+
+## ▶️ YouTube
+Watch our seminars, forums, and event recordings:
+[youtube.com/@svca6924](https://www.youtube.com/@svca6924)
 
 ---
 

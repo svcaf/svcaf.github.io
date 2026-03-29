@@ -35,6 +35,10 @@ pagerSize = 10
     url = "https://www.facebook.com/svcafoundation"
   
   [[params.socialIcons]]
+    name = "discord"
+    url = "https://discord.gg/9eNxw3HYYJ"
+
+  [[params.socialIcons]]
     name = "email"
     url = "mailto:info@svcaf.org"
 

@@ -178,3 +178,9 @@ jobs:
             echo "  Menu item: $menuname"
           done
           echo "✅ Menu-title check complete (informational)"
+      - name: "Notify Discord on failure"
+        if: failure()
+        run: |
+          curl -s -X POST "https://discord.com/api/webhooks/1487903449872990248/AzFCJkNwvaxDOlapbJk58rGowgkoMpFA7XQCzwY7_CGzd5vYVHLXkGz6QkKFJcXquQYw" \
+            -H "Content-Type: application/json" \
+            -d "{\"content\": \"🚨 **GitHub CI FAILED**\\n**Workflow:** ${{ github.workflow }}\\n**Commit:** \`$(echo ${{ github.sha }} | cut -c1-7)\` — ${{ github.event.head_commit.message }}\\n**Logs:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"

@@ -21,7 +21,7 @@ We are also encouraging active civic engagement and political participation by t
 
 ---
 
-**Silicon Valley Chinese Association Foundation**
+**Silicon Valley Chinese Association Foundation**<br>
 1631 N 1st St, Ste 100, San Jose, CA 95112
 
 EIN: 47-3798752

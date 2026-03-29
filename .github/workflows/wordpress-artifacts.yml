@@ -1,4 +1,4 @@
-name: WordPress Artifact Check
+name: Content Artifact Check
 
 on:
   push:
@@ -61,10 +61,41 @@ jobs:
             FAIL=1
           fi
 
+          # Pattern 5: WeChat platform JavaScript (scraped from mp.weixin.qq.com)
+          WECHAT_FILES=$(grep -rl \
+            -e 'WeixinJSBridge' \
+            -e 'mmbizwap' \
+            -e 'wx\.qq\.com' \
+            -e 'var first_sceen__time' \
+            -e 'window\.moon_map' \
+            -e '__appmsgCgiData' \
+            -e 'window\.wxtoken' \
+            -e 'appmsg/index\.js' \
+            content/posts/ content/pages/ 2>/dev/null || true)
+
+          if [ -n "$WECHAT_FILES" ]; then
+            echo "❌ WeChat platform JavaScript found in:"
+            echo "$WECHAT_FILES"
+            FAIL=1
+          fi
+
+          # Pattern 6: WeChat UI elements (reward/QR code widgets)
+          WECHAT_UI=$(grep -rl \
+            -e '长按二维码向我转账' \
+            -e 'res\.wx\.qq\.com' \
+            -e 'mmbiz\.qpic\.cn' \
+            content/posts/ content/pages/ 2>/dev/null || true)
+
+          if [ -n "$WECHAT_UI" ]; then
+            echo "❌ WeChat UI elements (QR code/reward widgets) found in:"
+            echo "$WECHAT_UI"
+            FAIL=1
+          fi
+
           if [ $FAIL -eq 0 ]; then
-            echo "✅ No WordPress artifacts found."
+            echo "✅ No WordPress or WeChat artifacts found."
           else
             echo ""
-            echo "Fix: Remove the flagged CSS/HTML/shortcodes before merging."
+            echo "Fix: Remove the flagged CSS/JS/shortcodes/WeChat code before merging."
             exit 1
           fi

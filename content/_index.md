@@ -13,40 +13,6 @@ title: "Home"
   <div class="carousel-dots" id="carouselDots"></div>
 </div>
 
-<script>
-(function() {
-  var slides = document.querySelectorAll('#heroCarousel .slide');
-  var dotsEl = document.getElementById('carouselDots');
-  var current = 0;
-  var timer;
-
-  slides.forEach(function(_, i) {
-    var d = document.createElement('button');
-    d.className = 'dot' + (i === 0 ? ' active' : '');
-    d.setAttribute('aria-label', 'Slide ' + (i + 1));
-    d.addEventListener('click', function() { goTo(i); resetTimer(); });
-    dotsEl.appendChild(d);
-  });
-
-  function goTo(n) {
-    slides[current].classList.remove('active');
-    dotsEl.children[current].classList.remove('active');
-    current = (n + slides.length) % slides.length;
-    slides[current].classList.add('active');
-    dotsEl.children[current].classList.add('active');
-  }
-
-  window.carouselMove = function(dir) { goTo(current + dir); resetTimer(); };
-
-  function resetTimer() {
-    clearInterval(timer);
-    timer = setInterval(function() { goTo(current + 1); }, 5000);
-  }
-
-  resetTimer();
-})();
-</script>
-
 ## Empowering Chinese Americans
 
 **Silicon Valley Chinese Association Foundation** (SVCAF) is a 501(c)(3) nonprofit dedicated to empowering Chinese Americans through education, civic engagement, and community action since 2015.

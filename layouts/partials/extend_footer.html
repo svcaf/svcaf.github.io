@@ -1,10 +1,59 @@
+{{- with site.Params.socialIcons }}
+<div class="footer-social">
+  {{- range . }}
+    <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
+      {{- partial "svg.html" . }}
+    </a>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- if .IsHome }}
+<script>
+/* Hero carousel */
+(function() {
+  var carousel = document.getElementById('heroCarousel');
+  if (!carousel) return;
+  var slides = carousel.querySelectorAll('.slide');
+  var dotsEl = document.getElementById('carouselDots');
+  var current = 0;
+  var timer;
+
+  slides.forEach(function(_, i) {
+    var d = document.createElement('button');
+    d.className = 'dot' + (i === 0 ? ' active' : '');
+    d.setAttribute('aria-label', 'Slide ' + (i + 1));
+    d.addEventListener('click', function() { goTo(i); resetTimer(); });
+    dotsEl.appendChild(d);
+  });
+
+  function goTo(n) {
+    slides[current].classList.remove('active');
+    dotsEl.children[current].classList.remove('active');
+    current = (n + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    dotsEl.children[current].classList.add('active');
+  }
+
+  window.carouselMove = function(dir) { goTo(current + dir); resetTimer(); };
+
+  function resetTimer() {
+    clearInterval(timer);
+    timer = setInterval(function() { goTo(current + 1); }, 5000);
+  }
+
+  resetTimer();
+})();
+</script>
+{{- end }}
+
 {{- if (or .IsHome (eq .Kind "section")) }}
 <script>
+/* Infinite scroll */
 (function() {
   var postList = document.querySelector('#main');
   if (!postList) return;
 
-  // Find and hide the static pagination footer
   var pageFooter = document.querySelector('.page-footer');
   if (pageFooter) pageFooter.style.display = 'none';
 
@@ -12,12 +61,10 @@
   var loading = false;
   var done = false;
 
-  // Find next page URL from the hidden pagination
   var nextLink = document.querySelector('.pagination .next');
   if (nextLink) nextUrl = nextLink.href;
-  if (!nextUrl) return; // only one page, nothing to do
+  if (!nextUrl) return;
 
-  // Sentinel element placed after last post
   var sentinel = document.createElement('div');
   sentinel.id = 'scroll-sentinel';
   sentinel.style.height = '80px';
@@ -35,13 +82,11 @@
         var articles = doc.querySelectorAll('article.post-entry, article.first-entry');
 
         articles.forEach(function(article) {
-          // Normalise first-entry to post-entry on loaded pages
           article.classList.remove('first-entry');
           article.classList.add('post-entry');
           postList.insertBefore(article, sentinel);
         });
 
-        // Advance to next-next page
         var nextNext = doc.querySelector('.pagination .next');
         nextUrl = nextNext ? nextNext.href : null;
         if (!nextUrl) done = true;
@@ -57,14 +102,4 @@
   observer.observe(sentinel);
 })();
 </script>
-{{- end }}
-
-{{- with site.Params.socialIcons }}
-<div class="footer-social">
-  {{- range . }}
-    <a href="{{ .url | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
-      {{- partial "svg.html" . }}
-    </a>
-  {{- end }}
-</div>
 {{- end }}

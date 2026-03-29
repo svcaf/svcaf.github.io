@@ -1,0 +1,70 @@
+name: WordPress Artifact Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-wordpress-artifacts:
+    runs-on: ubuntu-latest
+    name: Check for WordPress CSS/HTML artifacts
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Scan for WordPress artifacts
+        run: |
+          echo "Scanning posts and pages for WordPress leftover artifacts..."
+
+          FAIL=0
+
+          # Pattern 1: Bare CSS rules (WordPress classic editor leakage)
+          CSS_FILES=$(grep -rl \
+            -e 'a:link\s*{' \
+            -e 'list-style-type:\s*disc' \
+            -e 'padding-left:\s*40px' \
+            -e 'margin-top:\s*[0-9]*em' \
+            content/posts/ content/pages/ 2>/dev/null || true)
+
+          if [ -n "$CSS_FILES" ]; then
+            echo "❌ WordPress CSS artifacts found in:"
+            echo "$CSS_FILES"
+            FAIL=1
+          fi
+
+          # Pattern 2: Inline <style> blocks in content files
+          STYLE_FILES=$(grep -rl '<style' content/posts/ content/pages/ 2>/dev/null || true)
+          if [ -n "$STYLE_FILES" ]; then
+            echo "❌ Inline <style> blocks found in:"
+            echo "$STYLE_FILES"
+            FAIL=1
+          fi
+
+          # Pattern 3: WordPress shortcodes e.g. [caption], [gallery], [embed]
+          SC_FILES=$(grep -rlP '\[caption\b|\[gallery\b|\[embed\b|\[/caption\]|\[/gallery\]' \
+            content/posts/ content/pages/ 2>/dev/null || true)
+          if [ -n "$SC_FILES" ]; then
+            echo "❌ WordPress shortcodes found in:"
+            echo "$SC_FILES"
+            FAIL=1
+          fi
+
+          # Pattern 4: WordPress upload absolute URLs (old domain)
+          WP_URLS=$(grep -rl 'https\?://www\.svcaf\.org/wp-content/' \
+            content/posts/ content/pages/ 2>/dev/null || true)
+          if [ -n "$WP_URLS" ]; then
+            echo "❌ Hardcoded WordPress upload URLs found in:"
+            echo "$WP_URLS"
+            FAIL=1
+          fi
+
+          if [ $FAIL -eq 0 ]; then
+            echo "✅ No WordPress artifacts found."
+          else
+            echo ""
+            echo "Fix: Remove the flagged CSS/HTML/shortcodes before merging."
+            exit 1
+          fi

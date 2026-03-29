@@ -16,8 +16,6 @@ pagerSize = 10
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowFullTextinRSS = true
-  homeInfoParams.Title = "Silicon Valley Chinese Association Foundation"
-  homeInfoParams.Content = "Empowering Chinese Americans through education, civic engagement, and community action since 2015"
   
   [params.label]
     text = "SVCAF"

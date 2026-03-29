@@ -45,9 +45,3 @@ Check out our [latest posts](/posts/) for news, events, and updates.
 Your donation helps us continue our work in education, civic engagement, and community empowerment.
 
 [**Donate Now →**](/donate/)
-
----
-
-*SVCAF is a 501(c)(3) tax-exempt organization. All donations are tax-deductible.*
-
-📧 [info@svcaf.org](mailto:info@svcaf.org) | 🐦 [@svcaf_official](https://x.com/svcaf_official)

@@ -1,0 +1,81 @@
+baseURL = "https://svcaf.github.io/"
+languageCode = "en-us"
+title = "SVCAF — Silicon Valley Chinese Association Foundation"
+theme = "PaperMod"
+[pagination]
+pagerSize = 10
+
+[params]
+  env = "production"
+  description = "Empowering Chinese Americans through education, civic engagement, and community action since 2015"
+  author = "SVCAF"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true
+  homeInfoParams.Title = "Silicon Valley Chinese Association Foundation"
+  homeInfoParams.Content = "Empowering Chinese Americans through education, civic engagement, and community action since 2015"
+  
+  [params.label]
+    text = "SVCAF"
+    icon = "/images/logo.jpg"
+    iconHeight = 35
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/svcaf_official"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:info@svcaf.org"
+
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = true
+
+[params.assets]
+  favicon = "/images/logo.jpg"
+  apple_touch_icon = "/images/logo.jpg"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "programs"
+    name = "Programs"
+    url = "/programs/"
+    weight = 20
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/posts/"
+    weight = 30
+  [[menu.main]]
+    identifier = "donate"
+    name = "Donate"
+    url = "/donate/"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

@@ -1,0 +1,9 @@
+---
+title: "A Forum with Edward Blum"
+date: 2015-05-01T06:46:56
+slug: a-forum-with-edward-blum
+description: "Register: http://tinyurl.com/blum530  Donate: donations@svcaf.org via Paypal"
+categories: ["SVCAF"]
+---
+
+Register: [http://tinyurl.com/blum530](http://tinyurl.com/blum530)  Donate: [donations@svcaf.org via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z2GA5GS3DKGRA)

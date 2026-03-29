@@ -2,9 +2,9 @@
 title: "【行动！】请致信给圣县参事禁止对Under Vote进行人工裁决"
 date: 2023-09-22T22:22:54
 slug: svcaf-calls-for-voters-to-oppose-unjustified-voting-adjudication-cn
-description: "大家好！美国2024年的大选已经拉开了帷幕，大家也许都开始参加了一些选举的活动，准备将代表我们人民的候选人选上去。然而我们绝大多数选民不知道的是，我们2024年的选票还可能会在选务处经受一波人工审核(manual Adjudication)。 具体来说，Santa Clara County ROV选务总部的负责人单方面决定, 无论是Vote in person(VIP), 即现场投票，或者是Vot"
 categories: ["SVCAF"]
 ---
+
 
 大家好！美国2024年的大选已经拉开了帷幕，大家也许都开始参加了一些选举的活动，准备将代表我们人民的候选人选上去。然而我们绝大多数选民不知道的是，我们2024年的选票还可能会在选务处经受一波**人工审核(manual Adjudication)**。
 

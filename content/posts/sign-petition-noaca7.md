@@ -2,9 +2,9 @@
 title: "【行动】抗击种族歧视恶法ACA7，签署在线情愿书"
 date: 2024-01-03T19:10:10
 slug: sign-petition-noaca7
-description: "以下是在2020年加州反16号提案的”No on Prop 16″竞选团队的联合主席，圣地亚哥大学法学教授Gail Heriot (推特：@GailHeriot）在InstaPundit发出的一份公开信，号召大家尽快签署NoACA7在线情愿书（点击下图也可），此事关加州宪法中的平等权利条款（1996年的209提案）的安危，请大家广传！ 我需要更多帮助来阻止加州立法机构的权力扩张：上周，我在Inst"
 categories: ["SVCAF"]
 ---
+
 
 以下是在2020年加州反16号提案的”No on Prop 16″竞选团队的联合主席，圣地亚哥大学法学教授Gail Heriot (推特：[@GailHeriot](https://twitter.com/GailHeriot)）在[InstaPundit](https://instapundit.com/623797/)发出的一份公开信，号召大家尽快签署[NoACA7在线情愿书](https://www.change.org/VoteNoOnACA7)（点击下图也可），此事关加州宪法中的平等权利条款（1996年的209提案）的安危，请大家广传！
 

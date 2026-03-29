@@ -2,9 +2,9 @@
 title: "Seminar Series: AI4Legislation – featuring BillTrack50"
 date: 2025-04-25T20:50:54
 slug: seminar-series-ai4legislation-featuring-billtrack50
-description: "SVCAF is hosting the second webinar of our 4-part AI4Legislation series! This time, Karen Suhaka, founder of BillTrack50, will be sharing her in-depth insights on: Event Details Why Should You Attend?"
 categories: ["SVCAF"]
 ---
+
 
 SVCAF is hosting the second webinar of our 4-part AI4Legislation series! This time, **Karen Suhaka**, founder of [BillTrack50](https://www.billtrack50.com/info/), will be sharing her in-depth insights on:
 

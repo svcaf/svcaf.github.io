@@ -2,9 +2,9 @@
 title: "SVCAF Celebrates Innovation at AI4Legislation 2025 Award Ceremony"
 date: 2025-09-28T20:50:28
 slug: svcaf-celebrates-innovation-at-ai4legislation-2025-award-ceremony
-description: "September 21, 2025 marked a milestone moment for civic technology as the Silicon Valley Chinese Association Foundation honored outstanding student innovators On September 21, 2025, the Silicon Valley"
 categories: ["SVCAF"]
 ---
+
 
 *September 21, 2025 marked a milestone moment for civic technology as the Silicon Valley Chinese Association Foundation honored outstanding student innovators*
 

@@ -2,9 +2,9 @@
 title: "Lunar New Year Party 2024 & SVCA 10th Anniversary"
 date: 2024-02-02T13:31:17
 slug: lunar-new-year-party-2024
-description: "Celebrate the Lunar New Year with the Silicon Valley Chinese Association! Celebrate our 10-year journey serving the community! SVCA (Silicon Valley Chinese Association) Foundation wishes you a prosper"
 categories: ["SVCAF"]
 ---
+
 
 Celebrate the Lunar New Year with the Silicon Valley Chinese Association! Celebrate our 10-year journey serving the community!
 

@@ -2,9 +2,9 @@
 title: "随着向每位选民邮寄选票，加州选举的廉正性受到威胁"
 date: 2020-07-10T06:06:28
 slug: california-election-integrity-in-jeopardy-with-vote-by-mail-ballots-to-every-voter
-description: "California Election Integrity in Jeopardy With Vote-by-Mail Ballots to Every Voter 随着向每位选民邮寄选票，加州选举的廉正性受到威胁 13 California counties now have more registered voters than eligible citizens 加州13个县目前登记的选民多"
 categories: ["SVCAF"]
 ---
+
 
 ### **California Election Integrity in Jeopardy With Vote-by-Mail Ballots to Every Voter**
 

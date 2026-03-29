@@ -2,9 +2,9 @@
 title: "AI4Legislation Seminar #4 Recording and Slides: AI Coding Tools for Beginners "
 date: 2025-06-26T08:16:43
 slug: seminar-4-recording-ai-coding-tools-for-beginners
-description: "Another exciting AI4Legislation seminar hosted by SVCAF! This event is designed to energize our ongoing competition community and welcome new faces interested in the intersection of AI and civic innov"
 categories: ["SVCAF"]
 ---
+
 
 Another exciting AI4Legislation seminar hosted by SVCAF! This event is designed to energize our ongoing competition community and welcome new faces interested in the intersection of AI and civic innovation. 
 

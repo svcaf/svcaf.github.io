@@ -4,9 +4,9 @@ date: 2025-02-09T11:48:41
 slug: call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action
 aliases:
   - "/2025/02/call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action/"
-description: "AI4Legislation: Using AI to Enhance Civic Awareness and Action A Project by Silicon Valley Chinese Association Foundation (SVCAF) Introduction The Silicon Valley Chinese Association Foundation (SVCAF)"
 categories: ["SVCAF"]
 ---
+
 
 ### **AI4Legislation: Using AI to Enhance Civic Awareness and Action**
 

@@ -5,9 +5,9 @@ slug: aca-5-is-a-wolf-in-sheeps-clothing
 aliases:
   - "/posts/aca-5-%E4%B8%80%E5%8F%AA%E6%8A%AB%E7%9D%80%E7%BE%8A%E7%9A%AE%E7%9A%84%E7%8B%BC/"
   - "/posts/aca-5-%E4%B8%80%E5%8F%AA%E6%8A%AB%E7%9D%80%E7%BE%8A%E7%9A%AE%E7%9A%84%E7%8B%BC/"
-description: "编者按：Mr. Haibo Huang is one of the recipients of SVCAF’s Voice of Chinese Americans Award. He published an op ed  about ACA-5 in San Diego Union Tribune on June 9th. Here is his unabridged article in b"
 categories: ["SVCAF"]
 ---
+
 
 编者按：Mr. Haibo Huang is one of the recipients of SVCAF’s Voice of Chinese Americans Award. He published an op ed  about ACA-5 in San Diego Union Tribune on June 9th. Here is his unabridged article in both English and Chinese.
 

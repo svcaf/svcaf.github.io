@@ -2,9 +2,9 @@
 title: "SVCA基金会恳请华人社区继续捐款支持SFFA"
 date: 2022-01-25T22:55:06
 slug: svcaf-provides-donation-match-for-sffa
-description: "最近美国最高法院决定受理SFFA (Students For Fair Admissions) vs 哈佛案。作为 SFFA的长期盟友，SVCA基金会理事会召开紧急会议，决定提供2万美元配捐，恳请华人社区继续捐款资助SFFA: https://studentsforfairadmissions.org/donate/ 活动细节：所有从现在开始给 SFFA的捐款，SVCAF都提供1:1配捐 (上限 "
 categories: ["SVCAF"]
 ---
+
 
 最近美国最高法院决定受理SFFA (Students For Fair Admissions) vs 哈佛案。作为 SFFA的长期盟友，SVCA基金会理事会召开紧急会议，决定提供2万美元配捐，恳请华人社区继续捐款资助SFFA: [https://studentsforfairadmissions.org/donate/](https://studentsforfairadmissions.org/donate/)
 

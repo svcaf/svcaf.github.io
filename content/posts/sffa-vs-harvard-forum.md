@@ -2,9 +2,9 @@
 title: "《黎明前的黑暗：哈佛官司的意义和加州的现实》论坛报告"
 date: 2022-06-26T21:55:21
 slug: sffa-vs-harvard-forum
-description: "2022年6月25日，Sunnyvale Theater] SFFA(Student for Fair Admission主席Edward Blum先生到湾区和华人社区研討哈佛訴訟案&教育平等权力的话题。他在會場上報告了哈佛和北卡罗来纳大学歧视亚裔的两个案子的最新信息。这场论坛由硅谷华人协会基金会(SVCAF)，Equal Rights for All PAC (ERFAPAC) 和美国亚裔教育联"
 categories: ["SVCAF"]
 ---
+
 
 [ 2022年6月25日，Sunnyvale Theater] SFFA(Student for Fair Admission主席Edward Blum先生到湾区和华人社区研討哈佛訴訟案&教育平等权力的话题。他在會場上報告了哈佛和北卡罗来纳大学歧视亚裔的两个案子的最新信息。这场论坛由硅谷华人协会基金会(SVCAF)，Equal Rights for All PAC (ERFAPAC) 和美国亚裔教育联盟（AACE） 共同主办，并由AFEPAC, CFER 基金会和圣地亚哥平权会（SDAAE） 赞助。著名民权领袖Ward Connerly先生为大会做了视频演讲，高度赞扬了Blum先生的努力并称ERFAPAC会全力支持这项诉讼。
 

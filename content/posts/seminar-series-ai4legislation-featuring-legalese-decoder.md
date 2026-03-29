@@ -2,10 +2,10 @@
 title: "Seminar Series: AI4Legislation – featuring Legalese Decoder"
 date: 2025-03-24T20:25:14
 slug: seminar-series-ai4legislation-featuring-legalese-decoder
-description: "SVCAF is hosting the first seminar of the AI4Legislation competition on the applications of artificial intelligence in legislation. Join us to interview both the founder of Legalese Decoder and our fo"
 categories: ["SVCAF"]
 tags: ["ai", "ai4legislation", "competition", "legalese decoder", "seminar"]
 ---
+
 
 SVCAF is hosting the first seminar of the AI4Legislation competition on the applications of artificial intelligence in legislation. Join us to interview both the founder of [Legalese Decoder](https://legalesedecoder.com/) and our foundation’s President about how AI is shaping legislation, ethics, and governance.
 

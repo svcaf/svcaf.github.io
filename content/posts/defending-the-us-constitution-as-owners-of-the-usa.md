@@ -2,9 +2,9 @@
 title: "Defending the US Constitution as Owners of the USA"
 date: 2022-11-01T19:50:09
 slug: defending-the-us-constitution-as-owners-of-the-usa
-description: "Unabridged speech transcript for the “Equal Education Rights for All” Rally  By  Mr. Chunhua Liao, VP of SVCAF  In Support of Students for Fair Admissions’s Landmark Lawsuits against Anti-Asian Racism"
 categories: ["SVCAF"]
 ---
+
 
 Unabridged speech transcript for the “Equal Education Rights for All” Rally 
 

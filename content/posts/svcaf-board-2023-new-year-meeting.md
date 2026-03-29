@@ -2,9 +2,9 @@
 title: "硅谷华人协会基金会新老理事2023新年茶话会"
 date: 2023-02-12T22:09:45
 slug: svcaf-board-2023-new-year-meeting
-description: "2023 年2月12 日，星期天，中午，硅谷华人协会基金会的部分新老理事在Fremont举行疫情以来的第一次新年茶话会。大家回顾过去，计划新年的工作。特邀嘉宾Catharine Baker也应邀参加。"
 categories: ["SVCAF"]
 ---
+
 
 2023 年2月12 日，星期天，中午，硅谷华人协会基金会的部分新老理事在Fremont举行疫情以来的第一次新年茶话会。
 

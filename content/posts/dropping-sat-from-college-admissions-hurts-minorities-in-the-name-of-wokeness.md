@@ -2,9 +2,9 @@
 title: "以“觉醒”为名，大学录取程序取消SAT成绩将伤害少数族裔"
 date: 2020-07-08T06:13:54
 slug: dropping-sat-from-college-admissions-hurts-minorities-in-the-name-of-wokeness
-description: "Dropping SAT from college admissions hurts minorities in the name of wokeness 以“觉醒”为名，大学录取程序取消SAT成绩将伤害少数族裔 by Kenny Xu May 22, 2020 02:55 PM 【译者注：Kenny Xu is another recipient of SVCAF’s Voice of Chin"
 categories: ["SVCAF"]
 ---
+
 
 [Dropping SAT from college admissions hurts minorities in the name of wokeness](https://www.washingtonexaminer.com/opinion/dropping-sat-from-college-admissions-hurts-minorities-in-the-name-of-wokeness)
 

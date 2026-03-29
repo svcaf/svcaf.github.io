@@ -2,10 +2,10 @@
 title: "SVCAF Calls for Donations to Election Integrity Project ® California"
 date: 2022-12-11T22:11:34
 slug: svcaf-calls-for-donations-to-election-integrity-project-californiaeipca
-description: "SVCA 基金会恳请大家捐款支持Election Integrity Project® California (EIPCa)，捍卫加州选举的公正性, 基金会提供2000美元配捐。Election Integrity Project® California (EIPCa) 是一个由美国公民志愿者组成的无党派团体，旨在通过保护我们的自由和方式的投票过程的完整性来履行我们积极参与我们州/国家治理的责任。"
 categories: ["SVCAF"]
 tags: ["election integrity"]
 ---
+
 
 SVCA 基金会恳请大家捐款支持Election Integrity Project® California (EIPCa)，捍卫加州选举的公正性, 基金会提供2000美元配捐。
 

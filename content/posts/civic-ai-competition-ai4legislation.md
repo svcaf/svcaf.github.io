@@ -2,9 +2,9 @@
 title: "AI4Legislation: AI for Civic Awareness and Action"
 date: 2025-02-02T11:17:45
 slug: civic-ai-competition-ai4legislation
-description: "The Silicon Valley Chinese Association Foundation (SVCAF) is a non-profit organization dedicated to empowering civic engagement, particularly within Chinese American communities. We believe in leverag"
 categories: ["SVCAF"]
 ---
+
 
 The Silicon Valley Chinese Association Foundation (SVCAF) is a non-profit organization dedicated to empowering civic engagement, particularly within Chinese American communities. We believe in leveraging technology to bridge the gap between citizens and legislative processes.
 

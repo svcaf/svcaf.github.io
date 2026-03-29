@@ -2,9 +2,9 @@
 title: "Webinar Recap: AI Programming for Data Analysis with Mr. Leon Guo"
 date: 2025-06-09T18:52:45
 slug: webinar-recap-ai-programming-for-data-analysis-with-mr-leon-guo
-description: "AI4Legislation held its 3rd webinar last Sunday, June 8 2025, featuring an LLM expert from the East Coast: Mr. Leon Guo! Leon discussed various aspects of AI language models, including their capabilit"
 categories: ["SVCAF"]
 ---
+
 
 AI4Legislation held its 3rd webinar last Sunday, June 8 2025, featuring an LLM expert from the East Coast: Mr. Leon Guo! Leon discussed various aspects of AI language models, including their capabilities, limitations, and applications in coding and data analysis. We also explored AI tools, data scraping techniques, and the potential of AI agents, concluding with discussions on project ideas and resources for model selection.
 

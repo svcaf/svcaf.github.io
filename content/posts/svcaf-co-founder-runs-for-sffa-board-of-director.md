@@ -2,9 +2,9 @@
 title: "SVCAF Co-Founder Chunhua Liao Runs for SFFA Board of Directors"
 date: 2019-12-08T22:04:43
 slug: svcaf-co-founder-runs-for-sffa-board-of-director
-description: "As a long-time supporter of SFFA and true believer in the equal protection clause of the US Constitution, Chunhua Liao, a Co-Founder of SVCAF, is now running for SFFA Board of Directors to help SFFA a"
 categories: ["SVCAF"]
 ---
+
 
 As a long-time supporter of SFFA and true believer in the equal protection clause of the US Constitution, Chunhua Liao, a Co-Founder of SVCAF, is now running for SFFA Board of Directors to help SFFA accomplish its mission further and fight for equal education rights for all students.
 

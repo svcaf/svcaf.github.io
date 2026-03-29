@@ -49,9 +49,9 @@ pagerSize = 5
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 10
   [[menu.main]]
     identifier = "programs"
@@ -73,6 +73,11 @@ pagerSize = 5
     name = "Contact"
     url = "/contact/"
     weight = 50
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 60
 
 [taxonomies]
   category = "categories"

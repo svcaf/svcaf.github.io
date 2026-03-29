@@ -1,0 +1,74 @@
+name: YouTube Embed Check
+
+on:
+  push:
+    branches: [main]
+    paths: ['content/**']
+  pull_request:
+    branches: [main]
+    paths: ['content/**']
+
+jobs:
+  check-youtube:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for broken YouTube references
+        run: |
+          echo "🎬 Scanning content for YouTube rendering issues..."
+          ERRORS=0
+
+          # 1. WordPress [hb_video] shortcodes (never render in Hugo)
+          if grep -rn '\[hb_video' content/; then
+            echo "❌ FAIL: Found WordPress [hb_video] shortcodes — these don't render in Hugo."
+            echo "   Fix: Replace with {{< youtube \"VIDEO_ID\" >}}"
+            ERRORS=$((ERRORS + 1))
+          else
+            echo "✅ No [hb_video] shortcodes"
+          fi
+
+          # 2. WordPress [embed] shortcodes
+          if grep -rn '\[embed\]' content/; then
+            echo "❌ FAIL: Found WordPress [embed] shortcodes — these don't render in Hugo."
+            echo "   Fix: Replace with {{< youtube \"VIDEO_ID\" >}} or a markdown link"
+            ERRORS=$((ERRORS + 1))
+          else
+            echo "✅ No [embed] shortcodes"
+          fi
+
+          # 3. Raw <iframe> YouTube embeds (won't render — Hugo strips raw HTML by default)
+          if grep -rn '<iframe.*youtube' content/ --include='*.md'; then
+            echo "❌ FAIL: Found raw <iframe> YouTube embeds — Hugo strips raw HTML in markdown."
+            echo "   Fix: Replace with {{< youtube \"VIDEO_ID\" >}}"
+            ERRORS=$((ERRORS + 1))
+          else
+            echo "✅ No raw iframe YouTube embeds"
+          fi
+
+          # 4. Bare YouTube URLs on their own line (won't auto-embed like WordPress)
+          if grep -rPn '^\s*https?://(www\.)?(youtube\.com/watch|youtu\.be/)' content/ --include='*.md'; then
+            echo "⚠️  WARNING: Found bare YouTube URLs on their own line — Hugo won't auto-embed these."
+            echo "   Consider: Replace with {{< youtube \"VIDEO_ID\" >}} for embedded player"
+            echo "   (Not blocking — bare URLs still display as text)"
+          else
+            echo "✅ No bare YouTube URLs on own line"
+          fi
+
+          # 5. Hugo youtube shortcode with full URL instead of just ID
+          if grep -rPn '{{<\s*youtube\s+"https?://' content/ --include='*.md'; then
+            echo "❌ FAIL: Hugo youtube shortcode should use VIDEO_ID only, not full URL."
+            echo "   Fix: {{< youtube \"dQw4w9WgXcQ\" >}} not {{< youtube \"https://...\" >}}"
+            ERRORS=$((ERRORS + 1))
+          else
+            echo "✅ YouTube shortcodes use correct ID format"
+          fi
+
+          if [ "$ERRORS" -gt 0 ]; then
+            echo ""
+            echo "💥 Found $ERRORS YouTube rendering issue(s). Please fix before merging."
+            exit 1
+          fi
+
+          echo ""
+          echo "🎉 All YouTube embeds look good!"

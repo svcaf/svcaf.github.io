@@ -1,0 +1,209 @@
+name: Content Quality Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  content-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: "1. Broken frontmatter (metadata leaking into page)"
+        run: |
+          echo "🔍 Checking for duplicate/malformed frontmatter..."
+          ERRORS=0
+          # Frontmatter should appear exactly once (between first two ---)
+          # If "---" appears 3+ times, content may have duplicate frontmatter
+          for f in $(find content -name '*.md'); do
+            count=$(grep -c '^---$' "$f" 2>/dev/null || echo 0)
+            if [ "$count" -gt 2 ]; then
+              echo "❌ $f: Found $count '---' delimiters (expected 2). Possible duplicate frontmatter."
+              ERRORS=$((ERRORS + 1))
+            fi
+            # Check for frontmatter keys appearing in body (after 2nd ---)
+            body=$(awk '/^---$/{n++; next} n>=2' "$f")
+            if echo "$body" | head -3 | grep -qP '^(aliases|slug|type|date|draft|weight):'; then
+              echo "❌ $f: Frontmatter keys found in page body — likely duplicate/malformed frontmatter."
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ All frontmatter valid"; fi
+          exit $ERRORS
+
+      - name: "2. WordPress shortcodes (won't render in Hugo)"
+        if: always()
+        run: |
+          echo "🔍 Checking for WordPress shortcodes..."
+          ERRORS=0
+          WP_SHORTCODES='hb_video|embed|vc_row|vc_column|vc_column_text|ninja_form|ninja_forms|caption|gallery|audio|playlist|title_description'
+          for f in $(find content -name '*.md'); do
+            # Skip front matter
+            body=$(awk '/^---$/{n++; next} n>=2' "$f")
+            matches=$(echo "$body" | grep -oP "\[/?($WP_SHORTCODES)" || true)
+            if [ -n "$matches" ]; then
+              echo "❌ $f: WordPress shortcode found: $matches"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ No WordPress shortcodes"; fi
+          exit $ERRORS
+
+      - name: "3. Junk/placeholder content (lorem ipsum, test pages)"
+        if: always()
+        run: |
+          echo "🔍 Checking for placeholder content..."
+          ERRORS=0
+          JUNK_PATTERNS='lorem ipsum|dolor sit amet|consectetur adipisicing|Ut enim ad minim|title_description.*people we employ|This is a dummy'
+          for f in $(find content -name '*.md'); do
+            body=$(awk '/^---$/{n++; next} n>=2' "$f")
+            match=$(echo "$body" | grep -iP "$JUNK_PATTERNS" | head -1 || true)
+            if [ -n "$match" ]; then
+              echo "⚠️  $f: Possible placeholder content: $(echo "$match" | head -c 80)"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ No placeholder content found"; fi
+          if [ "$ERRORS" -gt 0 ]; then
+            echo "💡 Found $ERRORS file(s) with possible junk content. Review and remove."
+            exit 1
+          fi
+
+      - name: "4. Redundant description leak (description repeating in body)"
+        if: always()
+        run: |
+          echo "🔍 Checking for description metadata leaking into page..."
+          ERRORS=0
+          for f in $(find content -name '_index.md' -o -name '*.md' | head -200); do
+            desc=$(awk '/^---$/{n++} n==1 && /^description:/{gsub(/^description:\s*"?|"?\s*$/,""); print}' "$f")
+            if [ -n "$desc" ] && [ ${#desc} -gt 20 ]; then
+              body=$(awk '/^---$/{n++; next} n>=2' "$f")
+              if echo "$body" | head -5 | grep -qF "$desc"; then
+                echo "⚠️  $f: 'description' frontmatter is repeated verbatim in body text"
+                ERRORS=$((ERRORS + 1))
+              fi
+            fi
+          done
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ No description leaks"; fi
+          [ "$ERRORS" -gt 0 ] && exit 1 || true
+
+      - name: "5. Stale references (forms, features that don't exist on static site)"
+        if: always()
+        run: |
+          echo "🔍 Checking for stale WordPress references..."
+          ERRORS=0
+          STALE_PATTERNS='fill in the form|submit.* form below|leave a comment|log ?in to|wp-login|wp-admin'
+          for f in $(find content -name '*.md'); do
+            body=$(awk '/^---$/{n++; next} n>=2' "$f")
+            match=$(echo "$body" | grep -iP "$STALE_PATTERNS" | head -1 || true)
+            if [ -n "$match" ]; then
+              echo "⚠️  $f: Stale reference: $(echo "$match" | head -c 100)"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ No stale references"; fi
+          [ "$ERRORS" -gt 0 ] && exit 1 || true
+
+      - name: "6. Raw HTML that Hugo will strip (iframes, scripts, forms)"
+        if: always()
+        run: |
+          echo "🔍 Checking for raw HTML that Hugo strips by default..."
+          ERRORS=0
+          for f in $(find content -name '*.md'); do
+            body=$(awk '/^---$/{n++; next} n>=2' "$f")
+            # iframes (YouTube, etc)
+            if echo "$body" | grep -qP '<iframe'; then
+              echo "❌ $f: Raw <iframe> found — Hugo strips this. Use a shortcode instead."
+              ERRORS=$((ERRORS + 1))
+            fi
+            # script tags
+            if echo "$body" | grep -qP '<script'; then
+              echo "❌ $f: Raw <script> found — Hugo strips this."
+              ERRORS=$((ERRORS + 1))
+            fi
+            # form tags
+            if echo "$body" | grep -qP '<form'; then
+              echo "❌ $f: Raw <form> found — Hugo strips this. Forms don't work on static sites."
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          if [ "$ERRORS" -eq 0 ]; then echo "✅ No raw HTML that would be stripped"; fi
+          [ "$ERRORS" -gt 0 ] && exit 1 || true
+
+      - name: "7. Broken internal links (pointing to non-existent content)"
+        if: always()
+        run: |
+          echo "🔍 Checking internal links..."
+          ERRORS=0
+          # Extract all internal markdown links and check they resolve
+          for f in $(find content -name '*.md'); do
+            body=$(awk '/^---$/{n++; next} n>=2' "$f")
+            # Find markdown links to internal paths: [text](/path/)
+            links=$(echo "$body" | grep -oP '\]\(/[^)]+\)' | grep -oP '/[^)]+' || true)
+            for link in $links; do
+              # Strip anchors and trailing slashes
+              clean=$(echo "$link" | sed 's/#.*//; s/\/$//')
+              # Skip known special paths
+              case "$clean" in
+                /wp-content/*|/images/*|/tags/*|/categories/*) continue ;;
+              esac
+              # Check if content exists for this path
+              if [ -z "$clean" ]; then continue; fi
+              # Look for matching content file or directory
+              found=0
+              for check in "content${clean}.md" "content${clean}/_index.md" "content${clean}/index.md" "content/pages${clean}.md" "content/posts${clean}.md"; do
+                if [ -f "$check" ]; then found=1; break; fi
+              done
+              # Also check Hugo aliases and url frontmatter
+              if [ "$found" -eq 0 ]; then
+                if grep -rq "url: ${clean}" content/ 2>/dev/null || grep -rq "\"${clean}\"" content/ 2>/dev/null; then
+                  found=1
+                fi
+              fi
+              # Static files
+              if [ "$found" -eq 0 ] && [ -f "static${clean}" ]; then found=1; fi
+              if [ "$found" -eq 0 ]; then
+                echo "⚠️  $f: Link to $link may be broken"
+              fi
+            done
+          done
+          echo "✅ Internal link scan complete"
+
+      - name: "8. Menu-title consistency"
+        if: always()
+        run: |
+          echo "🔍 Checking menu items match section titles..."
+          if [ -f hugo.toml ]; then
+            # Extract menu items and their URLs
+            python3 -c "
+import re
+with open('hugo.toml') as f:
+    config = f.read()
+menu_items = re.findall(r'name\s*=\s*\"([^\"]+)\".*?url\s*=\s*\"([^\"]+)\"', config, re.DOTALL)
+for name, url in menu_items:
+    if url == '/':
+        continue
+    # Find the content file for this URL
+    import os
+    candidates = [
+        f'content{url}_index.md',
+        f'content{url.rstrip(\"/\")}.md',
+        f'content{url.rstrip(\"/\")}/_index.md',
+        f'content/pages{url.rstrip(\"/\")}.md',
+    ]
+    for c in candidates:
+        if os.path.exists(c):
+            with open(c) as cf:
+                content = cf.read()
+            title_match = re.search(r'^title:\s*\"?([^\"\\n]+)\"?', content, re.MULTILINE)
+            if title_match:
+                page_title = title_match.group(1).strip()
+                if page_title.lower() != name.lower():
+                    print(f'⚠️  Menu \"{name}\" → {url} but page title is \"{page_title}\"')
+            break
+print('✅ Menu-title check complete')
+"
+          fi

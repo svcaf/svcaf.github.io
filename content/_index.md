@@ -12,12 +12,4 @@ title: "Home"
 
 ---
 
-### 💛 Support Our Mission
-
-Your donation helps us continue our work in education, civic engagement, and community empowerment.
-
-[**Donate Now →**](/donate/)
-
----
-
 ## Latest News

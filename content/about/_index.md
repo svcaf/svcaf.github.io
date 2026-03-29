@@ -16,7 +16,7 @@ Elected at the Board of Directors meeting on December 1, 2024.
 | President | Chunhua Liao |
 | Vice President | Jeff Tang |
 | Vice President | Bu He (Emily He) |
-| Secretary | Tony Guan |
+| Secretary | Jason Xu |
 | Treasurer | Cheney Gao |
 
 ---

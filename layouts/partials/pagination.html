@@ -1,0 +1,34 @@
+{{- $pag := $.Paginator -}}
+{{- if gt $pag.TotalPages 1 -}}
+<nav class="pagination">
+  {{- if $pag.HasPrev -}}
+  <a class="prev" href="{{ $pag.Prev.URL }}">« Prev</a>
+  {{- end -}}
+
+  {{- $adjacent := 2 -}}
+  {{- $start := math.Max 1 (sub $pag.PageNumber $adjacent) -}}
+  {{- $end := math.Min $pag.TotalPages (add $pag.PageNumber $adjacent) -}}
+
+  {{- if gt $start 1 -}}
+  <a href="{{ (index $pag.Pagers 0).URL }}">1</a>
+  {{- if gt $start 2 -}}<span class="page-dots">…</span>{{- end -}}
+  {{- end -}}
+
+  {{- range $i := seq $start $end -}}
+  {{- if eq $i $pag.PageNumber -}}
+  <span class="page-current">{{ $i }}</span>
+  {{- else -}}
+  <a href="{{ (index $pag.Pagers (sub $i 1)).URL }}">{{ $i }}</a>
+  {{- end -}}
+  {{- end -}}
+
+  {{- if lt $end $pag.TotalPages -}}
+  {{- if lt (add $end 1) $pag.TotalPages -}}<span class="page-dots">…</span>{{- end -}}
+  <a href="{{ (index $pag.Pagers (sub $pag.TotalPages 1)).URL }}">{{ $pag.TotalPages }}</a>
+  {{- end -}}
+
+  {{- if $pag.HasNext -}}
+  <a class="next" href="{{ $pag.Next.URL }}">Next »</a>
+  {{- end -}}
+</nav>
+{{- end -}}

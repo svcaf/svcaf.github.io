@@ -34,14 +34,12 @@ Leveraging AI technology to help citizens track, understand, and engage with leg
 
 ---
 
-### Latest News
-
-Check out our [latest posts](/posts/) for news, events, and updates.
-
----
-
-### Support Our Mission
+### 💛 Support Our Mission
 
 Your donation helps us continue our work in education, civic engagement, and community empowerment.
 
 [**Donate Now →**](/donate/)
+
+---
+
+## Latest News

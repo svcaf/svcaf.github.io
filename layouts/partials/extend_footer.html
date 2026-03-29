@@ -1,3 +1,64 @@
+{{- if (or .IsHome (eq .Kind "section")) }}
+<script>
+(function() {
+  var postList = document.querySelector('#main');
+  if (!postList) return;
+
+  // Find and hide the static pagination footer
+  var pageFooter = document.querySelector('.page-footer');
+  if (pageFooter) pageFooter.style.display = 'none';
+
+  var nextUrl = null;
+  var loading = false;
+  var done = false;
+
+  // Find next page URL from the hidden pagination
+  var nextLink = document.querySelector('.pagination .next');
+  if (nextLink) nextUrl = nextLink.href;
+  if (!nextUrl) return; // only one page, nothing to do
+
+  // Sentinel element placed after last post
+  var sentinel = document.createElement('div');
+  sentinel.id = 'scroll-sentinel';
+  sentinel.style.height = '80px';
+  postList.appendChild(sentinel);
+
+  function loadMore() {
+    if (loading || done || !nextUrl) return;
+    loading = true;
+
+    fetch(nextUrl)
+      .then(function(r) { return r.text(); })
+      .then(function(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+        var articles = doc.querySelectorAll('article.post-entry, article.first-entry');
+
+        articles.forEach(function(article) {
+          // Normalise first-entry to post-entry on loaded pages
+          article.classList.remove('first-entry');
+          article.classList.add('post-entry');
+          postList.insertBefore(article, sentinel);
+        });
+
+        // Advance to next-next page
+        var nextNext = doc.querySelector('.pagination .next');
+        nextUrl = nextNext ? nextNext.href : null;
+        if (!nextUrl) done = true;
+        loading = false;
+      })
+      .catch(function() { loading = false; });
+  }
+
+  var observer = new IntersectionObserver(function(entries) {
+    if (entries[0].isIntersecting) loadMore();
+  }, { rootMargin: '200px' });
+
+  observer.observe(sentinel);
+})();
+</script>
+{{- end }}
+
 {{- with site.Params.socialIcons }}
 <div class="footer-social">
   {{- range . }}

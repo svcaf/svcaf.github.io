@@ -1,0 +1,22 @@
+/* Make first post entry look the same as other post entries */
+.first-entry {
+    position: relative;
+    display: block;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: var(--entry);
+    transition: transform 0.1s;
+    font-size: 14px;
+    min-height: auto;
+}
+
+.first-entry .entry-header h2 {
+    font-size: 24px;
+}
+
+.first-entry .entry-content {
+    max-height: 75px;
+    overflow: hidden;
+}

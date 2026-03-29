@@ -1,11 +1,8 @@
 ---
 title: "About Us"
 date: 2015-05-09T01:30:31
-slug: about-us
+slug: about
 type: page
-aliases:
-  - "/about-us/"
----
 aliases:
   - "/about-us/"
 ---

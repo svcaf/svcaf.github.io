@@ -2,6 +2,7 @@
 title: "Education"
 date: 2016-02-24T05:15:01
 slug: education
+url: /programs/education/
 type: page
 ---
 

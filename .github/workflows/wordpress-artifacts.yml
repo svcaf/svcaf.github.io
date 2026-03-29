@@ -99,9 +99,3 @@ jobs:
             echo "Fix: Remove the flagged CSS/JS/shortcodes/WeChat code before merging."
             exit 1
           fi
-      - name: "Notify Discord on failure"
-        if: failure()
-        run: |
-          curl -s -X POST "${{ secrets.DISCORD_WEBHOOK }}" \
-            -H "Content-Type: application/json" \
-            -d "{\"content\": \"🚨 **GitHub CI FAILED**\\n**Workflow:** ${{ github.workflow }}\\n**Commit:** \`$(echo ${{ github.sha }} | cut -c1-7)\` — ${{ github.event.head_commit.message }}\\n**Logs:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"

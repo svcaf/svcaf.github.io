@@ -66,11 +66,6 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <h2>🏛️ Civic Engagement &amp; Community Service</h2>
 <div class="gallery-grid">
 
-<div class="gallery-item" data-caption="SVCAF leaders present a hand-crafted calligraphy banner to a California state official at the 2017 Annual Gala, celebrating civic partnership and community recognition.">
-<img src="/images/slide-23.jpg" loading="lazy" alt="Calligraphy Banner Presentation">
-<div class="gallery-caption-overlay">Presenting SVCAF Calligraphy Banner to State Official, 2017</div>
-</div>
-
 <div class="gallery-item" data-caption="An SVCAF volunteer delivers PPE and care packages to a USPS mail carrier during the COVID-19 pandemic, 2020. SVCAF organized donations for frontline workers across Silicon Valley.">
 <img src="/images/slide-16.jpg" loading="lazy" alt="PPE Donation to Frontline Workers">
 <div class="gallery-caption-overlay">PPE Donation to Frontline Workers, 2020</div>

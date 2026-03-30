@@ -19,10 +19,6 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <div class="gallery-caption-overlay">Boston Rally Against Harvard Admissions Discrimination, 2018</div>
 </div>
 
-<div class="gallery-item" data-caption="Protesters gather outside a courthouse holding 'Fair Admissions' signs, calling for an end to racial stereotyping and discriminatory quota systems in university admissions, 2018.">
-<img src="/images/gallery-g6.jpg" loading="lazy" alt="Fair Admissions Protest 2018">
-<div class="gallery-caption-overlay">Fair Admissions Protest — End Racial Stereotyping, 2018</div>
-</div>
 
 <div class="gallery-item" data-caption="SVCAF and community leaders gather for a group photo outside the Ed Blum Forum venue, 2018 — a landmark community event on college admissions fairness and Asian American civil rights.">
 <img src="/images/gallery-g20.jpg" loading="lazy" alt="Ed Blum Forum Group Photo 2018">

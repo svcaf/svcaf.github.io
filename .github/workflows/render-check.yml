@@ -1,0 +1,51 @@
+name: Render Quality Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 11 * * 1'   # Every Monday 11am UTC (after integrity scan at 10am)
+  workflow_dispatch:
+
+jobs:
+  render-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Hugo
+        run: hugo --minify
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run render quality check
+        run: python scripts/render-check.py --report --dir public/
+
+      - name: Post summary
+        if: always()
+        run: |
+          if [ -f render-report.md ]; then
+            echo "### 🎨 Render Quality Check" >> $GITHUB_STEP_SUMMARY
+            cat render-report.md >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-report-${{ github.run_number }}
+          path: render-report.md

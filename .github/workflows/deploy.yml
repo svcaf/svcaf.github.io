@@ -44,6 +44,14 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Run render quality check (warnings only, non-blocking)
+        run: |
+          python scripts/render-check.py --report --dir public/ || true
+          if [ -f render-report.md ]; then
+            echo "### Render Quality Results" >> $GITHUB_STEP_SUMMARY
+            cat render-report.md >> $GITHUB_STEP_SUMMARY
+          fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

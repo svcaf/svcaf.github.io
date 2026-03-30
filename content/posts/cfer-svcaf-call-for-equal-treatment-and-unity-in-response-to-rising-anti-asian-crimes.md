@@ -3,7 +3,7 @@ title: "CFER, SVCAF Call for Equal Treatment and Unity in Response to Rising Ant
 date: 2021-02-15T06:37:55
 tags: ['anti-discrimination', 'chinese-american', 'advocacy']
 slug: cfer-svcaf-call-for-equal-treatment-and-unity-in-response-to-rising-anti-asian-crimes
-description: "For Immediate ReleaseFebruary 14, 2021 SAN DIEGO, CA – February 14, 2021- Californians for Equal Rights (CFER) and Silicon Valley Chinese Association Foundation (SVCAF) jointly condemn the recent surg"
+description: "CFER and SVCAF call for equal treatment and unity in response to rising anti-Asian hate crimes."
 categories: ["SVCAF"]
 ---
 

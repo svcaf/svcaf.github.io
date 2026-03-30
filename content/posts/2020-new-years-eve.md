@@ -3,7 +3,7 @@ title: "2020新年伊始，SVCA 基金会祝您元旦快乐，健康平安！"
 date: 2020-03-09T00:27:53
 tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: 2020-new-years-eve
-description: "回顾2019年，SVCAF在会员和各界朋友支持下，开展了一些服务社区的义工工作，例如： 1. 继续与AACE (Asian American Coalition for Education)大力合作，向AACE捐款 $5000； 2. 继续支持SFFA为亚裔争取平等教育权利的奋争，组织支持SFFA的配捐活动，SVCAF配捐$10,000，社区捐助额 $13,865； 3. 协助 American"
+description: "SVCAF 2019年度总结：支持SFFA诉讼、反对I-1000、举办论文大赛及社区活动。"
 categories: ["SVCAF"]
 ---
 

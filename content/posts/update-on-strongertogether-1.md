@@ -5,7 +5,7 @@ tags: ['healthcare', 'community-action', 'volunteer']
 slug: update-on-strongertogether-1
 aliases:
   - "/pages/update-on-strongertogether-1/"
-description: "[IMPORTANT update on Free Masks for Seniors ] Up till 4/10 17:08, all of our existing available masks are all donated out, including the masks for seniors. Thus we are pausing the online request and d"
+description: "Update on StrongerTogether campaign: community responses and ongoing advocacy efforts."
 categories: ["SVCAF"]
 ---
 

@@ -3,7 +3,7 @@ title: "学区赔偿亚裔学生66.5万美元案件的来龙去脉"
 date: 2020-04-23T00:33:24
 tags: ['legal-rights', 'community-action', 'legislation']
 slug: nate-case
-description: "编者按：圣拉蒙山谷联合学区（San Ramon Valley Unified School District）最近赔偿亚裔学生65万美元的案子在本地引起巨大反响。Nextdoor上邻居们七嘴八舌争论不休。很多不明真相的群众认为受害者家庭滥用诉讼让学区就范，舆论一时对亚裔受害者家庭非常不利。SVCAF三年里一直跟受害者一家保持联系，了解其中艰辛。幸好有真正花时间阅读法庭公开文件的居民写了案件的总结。"
+description: "Nate's case highlights challenges in school discipline and advocacy for fair treatment."
 categories: ["SVCAF"]
 ---
 

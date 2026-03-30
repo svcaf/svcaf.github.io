@@ -6,7 +6,7 @@ slug: strongertogether
 aliases:
   - "/pages/strongertogether/"
   - "/strongertogether/"
-description: "Project #StrongerTogether To alleviate the extreme shortage of personal protective equipment for healthcare professionals and public service workers, Silicon Valley Chinese Association Foundation has "
+description: "StrongerTogether initiative promotes unity and action against anti-Asian discrimination."
 categories: ["SVCAF"]
 ---
 

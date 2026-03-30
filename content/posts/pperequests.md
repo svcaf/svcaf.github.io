@@ -5,7 +5,7 @@ tags: ['healthcare', 'community-action', 'volunteer']
 slug: pperequests
 aliases:
   - "/pages/pperequests/"
-description: "We will need your: 0. To be a California based hospital, senior center or essential local business. 1. Legal Disclaimer (liability release form) 2. Verifiable Title and Contacts 3.Receipt 4.Pictures w"
+description: "How to file public records requests under California Public Records Act for transparency."
 categories: ["SVCAF"]
 ---
 

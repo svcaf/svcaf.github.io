@@ -5,7 +5,7 @@ tags: ['education-policy', 'volunteer', 'svcaf-news']
 slug: jason-lu
 aliases:
   - "/pages/jason-lu/"
-description: "by 贺全,  照片: Jenny,  整理： Liao （欢迎转发） 这次职场经验讲座是由贺全牵头组织义工举办。邀请了二十多年FinTech退休高管陆先生为给职场的朋友们介绍些经验，建立些联系，以后可以互相帮助，互通信息，乃至互相提携。改变我们自己的一些习惯，提高自己，也在探讨之列。 SVCA基金会资助$500买了pizza, 方便中午参加讲座的嘉宾，义工和听众。 笔记正文 – 专业 vs 职业"
+description: "Jason Lu's story: overcoming adversity to advocate for educational equity and youth empowerment."
 categories: ["SVCAF"]
 ---
 

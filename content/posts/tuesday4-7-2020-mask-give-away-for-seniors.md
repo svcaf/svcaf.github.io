@@ -5,7 +5,7 @@ tags: ['healthcare', 'community-action', 'volunteer']
 slug: tuesday4-7-2020-mask-give-away-for-seniors
 aliases:
   - "/pages/tuesday4-7-2020-mask-give-away-for-seniors/"
-description: "[IMPORTANT on Free Masks for Seniors ] Up till 4/10 17:08, all of our existing available masks are all donated out, including the masks for seniors. Thus we are pausing the online request and delivery"
+description: "SVCAF organizes mask giveaway for seniors on April 7, 2020, during COVID-19 pandemic."
 categories: ["SVCAF"]
 ---
 

@@ -3,7 +3,7 @@ title: "加州公投捐款的相关法律法规初探 v 0.1"
 date: 2020-07-15T07:15:36
 tags: ['election-law', 'volunteer', 'legislation']
 slug: ca-political-donations
-description: "本文短链接： http://tinyurl.com/ca-political-donations  选举季节马上到了，华人参政议政很是热闹，今年加州选举有不少公投 (ballot measure)。不少朋友或者组织有计划或者已经捐款。 不过加州对竞选/公投的捐款管理十分严格，有必要大家一起探讨相关法规的常识性知识。本文抛砖引玉，信息有误不负担任何法律责任。真正的实施，涉及更多的每年都变化的细节，也"
+description: "Guide to tracking political donations in California using public disclosure databases."
 categories: ["SVCAF"]
 ---
 

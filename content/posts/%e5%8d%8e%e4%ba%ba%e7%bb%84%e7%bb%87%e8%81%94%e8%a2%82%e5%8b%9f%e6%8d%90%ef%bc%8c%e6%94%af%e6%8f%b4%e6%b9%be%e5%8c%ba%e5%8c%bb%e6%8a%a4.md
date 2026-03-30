@@ -3,7 +3,7 @@ title: "华人组织联袂募捐，支援湾区医护!"
 date: 2020-03-22T23:06:47
 tags: ['healthcare', 'community-action', 'volunteer']
 slug: "华人组织联袂募捐，支援湾区医护"
-description: "https://mp.weixin.qq.com/s/b296ImNgZ4yvH_2fRIMt5Q 最近几周，我们亲眼目睹了新型冠状病毒转移攻击目标，从中国转向全世界。从各种媒体报道我们得知一些医疗防卫物资PPE （Personal Protective Equipment）的短缺让在病毒面前裸奔的医疗工作者受到生命的威胁。短缺的物资包括医用口罩，防护衣等，短缺现象在全国大范围内出现。大难当头人性"
+description: "湾区华人组织联合募捐，为抗疫一线医护人员筹集医用口罩和防护装备。"
 categories: ["SVCAF"]
 ---
 

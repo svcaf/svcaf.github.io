@@ -3,7 +3,7 @@ title: "Boston Rally Live"
 date: 2018-10-13T19:42:17
 tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: bostonrally
-description: "Click here to Watch the LIVESTEAM The Historical Rally of Thousands of Asian Americans at the Boston Copley Square Supporting SFFA’s legal fight against Harvard   The link will be posted at round 11:4"
+description: "Boston rally supports Harvard lawsuit challenging race-based admissions discrimination."
 categories: ["SVCAF"]
 ---
 

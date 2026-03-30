@@ -3,7 +3,7 @@ title: "请致信给圣县选务处禁止对Under Vote进行人工裁决"
 date: 2022-12-23T11:08:59
 tags: ['election-integrity', 'advocacy', 'election-law']
 slug: svcaf-calls-for-santa-clara-voters-to-oppose-unjustified-voting-adjudication-cn
-description: "选举过程的正义，是美国民主制度的保障，是选民对美国政治制度的信心所在，这高于任何的政治党派和团体的利益，我们硅谷华人协会基金会强烈建议所有圣县的注册选民都行动起来，督促Santa Clara County ROV做正确的事：停止对Under Vote进行人工干预！"
+description: "SVCAF呼吁圣塔克拉拉选民反对不合理的选票裁决程序。"
 categories: ["SVCAF"]
 ---
 

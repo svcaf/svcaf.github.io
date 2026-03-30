@@ -3,7 +3,7 @@ title: "A Forum with Edward Blum"
 date: 2015-05-01T06:46:56
 tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: a-forum-with-edward-blum
-description: "Register: http://tinyurl.com/blum530  Donate: donations@svcaf.org via Paypal"
+description: "SVCAF hosts Edward Blum to discuss Harvard admissions lawsuit and affirmative action challenges."
 categories: ["SVCAF"]
 ---
 

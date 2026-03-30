@@ -3,7 +3,7 @@ title: "End Racial Discrimination: Lawsuit at Critical Juncture"
 date: 2018-06-21T11:02:48
 tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: end-racial-discrimination-lawsuit-at-critical-juncture
-description: "Dear Friends, For decades, Harvard and many other elite universities have been discriminating against Asian American students, just as they did to Jewish students in the 1920s and 30s. Students For Fa"
+description: "Harvard admissions lawsuit reaches critical juncture as Supreme Court prepares to rule."
 categories: ["SVCAF"]
 ---
 Dear Friends,

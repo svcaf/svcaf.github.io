@@ -3,7 +3,7 @@ title: "My Rebuttal to “Don’t use Asian Americans to justify anti-affirmativ
 date: 2017-08-05T22:18:45
 tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: my-rebuttal-to-dont-use-asian-americans-to-justify-anti-affirmative-action-politics
-description: "Chunhua Liao https://www.washingtonpost.com/news/posteverything/wp/2017/08/03/dont-use-asian-americans-to-justify-anti-affirmative-action-politics/?from=groupmessage&utm_term=.cbe00b3d3ea8 Many Thanks"
+description: "Rebuttal to claims that Asian Americans are misused in affirmative action debates."
 categories: ["SVCAF"]
 ---
 

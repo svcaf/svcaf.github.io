@@ -3,7 +3,7 @@ title: "Recap: Community Information Session on the Children’s Educational Opp
 date: 2025-09-28T21:57:50
 tags: ['svcaf-news', 'civic-education', 'education-policy']
 slug: recap-community-information-session-on-the-childrens-educational-opportunity-act-ceo-act
-description: "Hosted by: Silicon Valley Chinese Association Foundation (SVCAF)Partner: Children’s Educational Opportunity — EducationOpportunity.orgFormat: Zoom community information sessionDate: September 28, 2025"
+description: "Community session recaps Children's Educational Opportunity Act and its impact on families."
 categories: ["SVCAF"]
 ---
 

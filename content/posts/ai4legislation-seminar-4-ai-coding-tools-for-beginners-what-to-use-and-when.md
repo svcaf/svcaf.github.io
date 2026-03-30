@@ -3,7 +3,7 @@ title: "AI4Legislation Seminar #4: AI Coding Tools for Beginners – What to Use
 date: 2025-06-14T10:22:53
 tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: ai4legislation-seminar-4-ai-coding-tools-for-beginners-what-to-use-and-when
-description: "Join us for another exciting AI4Legislation seminar hosted by SVCAF! This event is designed to energize our ongoing competition community and welcome new faces interested in the intersection of AI and"
+description: "Seminar covering AI coding tools for beginners: GitHub Copilot, Cursor, and practical workflows."
 categories: ["SVCAF"]
 ---
 

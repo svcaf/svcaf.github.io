@@ -3,7 +3,7 @@ title: "Upcoming Seminar: AI Programming for Data Analysis"
 date: 2025-06-01T10:36:36
 tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: upcoming-seminar-ai-programming-for-data-analysis
-description: "Hosted by the AI4Legislation Team of SVCAF We are excited to invite all teams and individuals—especially those who have submitted a Letter of Intention for the 2025 AI4Legislation competition—to join"
+description: "Upcoming seminar covers AI programming techniques for legislative and policy data analysis."
 categories: ["SVCAF"]
 ---
 

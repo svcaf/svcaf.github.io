@@ -5,7 +5,7 @@ tags: ['awards', 'svcaf-news', 'community-events']
 slug: danville-student-settles-free-speech-lawsuit-against-srvusd
 aliases:
   - "/pages/danville-student-settles-free-speech-lawsuit-against-srvusd/"
-description: "北加州东湾的丹维尔的学生在针对圣拉蒙山谷联合学区的言论自由的诉讼中获得和解，将获665,000美元及公开道歉 编者按： 三年前一位叫Nate Yu的亚裔学生被他所在高中校方暴凌，他和同学制作的喜剧搞笑视频被污蔑为“种族主义”、“仇视穆斯林”。老师的朋友、同为本校家长而在社区十分有影响力的人物甚至在Facebook贴大字散播谣言，引起社区不了解真相的人在社交网络上围攻未成年孩子，使Nate和他的父母"
+description: "Danville student settles free speech lawsuit with San Ramon Valley school district."
 categories: ["SVCAF"]
 ---
 

@@ -3,7 +3,7 @@ title: "请立即在WheresMyBallot注册保护您11月的投票！"
 date: 2020-07-06T06:41:31
 tags: ['election-integrity', 'advocacy', 'election-law']
 slug: do-this-immediately-to-protect-your-ballot-in-november
-description: "加州选民，请立即注册WheresMyballot，以保护您的11月的投票！ 作者：EIP-Ca （加州选举完整项目) 立法监督总监Ruth Weiss， ruthweiss@eip-ca.com 加利福尼亚圣克拉丽塔。由于加州AB 860法案的生效，今年11月普选所有加利福尼亚州的选民将收到邮寄选票。这引起了许多担心，其中一个担心是邮寄选票的丢失。今年3月份初选时丢失的选票数量达到数十万！ 为确保"
+description: "Urgent steps to protect your November ballot: verify registration and request mail-in ballot."
 categories: ["SVCAF"]
 ---
 

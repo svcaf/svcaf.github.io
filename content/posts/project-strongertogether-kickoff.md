@@ -5,7 +5,7 @@ tags: ['healthcare', 'community-action', 'volunteer']
 slug: project-strongertogether-kickoff
 aliases:
   - "/pages/project-strongertogether-kickoff/"
-description: "What can one do about this COVID-19 madness? One can be nervous about the numbers of confirmed patient all day long, or one can step up and do something to help. What can a group of people out of Sunn"
+description: "Project StrongerTogether kickoff aims to combat anti-Asian hate through community solidarity."
 categories: ["SVCAF"]
 ---
 

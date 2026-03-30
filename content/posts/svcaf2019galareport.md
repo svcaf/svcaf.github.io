@@ -3,7 +3,7 @@ title: "SVCA基金会2019年会报告"
 date: 2019-02-13T21:56:38
 tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: svcaf2019galareport
-description: "SVCA基金会2019年会报告 (部分赴宴的会员和朋友合影） 2019年2月9日星期六晚上，硅谷华人协会基金会在 Santa Clara 的状元楼举行年会，与大约150位会员和社会各界朋友联谊，汇报工作，展望新的一年。 出席的嘉宾包括：加州众议员朱感生（Kansen Chu）、前加州众议员Catharine Baker、Fremont市长高叙加（Lily Mei）、副市长Raj Salwan、市议"
+description: "SVCAF 2019 gala report: celebrating community achievements and raising funds for advocacy."
 categories: ["SVCAF"]
 ---
 

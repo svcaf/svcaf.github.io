@@ -1,12 +1,11 @@
 ---
 title: "SVCAF Condemns ADOS for Sabotaging a Racial Equality Movement"
 date: 2020-06-08T22:08:32
-tags: ['legislation', 'affirmative-action', 'advocacy']
+tags: ['anti-discrimination', 'advocacy', 'chinese-american']
 slug: svcaf-condemns-ados-for-sabotaging-a-racial-equality-movement
 description: "SVCAF condemns ADOS movement for sabotaging racial equality and promoting divisive rhetoric."
 categories: ["SVCAF"]
 ---
-
 **For Immediate Release**
 
 **June 8, 2020**

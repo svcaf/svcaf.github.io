@@ -1,12 +1,10 @@
 ---
 title: "AI4Legislation: AI for Civic Awareness and Action"
 date: 2025-02-02T11:17:45
-tags: ['ai4legislation', 'civic-education', 'ai-technology']
+tags: ['ai4legislation', 'civic-education', 'svcaf-news']
 slug: civic-ai-competition-ai4legislation
 categories: ["SVCAF"]
 ---
-
-
 The Silicon Valley Chinese Association Foundation (SVCAF) is a non-profit organization dedicated to empowering civic engagement, particularly within Chinese American communities. We believe in leveraging technology to bridge the gap between citizens and legislative processes.
 
 We are excited to launch **AI4Legislation: AI for Civic Awareness and Action**, an open competition inviting innovators to develop and submit open-source, public domain AI-based tools that simplify and enhance public understanding of and engagement with legislation in the USA. This project has the potential to make a real impact on civic awareness and participation nationwide.

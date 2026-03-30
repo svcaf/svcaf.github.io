@@ -1,14 +1,13 @@
 ---
 title: "亚裔学生告赢学区,将获66.5万美元赔偿及公开道歉"
 date: 2020-04-09T20:15:30
-tags: ["legal-rights", "anti-discrimination", "chinese-american"]
+tags: ['legal-rights', 'education-policy', 'anti-discrimination']
 slug: danville-student-settles-free-speech-lawsuit-against-srvusd
 aliases:
   - "/pages/danville-student-settles-free-speech-lawsuit-against-srvusd/"
 description: "Danville student settles free speech lawsuit with San Ramon Valley school district."
 categories: ["SVCAF"]
 ---
-
 ## **北加州东湾的丹维尔的学生在针对圣拉蒙山谷联合学区的言论自由的诉讼中获得和解，将获665,000美元及公开道歉**
 
 **编者按：**

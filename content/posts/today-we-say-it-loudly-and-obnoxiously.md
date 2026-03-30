@@ -1,7 +1,7 @@
 ---
 title: "Today We Say It Loudly and Obnoxiously"
 date: 2018-10-14T11:39:39
-tags: ['legislation', 'affirmative-action', 'advocacy']
+tags: ['civic-education', 'chinese-american', 'svcaf-news']
 slug: today-we-say-it-loudly-and-obnoxiously
 description: "Op-ed on speaking up loudly against injustice and advocating for Asian American rights."
 categories: ["SVCAF"]

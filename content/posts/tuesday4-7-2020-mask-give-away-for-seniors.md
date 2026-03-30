@@ -1,14 +1,13 @@
 ---
 title: "Tuesday(4/7/2020) Mask Give-Away for Seniors @ Sunnyvale"
 date: 2020-04-05T19:36:58
-tags: ['healthcare', 'community-action', 'volunteer']
+tags: ['healthcare', 'volunteer', 'chinese-american']
 slug: tuesday4-7-2020-mask-give-away-for-seniors
 aliases:
   - "/pages/tuesday4-7-2020-mask-give-away-for-seniors/"
 description: "SVCAF organizes mask giveaway for seniors on April 7, 2020, during COVID-19 pandemic."
 categories: ["SVCAF"]
 ---
-
 **[IMPORTANT on Free Masks for Seniors ]** Up till 4/10 17:08, all of our existing available masks are all **donated out**, including the masks for seniors. Thus we are **pausing** the online request and delivery service for seniors until future notice. If you have not received our confirmation about the drop off, please come come back to our website for next such activity. Thanks.
 
 After a few days of preparation, we are finally ready to distribute the free disposable masks for the senior members of the community, at three Safeway stores.

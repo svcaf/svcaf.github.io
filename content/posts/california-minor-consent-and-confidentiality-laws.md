@@ -1,12 +1,11 @@
 ---
 title: "加利福尼亚州未成年人医疗同意和保密法（电脑版）"
 date: 2021-01-10T00:45:03
-tags: ['healthcare', 'legislation', 'community-events']
+tags: ['healthcare', 'legal-rights', 'civic-education']
 slug: california-minor-consent-and-confidentiality-laws
 description: "California law allows minors aged 12+ to consent to certain medical treatments confidentially."
 categories: ["SVCAF"]
 ---
-
 加利福尼亚州未成年人医疗同意和保密法
 
 CALIFORNIA MINOR CONSENT AND CONFIDENTIALITY LAWS

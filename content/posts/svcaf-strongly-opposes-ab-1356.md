@@ -1,12 +1,10 @@
 ---
 title: "SVCAF Strongly Opposes AB 1356"
 date: 2019-05-10T10:45:25
-tags: ['legislation', 'affirmative-action', 'advocacy']
+tags: ['legislation', 'advocacy', 'civic-education']
 slug: svcaf-strongly-opposes-ab-1356
 categories: ["SVCAF"]
 ---
-
-
 Silicon Valley Chinese Association Foundation (SVCAF) strongly opposes AB 1356 (Ting). We are troubled by the fact that this Bill contradicts the existing law of the Medicinal and Adult-Use Cannabis Regulation and Safety Act (“MAUCRSA”) and its clear intent not to supersede the local authorities to govern their own matters. It not only threatens local safety and health, but also encroaches on self-governance of cities and townships, the very fabric of our civic society.
 
 AB 1356, if passed, would mandate those jurisdictions to issue cannabis licenses if more than 50 percent of the voters in that jurisdiction voted positively for Proposition 64 in 2016. That is in direct contradiction to Section 26200 of the Business and Professions Code (“BPC”), part of MAUCRSA as adopted in Proposition 64.

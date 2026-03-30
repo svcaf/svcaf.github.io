@@ -1,12 +1,11 @@
 ---
 title: "2019加州青少年立法论文大赛颁奖典礼 （附得奖文章）"
 date: 2019-11-11T17:37:06
-tags: ['legislation', 'affirmative-action', 'advocacy']
+tags: ['civic-education', 'awards', 'chinese-american']
 slug: essay-competition
 description: "2019 California legislation essay competition winners announced across three regions."
 categories: ["SVCAF"]
 ---
-
 作者： 徐佶翮 （圣地亚哥亚裔平权会基金会）
 
 由圣地亚哥亚裔平权会基金会（SDAAFE）、硅谷华人协会基金会（SVCAF）、橙县俱乐部（TOC）三个加州地方组织联合举办的加州青少年立法论文大赛于11月2日下午5:30在圣地亚哥Hilton Garden Inn San Diego Del Mar酒店举行了隆重的颁奖典礼。

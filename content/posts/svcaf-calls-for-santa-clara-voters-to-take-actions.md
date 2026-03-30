@@ -1,12 +1,11 @@
 ---
 title: "[Action!] SVCAF Calls for Santa Clara Voters to Oppose Unjustified Voting Adjudication"
 date: 2023-09-22T22:10:34
-tags: ['election-integrity', 'advocacy', 'election-law']
+tags: ['election-integrity', 'advocacy', 'civic-education']
 slug: svcaf-calls-for-santa-clara-voters-to-take-actions
 description: "SVCAF calls for Santa Clara voters to take action on ballot transparency and fairness."
 categories: ["SVCAF"]
 ---
-
 **FOR IMMEDIATE RELEASE**
 
 Sep 22, 2023

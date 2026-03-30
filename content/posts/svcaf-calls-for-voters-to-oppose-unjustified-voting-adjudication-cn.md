@@ -1,12 +1,10 @@
 ---
 title: "【行动！】请致信给圣县参事禁止对Under Vote进行人工裁决"
 date: 2023-09-22T22:22:54
-tags: ['election-integrity', 'advocacy', 'election-law']
+tags: ['election-integrity', 'advocacy', 'civic-education']
 slug: svcaf-calls-for-voters-to-oppose-unjustified-voting-adjudication-cn
 categories: ["SVCAF"]
 ---
-
-
 大家好！美国2024年的大选已经拉开了帷幕，大家也许都开始参加了一些选举的活动，准备将代表我们人民的候选人选上去。然而我们绝大多数选民不知道的是，我们2024年的选票还可能会在选务处经受一波**人工审核(manual Adjudication)**。
 
 具体来说，Santa Clara County ROV选务总部的负责人单方面决定, 无论是Vote in person(VIP), 即现场投票，或者是Vote by Mail (VBM)就是邮寄选票，如果是under vote 的选票都要经过人工审核。那么**什么是under vote 呢？举例来说，一个职位或提案你空着没选, 就是under vote。**比如在学区委员的选项中，如果有多个候选人竞选三个职位的话，选票中写的是选择no more than three就是不能超过三人，但是如果你只选其中一位心仪的候选人，空着其他两个选择的话，这样的选票也属于under vote。Under vote是非常正常, 合法的选票，选民的意图非常的明确。特别是在Vote In Person (VIP)现场投票的过程中，如果你的选票中有under vote的情况，在经过扫描机时，扫描机会自动提示，让你确认是不是你有意这么选的，你有机会去确认或者修改。然而对于这些under vote 的选票却在选务总部ROV, 在选民们毫不知情的情况下被挑出来，先搁置，再经过人工审核—-即审核人员审核整个选票从而再次确定选民的意图！

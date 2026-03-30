@@ -1,14 +1,13 @@
 ---
 title: "Project #StrongerTogether Kickoff"
 date: 2020-03-31T10:27:59
-tags: ['healthcare', 'community-action', 'volunteer']
+tags: ['healthcare', 'volunteer', 'chinese-american']
 slug: project-strongertogether-kickoff
 aliases:
   - "/pages/project-strongertogether-kickoff/"
 description: "Project StrongerTogether kickoff aims to combat anti-Asian hate through community solidarity."
 categories: ["SVCAF"]
 ---
-
 What can one do about this COVID-19 madness?
 
 One can be nervous about the numbers of confirmed patient all day long, or one can step up and do something to help.

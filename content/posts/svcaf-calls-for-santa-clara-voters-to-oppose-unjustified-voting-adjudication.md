@@ -1,12 +1,10 @@
 ---
 title: "SVCAF Calls for Santa Clara Voters to Oppose Unjustified Voting Adjudication"
 date: 2022-12-04T22:26:00
-tags: ['election-integrity', 'advocacy', 'election-law']
+tags: ['election-integrity', 'advocacy', 'civic-education']
 slug: svcaf-calls-for-santa-clara-voters-to-oppose-unjustified-voting-adjudication
 categories: ["SVCAF"]
 ---
-
-
 **(NOTE: this page is invalided as of 9/22/2023, please visit [here for the latest version](/posts/svcaf-calls-for-santa-clara-voters-to-take-actions/)!)**
 
 **FOR IMMEDIATE RELEASE**

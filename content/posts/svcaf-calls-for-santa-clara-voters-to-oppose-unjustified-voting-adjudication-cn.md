@@ -1,12 +1,11 @@
 ---
 title: "请致信给圣县选务处禁止对Under Vote进行人工裁决"
 date: 2022-12-23T11:08:59
-tags: ['election-integrity', 'advocacy', 'election-law']
+tags: ['election-integrity', 'advocacy', 'civic-education']
 slug: svcaf-calls-for-santa-clara-voters-to-oppose-unjustified-voting-adjudication-cn
 description: "SVCAF呼吁圣塔克拉拉选民反对不合理的选票裁决程序。"
 categories: ["SVCAF"]
 ---
-
 （请注意，此签名信已经失效！请用[最新版本](/posts/svcaf-calls-for-voters-to-oppose-unjustified-voting-adjudication-cn/)）
 
 大家好！美国2022年至关重要的中期选举基本尘埃落定了，由于邮寄选票众多，很多我们关心的选举结果是在选举日过去好多天才最终出炉。聚焦到我们Santa Clara County，选举日过去了十几天才有结果，大量的邮寄选票在ROV（Registrar of voters)，即选务总部被处理，数算。

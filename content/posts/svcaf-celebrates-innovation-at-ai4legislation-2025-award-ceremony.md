@@ -1,12 +1,10 @@
 ---
 title: "SVCAF Celebrates Innovation at AI4Legislation 2025 Award Ceremony"
 date: 2025-09-28T20:50:28
-tags: ['ai4legislation', 'civic-education', 'ai-technology']
+tags: ['ai4legislation', 'awards', 'svcaf-news']
 slug: svcaf-celebrates-innovation-at-ai4legislation-2025-award-ceremony
 categories: ["SVCAF"]
 ---
-
-
 *September 21, 2025 marked a milestone moment for civic technology as the Silicon Valley Chinese Association Foundation honored outstanding student innovators*
 
 On September 21, 2025, the [Silicon Valley Chinese Association Foundation (SVCAF)](/) proudly hosted the **AI4Legislation 2025 Award Ceremony**, celebrating remarkable achievements in artificial intelligence applications for legislative processes and civic engagement. The virtual ceremony brought together innovative students, industry experts, and civic technology enthusiasts to recognize groundbreaking projects that demonstrate how AI can enhance democratic participation and legislative transparency.

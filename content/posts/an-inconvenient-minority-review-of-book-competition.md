@@ -1,12 +1,11 @@
 ---
 title: "《An Inconvenient Minority》书评征文比赛"
 date: 2021-07-27T14:08:24
-tags: ["education-policy", "affirmative-action", "svcaf-news"]
+tags: ['civic-education', 'chinese-american', 'svcaf-news']
 slug: an-inconvenient-minority-review-of-book-competition
 description: "Essay competition reviewing 'An Inconvenient Minority' by Kenny Xu for California youth."
 categories: ["SVCAF"]
 ---
-
 ## 《An Inconvenient Minority》书评征文比赛
 
 亚裔一向遵纪守法、勤奋努力，在全美各族裔中，亚裔受教育程度最高，平均收入也最高。但曾几何时，这些优秀的品质成了亚裔在教育和职场中频频受限的原因。最近在Amazon新鲜上线的热销书《An Inconvenient Minority》对这一现象进行了深刻详细的解读和分析。这本书见解独到，针砭时弊，力透纸背。作者Kenny Xu是位年轻有为的ABC作家，亚裔告哈佛案的主要知情人士，为《联邦党人》、《华盛顿考官》、《每日信号》和《奎莱特》等媒体的评论作家，曾登上Fox TV 等主流媒体的专访。

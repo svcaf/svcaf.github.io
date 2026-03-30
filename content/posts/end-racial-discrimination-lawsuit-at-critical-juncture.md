@@ -1,7 +1,7 @@
 ---
 title: "End Racial Discrimination: Lawsuit at Critical Juncture"
 date: 2018-06-21T11:02:48
-tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
+tags: ['legal-rights', 'advocacy', 'chinese-american']
 slug: end-racial-discrimination-lawsuit-at-critical-juncture
 description: "Harvard admissions lawsuit reaches critical juncture as Supreme Court prepares to rule."
 categories: ["SVCAF"]

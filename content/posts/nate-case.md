@@ -1,12 +1,11 @@
 ---
 title: "学区赔偿亚裔学生66.5万美元案件的来龙去脉"
 date: 2020-04-23T00:33:24
-tags: ['legal-rights', 'community-action', 'legislation']
+tags: ['legal-rights', 'education-policy', 'anti-discrimination']
 slug: nate-case
 description: "Nate's case highlights challenges in school discipline and advocacy for fair treatment."
 categories: ["SVCAF"]
 ---
-
 **编者按**：[圣拉蒙山谷联合学区（San Ramon Valley Unified School District）最近赔偿亚裔学生65万美元的案子在本地引起巨大反响](/pages/danville-student-settles-free-speech-lawsuit-against-srvusd/)。Nextdoor上邻居们七嘴八舌争论不休。很多不明真相的群众认为受害者家庭滥用诉讼让学区就范，舆论一时对亚裔受害者家庭非常不利。SVCAF三年里一直跟受害者一家保持联系，了解其中艰辛。幸好有真正花时间阅读法庭公开文件的居民写了案件的总结。现摘录如下，让华人社区也清楚本案的来龙去脉。
 
 ![](/wp-content/uploads/2020/04/微信图片_20200423160643.jpg)

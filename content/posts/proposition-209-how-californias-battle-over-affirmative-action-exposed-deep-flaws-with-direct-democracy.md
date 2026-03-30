@@ -1,12 +1,10 @@
 ---
 title: "209号法案：加州的平权行动之战暴露了直接民主制的深层缺陷"
 date: 2020-07-07T07:59:10
-tags: ['legal-rights', 'civic-education', 'advocacy']
+tags: ['affirmative-action', 'legislation', 'civic-education']
 slug: proposition-209-how-californias-battle-over-affirmative-action-exposed-deep-flaws-with-direct-democracy
 categories: ["SVCAF"]
 ---
-
-
 [Proposition 209: How California’s Battle Over Affirmative Action Exposed Deep Flaws with Direct Democracy](https://5clpp.com/2018/03/23/proposition-209-how-californias-battle-over-affirmative-action-exposed-deep-flaws-with-direct-democracy/)
 
 [209号法案：加州的平权行动之战暴露了直接民主制的深层缺陷](https://5clpp.com/2018/03/23/proposition-209-how-californias-battle-over-affirmative-action-exposed-deep-flaws-with-direct-democracy/)

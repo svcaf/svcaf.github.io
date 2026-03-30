@@ -1,12 +1,11 @@
 ---
 title: "加利福尼亚州未成年人医疗同意和保密法（手机版）"
 date: 2021-01-12T02:19:28
-tags: ['healthcare', 'legislation', 'community-events']
+tags: ['healthcare', 'legal-rights', 'civic-education']
 slug: ca-minor-consent-and-confidentiality-laws
 description: "Overview of California laws on minor consent for medical treatment and confidentiality protections."
 categories: ["SVCAF"]
 ---
-
 加利福尼亚州未成年人医疗同意和保密法
 CALIFORNIA MINOR CONSENT AND CONFIDENTIALITY LAWS
 

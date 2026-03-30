@@ -1,12 +1,11 @@
 ---
 title: "2021年度加州立法论文大赛"
 date: 2021-07-25T09:22:15
-tags: ['advocacy', 'legislation', 'chinese-american']
+tags: ['civic-education', 'chinese-american', 'svcaf-news']
 slug: 2021essaycontest
 description: "2021加州立法论文大赛面向6-12年级学生，探讨SB-82轻罪盗窃法案。"
 categories: ["SVCAF"]
 ---
-
 [![](/wp-content/uploads/2021/07/3-orgs-horizontal-1024x187.png)](/wp-content/uploads/2021/07/3-orgs-horizontal.png)
 
 2021年度加州立法论文大赛开始接受投稿了！大赛的目的是为了促进加州青少年关心时事，提高对争议话题的独立研究和判断能力。本年度加州立法论文大赛由以下组织联合举办：圣地亚哥亚裔平权会（SDAAFE）、硅谷华人协会基金会（SVCAF）和金橙俱乐部基金会（TOCF）（以组织英文名字母顺序排序）。以上三个组织分别代表圣地亚哥（San Diego, SD）, 北加（Northern California, NorCal）, 和橙县（Orange County, OC）三个地区。 请仔细阅读以下申请规则。

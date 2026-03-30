@@ -1,7 +1,7 @@
 ---
 title: "SVCAF Urging for Immediate Actions for COVID-19 Pandemic"
 date: 2020-03-27T21:07:37
-tags: ["healthcare", "community-action", "volunteer"]
+tags: ['healthcare', 'volunteer', 'advocacy']
 slug: strongertogether
 aliases:
   - "/pages/strongertogether/"
@@ -9,7 +9,6 @@ aliases:
 description: "StrongerTogether initiative promotes unity and action against anti-Asian discrimination."
 categories: ["SVCAF"]
 ---
-
 **Project #StrongerTogether**
 
 ![](/wp-content/uploads/2020/03/3E53B859-06C2-4A78-B032-F28B48923B13-1024x595.jpeg)

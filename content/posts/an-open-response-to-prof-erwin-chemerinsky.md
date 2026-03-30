@@ -1,7 +1,7 @@
 ---
 title: "An Open Response to Prof. Erwin Chemerinsky"
 date: 2017-08-06T22:21:28
-tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
+tags: ['education-policy', 'legal-rights', 'advocacy']
 slug: an-open-response-to-prof-erwin-chemerinsky
 description: "August 6, 2017 Dear Prof. Chemerinsky: I am writing in response to your op-ed, “Don’t use Asian Americans to justify anti-affirmative action politics,” published by Washington Post on 8/3/2017. “Use”?"
 categories: ["SVCAF"]

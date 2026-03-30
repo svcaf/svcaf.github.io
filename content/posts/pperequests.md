@@ -1,14 +1,13 @@
 ---
 title: "How To Accept Future PPE Donations from SVCAF (CA only)"
 date: 2020-04-01T13:30:46
-tags: ['healthcare', 'community-action', 'volunteer']
+tags: ['healthcare', 'volunteer', 'civic-education']
 slug: pperequests
 aliases:
   - "/pages/pperequests/"
 description: "How to file public records requests under California Public Records Act for transparency."
 categories: ["SVCAF"]
 ---
-
 We will need your: 
 
 **0. To be a California based hospital, senior center or essential local business.** 

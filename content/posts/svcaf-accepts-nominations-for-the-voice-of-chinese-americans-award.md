@@ -1,12 +1,10 @@
 ---
 title: "SVCAF Accepts Nominations for the Voice of Chinese Americans Award"
 date: 2020-06-29T12:55:15
-tags: ['awards', 'svcaf-news', 'community-events']
+tags: ['awards', 'svcaf-news', 'chinese-american']
 slug: svcaf-accepts-nominations-for-the-voice-of-chinese-americans-award
 categories: ["SVCAF"]
 ---
-
-
 SVCAF announces a new program to recognize Chinese Americans who publish influential articles which help advance the mission of SVCAF.  A recipient of this award will get a certificate and a small honorarium. 
 
 ## Criteria 

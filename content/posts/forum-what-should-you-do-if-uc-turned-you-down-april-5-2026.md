@@ -1,7 +1,7 @@
 ---
 title: "Forum: What Should You Do If UC Turned You Down? — April 5, 2026"
 date: 2026-03-06T16:16:20
-tags: ['healthcare', 'community-action', 'volunteer']
+tags: ['education-policy', 'civic-education', 'advocacy']
 slug: forum-what-should-you-do-if-uc-turned-you-down-april-5-2026
 description: "Join SVCAF and SARD for a free Zoom forum on April 5, 2026 with Professor Richard Sander (UCLA Law) — learn your options if UC turned you down."
 categories: ["SVCAF"]

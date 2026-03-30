@@ -1,12 +1,11 @@
 ---
 title: "请立即在WheresMyBallot注册保护您11月的投票！"
 date: 2020-07-06T06:41:31
-tags: ['election-integrity', 'advocacy', 'election-law']
+tags: ['election-integrity', 'advocacy', 'civic-education']
 slug: do-this-immediately-to-protect-your-ballot-in-november
 description: "Urgent steps to protect your November ballot: verify registration and request mail-in ballot."
 categories: ["SVCAF"]
 ---
-
 [**加州选民**，**请立即注册WheresMyballot**，**以保护您的11月的投票！**](https://myemail.constantcontact.com/DO-THIS-IMMEDIATELY-TO-PROTECT-YOUR-BALLOT-IN-NOVEMBER.html)
 
 作者：EIP-Ca （加州选举完整项目) 立法监督总监Ruth Weiss， ruthweiss@eip-ca.com

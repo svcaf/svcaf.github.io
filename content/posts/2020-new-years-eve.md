@@ -1,12 +1,11 @@
 ---
 title: "2020新年伊始，SVCA 基金会祝您元旦快乐，健康平安！"
 date: 2020-03-09T00:27:53
-tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
+tags: ['community-events', 'chinese-american', 'svcaf-news']
 slug: 2020-new-years-eve
 description: "SVCAF 2019年度总结：支持SFFA诉讼、反对I-1000、举办论文大赛及社区活动。"
 categories: ["SVCAF"]
 ---
-
 ![](/wp-content/uploads/2020/03/微信图片_20200309154856-1024x1007.jpg)
 
 回顾2019年，SVCAF在会员和各界朋友支持下，开展了一些服务社区的义工工作，例如：

@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw Seminar: AI Workflows for Civic Engagement — Tony Guan | April 4, 2026"
 date: 2026-03-21T21:05:45
-tags: ['legislation', 'affirmative-action', 'advocacy']
+tags: ["ai-technology", "civic-education", "svcaf-news"]
 slug: openclaw-seminar-ai-workflows-for-civic-engagement-tony-guan-april-4-2026
 description: "OpenClaw seminar on AI workflows for civic engagement, presented by Tony Guan on April 4, 2026."
 categories: ["SVCAF"]

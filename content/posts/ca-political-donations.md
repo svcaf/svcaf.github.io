@@ -1,7 +1,7 @@
 ---
 title: "加州公投捐款的相关法律法规初探 v 0.1"
 date: 2020-07-15T07:15:36
-tags: ['election-law', 'volunteer', 'legislation']
+tags: ["election-law", "civic-education", "legislation"]
 slug: ca-political-donations
 description: "Guide to tracking political donations in California using public disclosure databases."
 categories: ["SVCAF"]

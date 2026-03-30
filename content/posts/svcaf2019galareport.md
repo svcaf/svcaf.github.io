@@ -1,7 +1,7 @@
 ---
 title: "SVCA基金会2019年会报告"
 date: 2019-02-13T21:56:38
-tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
+tags: ["community-events", "svcaf-news", "awards"]
 slug: svcaf2019galareport
 description: "SVCAF 2019 gala report: celebrating community achievements and raising funds for advocacy."
 categories: ["SVCAF"]

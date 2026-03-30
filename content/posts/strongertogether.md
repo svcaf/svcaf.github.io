@@ -1,7 +1,7 @@
 ---
 title: "SVCAF Urging for Immediate Actions for COVID-19 Pandemic"
 date: 2020-03-27T21:07:37
-tags: ['legislation', 'affirmative-action', 'advocacy']
+tags: ["healthcare", "community-action", "volunteer"]
 slug: strongertogether
 aliases:
   - "/pages/strongertogether/"

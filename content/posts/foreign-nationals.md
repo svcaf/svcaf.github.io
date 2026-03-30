@@ -1,7 +1,7 @@
 ---
 title: "联邦选举委员会关于外国人参与选举的规则"
 date: 2020-07-15T23:26:02
-tags: ['community-events', 'svcaf-news', 'community-action']
+tags: ["election-law", "civic-education", "legal-rights"]
 slug: foreign-nationals
 description: "Information for foreign nationals on U.S. visa requirements and immigration processes."
 categories: ["SVCAF"]

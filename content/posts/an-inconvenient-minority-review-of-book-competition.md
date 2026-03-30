@@ -1,7 +1,7 @@
 ---
 title: "《An Inconvenient Minority》书评征文比赛"
 date: 2021-07-27T14:08:24
-tags: ['legislation', 'svcaf-news', 'community-action']
+tags: ["education-policy", "affirmative-action", "svcaf-news"]
 slug: an-inconvenient-minority-review-of-book-competition
 description: "Essay competition reviewing 'An Inconvenient Minority' by Kenny Xu for California youth."
 categories: ["SVCAF"]

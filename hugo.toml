@@ -86,6 +86,11 @@ pagerSize = 20
     url = "/contact/"
     weight = 50
   [[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/gallery/"
+    weight = 55
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"

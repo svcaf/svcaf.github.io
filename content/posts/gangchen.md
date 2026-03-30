@@ -8,6 +8,8 @@ categories: ["SVCAF"]
 
 ![](/wp-content/uploads/2021/01/gangchen.jpg)
 
+![](/wp-content/uploads/2021/01/gangchen.jpg)
+
 
 编者按：最近麻省理工华人教授的案子很多人关心。我们找出联邦政府起诉陈刚的起诉书，翻译后供大家参考。美国法律是嫌疑人在法庭判决之前都是无罪推断，控方的说法只是一面之词。希望对关心此案的朋友有帮助。
 

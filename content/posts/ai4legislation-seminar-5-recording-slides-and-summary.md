@@ -9,6 +9,8 @@ categories: ["SVCAF"]
 
 ![](/wp-content/uploads/2025/07/Screenshot-2025-07-12-at-11.32.22 AM.png)
 
+![](/wp-content/uploads/2025/07/Screenshot-2025-07-12-at-11.32.22 AM.png)
+
 *Digital Democracy: AI For Good * by [Prof. Foaad Khosmood](https://foaad.net/)
 
 Slides: [Link](/files/github-digital-democracy-svcaf-2025-7-12.pdf)

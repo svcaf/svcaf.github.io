@@ -9,6 +9,8 @@ categories: ["SVCAF"]
 
 ![](/wp-content/uploads/2021/02/CFER-SVCA-Joint-Statement.jpg)
 
+![](/wp-content/uploads/2021/02/CFER-SVCA-Joint-Statement.jpg)
+
 **For Immediate Release
 February 14, 2021**
 

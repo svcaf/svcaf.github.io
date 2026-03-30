@@ -11,6 +11,8 @@ categories: ["SVCAF"]
 
 ![](/wp-content/uploads/2020/07/黄海波.png)
 
+![](/wp-content/uploads/2020/07/黄海波.png)
+
 
 编者按：Mr. Haibo Huang is one of the recipients of SVCAF’s Voice of Chinese Americans Award. He published an op ed  about ACA-5 in San Diego Union Tribune on June 9th. Here is his unabridged article in both English and Chinese.
 

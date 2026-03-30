@@ -9,6 +9,8 @@ categories: ["SVCAF"]
 
 ![](/wp-content/uploads/2020/06/aace-logo-2-e1445906123878.jpg)
 
+![](/wp-content/uploads/2020/06/aace-logo-2-e1445906123878.jpg)
+
 **For Immediate Release**
 
 **June 14, 2020**

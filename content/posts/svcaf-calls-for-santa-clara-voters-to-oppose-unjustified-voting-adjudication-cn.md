@@ -8,6 +8,8 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2022/02/voteyourvoice.png)
+
+![](/wp-content/uploads/2022/02/voteyourvoice.png)
 （请注意，此签名信已经失效！请用[最新版本](/posts/svcaf-calls-for-voters-to-oppose-unjustified-voting-adjudication-cn/)）
 
 大家好！美国2022年至关重要的中期选举基本尘埃落定了，由于邮寄选票众多，很多我们关心的选举结果是在选举日过去好多天才最终出炉。聚焦到我们Santa Clara County，选举日过去了十几天才有结果，大量的邮寄选票在ROV（Registrar of voters)，即选务总部被处理，数算。

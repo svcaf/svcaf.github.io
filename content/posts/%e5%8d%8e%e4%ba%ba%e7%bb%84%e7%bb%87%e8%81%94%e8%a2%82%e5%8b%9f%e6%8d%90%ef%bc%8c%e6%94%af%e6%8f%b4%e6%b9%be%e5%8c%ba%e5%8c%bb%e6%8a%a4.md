@@ -8,6 +8,8 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/03/banner-home_2x.jpg)
+
+![](/wp-content/uploads/2020/03/banner-home_2x.jpg)
 [https://mp.weixin.qq.com/s/b296ImNgZ4yvH_2fRIMt5Q](https://mp.weixin.qq.com/s/b296ImNgZ4yvH_2fRIMt5Q)
 
 最近几周，我们亲眼目睹了新型冠状病毒转移攻击目标，从中国转向全世界。从各种媒体报道我们得知一些医疗防卫物资PPE （Personal Protective Equipment）的短缺让在病毒面前裸奔的医疗工作者受到生命的威胁。短缺的物资包括医用口罩，防护衣等，短缺现象在全国大范围内出现。大难当头人性尽显，隔离身体隔离不了大爱。积极响应很多医疗机构发出对社会的呼吁，各个组织/私人发起的口罩募捐活动进行得如火如荼，也得到了受捐医疗机构的正面反馈。为我们的新家园尽自己的一份绵薄之力， 这时不回馈社区，更待何时？

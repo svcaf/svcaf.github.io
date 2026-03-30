@@ -7,6 +7,8 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2022/11/IMG_5249.jpg)
+
+![](/wp-content/uploads/2022/11/IMG_5249.jpg)
 Unabridged speech transcript for the “Equal Education Rights for All” Rally 
 
 By  Mr. Chunhua Liao, VP of SVCAF 

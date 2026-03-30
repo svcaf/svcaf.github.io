@@ -8,6 +8,8 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/06/103361232_104195634666934_4003885750601166194_o.png)
+
+![](/wp-content/uploads/2020/06/103361232_104195634666934_4003885750601166194_o.png)
 **For Immediate Release**
 
 **June 8, 2020**

@@ -7,6 +7,8 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/12/8.jpg)
+
+![](/wp-content/uploads/2020/12/8.jpg)
 Comments on the Senate Passed Fairness for High Skilled Immigrants Act
 
 December 4, 2020 10:08AM

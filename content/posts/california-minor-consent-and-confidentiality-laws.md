@@ -8,6 +8,8 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2021/01/minor.png)
+
+![](/wp-content/uploads/2021/01/minor.png)
 加利福尼亚州未成年人医疗同意和保密法
 
 CALIFORNIA MINOR CONSENT AND CONFIDENTIALITY LAWS

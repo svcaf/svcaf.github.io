@@ -9,6 +9,8 @@ categories: ["SVCAF"]
 
 ![](/wp-content/uploads/2025/06/SVCAF-seminar-Guo-v2.png)
 
+![](/wp-content/uploads/2025/06/SVCAF-seminar-Guo-v2.png)
+
 **Hosted by the AI4Legislation Team of SVCAF**
 
 We are excited to invite all teams and individuals—especially those who have submitted a Letter of Intention for the [2025 AI4Legislation competition](https://github.com/svcaf/2025-AI4Legislation-Public)—to join us for an insightful seminar focused on **AI programming and data analysis**.

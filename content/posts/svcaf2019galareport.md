@@ -56,7 +56,6 @@ SVCA基金会2019年会报告
 
 ![](https://lh5.googleusercontent.com/3kbIlzcVIaz5S1Ru19GU8VYvmaVZVMl-icQ1z95U2n9OS99ROi_0BvHRZOYV4AtylSHeD7aawzbaG3EEthBEwzqEa_sdepqtazm3oJh8d2DpQLvB1rDpjbOHOK2r-yMyxyvXmH3y)
 
-![](/wp-content/uploads/2019/03/IMG_1620.jpg)
 
 ![](https://lh6.googleusercontent.com/QsZPpBu5PFncJGIp4PamDs3GMoBI9KwD0fejgqwjzgo3tWD6j8VUMGc0SI-3jDMUr1nxNWxEdysekwyT6Q8Ta36gsRteYWzxRFNRWD20fY6jTjkJfDI0Uzyqq1xIYhiNmJWHu9lB)
 

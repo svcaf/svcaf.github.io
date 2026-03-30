@@ -13,7 +13,7 @@ December 4, 2020 10:08AM
 
 By [David J. Bier](https://www.cato.org/people/david-j-bier)
 
-**点评参议院通过的“高技术移民法案”******
+**点评参议院通过的“高技术移民法案”**
 
 2020年12月4日 点评人：David J. Bier
 
@@ -53,19 +53,19 @@ The Senate version is now substantially different from the House version with de
 
 - **Caps H-1B visa holders and H-4 visa holders (or those who held H-4 status in the last 2 years) to no more than 70% of all employment-based green cards during the first 9 years after implementation and 50% for all subsequent years.**
 
-**在实施后的第一个****9****年内，对****H-1B****和****H-4****签证持有人（或最近****2****年内持有****H-4****身份的人）的上限不超过所有职业绿卡的****70****％，此后年份的****50****％。**
+**在实施后的第一个9年内，对H-1B和H-4签证持有人（或最近2年内持有H-4身份的人）的上限不超过所有职业绿卡的70％，此后年份的50％。**
 
 - *Comments*: This is a way of continuing discrimination against Indians indirectly because Indians [are 70 percent](/files/archive-characteristics_of_specialty_occupation_workers_h-1b_fiscal_year_2019.pdf) of H-1B visa holders. Moreover, nearly all of the backlogged immigrants in the green card queue from India are working on the H-1B visa. This provision undermines the purpose of the bill and makes little sense as an anti-H-1B measure because it forces H-1B holders to remain on the temporary status longer than they would otherwise. We don’t know the exact breakdown of the status of those in the green card backlog from India, but it’s likely at least 90 percent H-1B visa holders, so this will delay the receipt of green cards to backlogged Indians. If not for the backlog, the effect would not be very great. About 70 percent of EB-2 and EB-3 green card applicants in 2019 were on the H-1B visa based on [Department of Labor’s labor certification data](https://www.dol.gov/agencies/eta/foreign-labor/performance). It is likely less than this in the EB-1 category (multinational executives, those with extraordinary ability, etc.) who have other temporary visa options available or come from abroad, and there probably are very few in the EB-4 special immigrant and EB-5 investor categories, so assuming only 50 percent of EB-1 is on H-1B visas, the number of new H-1B green card applicants is probably only slightly higher than 50 percent. That said, it would hamstring any increase in that program.- *评论*：这仍是一种持续地间接歧视印度人的方式，因为H-1B签证持有者中印度人占70％。甚至，印度绿卡排队中几乎所有积压的移民都在持H-1B签证工作。该条款规定破坏了法案的目的，并且作为反H-1B措施没有任何意义，因为它迫使H-1B持有人在临时身份上的停留时间比原本更长。印度籍绿卡积压者的确切身份分类不得而知，但H-1B签证持有者可能至少占90％，因此这将继续延迟积压的印度人收到绿卡。如果不是为了解决积压，该法案的效果将大打折扣。根据美国劳工部的劳工证书数据，2019年约70％的EB-2和EB-3绿卡申请人持有H-1B签证。而在具有其他临时签证选择或来自国外的EB-1类别（跨国企业高管，z杰出技术人才等）中，这一比例可能要低于此水平；且在EB-4特殊移民和EB-5投资移民类别中H-1B就更少了。因此，假设EB-1签证中只有50％是H-1B签证，那么新的H-1B绿卡申请人数可能仅略高于50％。也就是说，这将阻碍该程序的任何进程。
 
 - ***Raises the family-sponsored per country limit on green cards to 15 percent***: Family-sponsored preference categories also currently have a 7% limit on green cards for immigrants from individual birthplaces. The bill more than doubles that limit to 15% increasing in absolute terms from about 15,820 to 33,900. This will primarily benefit long-backlogged immigrants from Mexico and the Philippines, but also India and China.
 
-***把按国别的家庭移民绿卡限制提高到******15******％***：目前家庭移民类别绿卡按申请人出生地的限制为7％。法案增加了两倍多，从绝对值15,820增至33,900，限制为15％。这将主要使墨西哥和菲律宾以及印度和中国的长期积压移民受益。
+***把按国别的家庭移民绿卡限制提高到**15**％***：目前家庭移民类别绿卡按申请人出生地的限制为7％。法案增加了两倍多，从绝对值15,820增至33,900，限制为15％。这将主要使墨西哥和菲律宾以及印度和中国的长期积压移民受益。
 
 - *Comments*: The House bill is the same. This provision does not go as far as the employment-based provision in ending discrimination based on birthplace in the family-sponsored system, but it is a significant benefit to long-backlogged, family-sponsored immigrants who are mostly waiting for immigrant visas abroad.- *评论*：众议院版法案相同。这项规定与职业移民的规定相比，在消除基于出生地的歧视方面并没有更大变化，但对于长期积压的家庭移民（主要是在国外等待移民签证的移民）而言，则是一个重大利好。
 
 - ***Bars adjustment of status to all Chinese “affiliated” with the Chinese Communist Party***: The new language (presumably proposed by Sen. Scott) requires DHS to “not adjust status of any alien affiliated with the military forces of the People’s Republic of China or the Chinese Communist Party” (CCP). This is similar to the existing ground of inadmissibility in [8 U.S.C. 1182(a)(3)(D)](https://www.law.cornell.edu/uscode/text/8/1182#a_3_D) for members or those “affiliated with” any communist party anywhere. However, the existing ground of inadmissibility has exceptions for involuntary membership, past membership, or close family members. However, the current ground applies to both adjustment of status in the United States as well as consular processing abroad. Effectively, this provision requires all Chinese immigrants to apply for immigrant visas at consulates abroad.
 
-***禁止调整与中国共产党有******“******联系******”******的所有中国人的身份***：新的措辞（可能由Scott参议员提出）要求国土安全部“不得调整与中国军队或中国共产党（CCP）有联系的任何外国人的身份。这与[8 U.S.C. 1182(a)(3)(D)](https://www.law.cornell.edu/uscode/text/8/1182#a_3_D) 中现有的不可接纳理由条款相似：适用于共产党员或与任何地方的共产党“有联系”的人员。但是，现有的不可接纳理由条款设置了例外情况：非自愿入党人员，过往成员或成员亲属。但是，当前的理由既适用于美国的身份调整，也适用于国外的领事处理。实际上，该规定要求所有中国移民在国外领事馆申请移民签证。
+***禁止调整与中国共产党有**“**联系**”**的所有中国人的身份***：新的措辞（可能由Scott参议员提出）要求国土安全部“不得调整与中国军队或中国共产党（CCP）有联系的任何外国人的身份。这与[8 U.S.C. 1182(a)(3)(D)](https://www.law.cornell.edu/uscode/text/8/1182#a_3_D) 中现有的不可接纳理由条款相似：适用于共产党员或与任何地方的共产党“有联系”的人员。但是，现有的不可接纳理由条款设置了例外情况：非自愿入党人员，过往成员或成员亲属。但是，当前的理由既适用于美国的身份调整，也适用于国外的领事处理。实际上，该规定要求所有中国移民在国外领事馆申请移民签证。
 
 - *Comments*: This is just more *de facto* national origin discrimination. Most Chinese have no ideological connection to the CCP even if they join it. The main reason to have joined the party is that it [facilitates](https://www.theatlantic.com/china/archive/2013/05/communist-party-membership-is-still-the-ultimate-resume-booster/276347/) promotions, especially within government or state-owned enterprises but overall. Lotus Yuen of *The Atlantic* [has called](https://www.theatlantic.com/china/archive/2013/05/communist-party-membership-is-still-the-ultimate-resume-booster/276347/) membership the “ultimate resumé booster” in China. It can also allow Chinese to avoid direct state persecution. While the government obviously has an interest in stopping actual espionage, this ban is overbroad. The United States should want communists to experience the superiority of the U.S. system and encourage defectors from communist China. The United States has benefited greatly from Chinese immigrant innovators in science, technology, and medicine, and this ban would push inventors back toward the communist regime. That said, because it only applies to adjustment in the United States, the practical effect amounts to an expensive inconvenience rather than an outright ban.- *评论*：这实际上只是国籍歧视。即使加入中国共产党，大多数中国人与中共也没有思想联系。加入该党的主要原因是，其他领域也罢，但特别是在政府或国有企业内部，它提供了晋升通道。Lotus Yuen曾在大西洋月刊发表：将党员资格称为中国的“简历终极助推器”。它还可以使中国人避免直接受到官方起诉。尽管美国政府显然有兴趣制止实际的间谍活动，但这项禁令过于宽泛。美国应该希望共产党人体验美国制度的优越性，从而鼓励脱离共产主义中国。美国从科学，技术和医学等领域中国籍移民创新者那里获取巨大利益，而这项禁令将使这些创新者重返共产主义政权。即便如此，因为它仅适用于美国国内的身份调整，实际的效果不是彻底的禁止，而是更加耗费的不便。
 
@@ -75,7 +75,7 @@ The Senate version is now substantially different from the House version with de
 
 - **“Early filing” (H-1B lite status): Allows backlogged temporary workers to receive a separate, limited, 3-year, renewable employment authorization (apart from their underlying status) 2 years after their employer petition was approved by filing an adjustment of status to legal permanent residence application (i.e. green card application) prior to a green card number being available under the caps. **You can credit Sen. Durbin with this provision**. **[Currently](https://www.law.cornell.edu/uscode/text/8/1154#j), anyone whose adjustment of status application is pending for at least 180 days can receive an employment authorization document (EAD). This EAD allows them to work for any employer that they want while remaining in line based on the original employers’ petition. The original employer’s petition remains valid so long as they work in “the same or a similar occupational classification.” However, you currently cannot apply for legal permanent residence prior to a green card or immigrant visa number being available. The bill states that these new “early filers” could also receive this same authorization. However, the bill adds new requirements for this authorization. The job would have to have wages “commensurate with” those for the employer’s similarly situated U.S. workers in the area.
 
-**“****提早申请****”****（简易****H-1B****身份）：允许积压的临时雇员在雇主申请被批准后****2****年获得单独的，有限的，为期****3****年的可再续签的就业许可（在他们的基础身份之外）。在限额之内提供绿卡编号之前，先将身份调整为合法的永久居留申请（即绿卡申请）。**此条款可归功于Durbin参议员。当前，身份调整申请待决时长超过180天的任何人都可以收到就业许可证（EAD）。EAD允许他们为想要的任何雇主工作，同时仍与原始雇主的申请书保持一致。原始雇主的申请书只要在“相同或相似的职业分类”中工作，便保持有效。但是，申请人目前无法在获得绿卡或移民签证号码之前申请合法永久居留权。该法案指出，这些新的“早期申报者”也可以获得同样的授权。但是，该法案为此授权增添了新的要求。该工作的工资必须与该地区雇主给类似的美国员工工资“相匹配”。
+**“提早申请”（简易H-1B身份）：允许积压的临时雇员在雇主申请被批准后2年获得单独的，有限的，为期3年的可再续签的就业许可（在他们的基础身份之外）。在限额之内提供绿卡编号之前，先将身份调整为合法的永久居留申请（即绿卡申请）。**此条款可归功于Durbin参议员。当前，身份调整申请待决时长超过180天的任何人都可以收到就业许可证（EAD）。EAD允许他们为想要的任何雇主工作，同时仍与原始雇主的申请书保持一致。原始雇主的申请书只要在“相同或相似的职业分类”中工作，便保持有效。但是，申请人目前无法在获得绿卡或移民签证号码之前申请合法永久居留权。该法案指出，这些新的“早期申报者”也可以获得同样的授权。但是，该法案为此授权增添了新的要求。该工作的工资必须与该地区雇主给类似的美国员工工资“相匹配”。
 
 If the employer had fewer than 2 such employees, it would have to attest that they were similar to the wages for similar U.S. workers in the area. The worker would have to file a Confirmation of Bona Fide Job Offer or Portability with a request for employment authorization. The employment authorization would last for three year increments with renewals, which is better than the adjustment of status EAD available now ([which is only a 1 or 2 years](/files/archive-uscis_response_to_cisomb_recommendation35_01_02_09.pdf)). The worker would also have to provide a signed letter from their employer with the required attestations. A Confirmation of Bona Fide Job Offer or Portability would need to be filed (again if necessary) within 12 months of the green card application being adjudicated. If the Confirmation of Bona Fide Job Offer or Portability was deemed not to meet the requirements, the green card application would be denied. The minor children and certain spouses of temporary workers would also not benefit from this provision. The cost would be $2,000 for each Confirmation of Bona Fide Job Offer or Portability, in addition to the cost of the adjustment of status green card application. Half the fees would go to immigration adjudications and half into the general fund of the U.S. Treasury.
 
@@ -95,19 +95,19 @@ If the employer had fewer than 2 such employees, it would have to attest that th
 
 - ***Requires the posting of H-1B jobs for new H-1Bs on government website for 30 days. ***If the Department of Labor (DOL) cannot get the website up and running within 180 days, the bill allows just a 30-day extension. If the website still cannot work, the H-1B program could not permit additional H-1B applications.
 
-**要求将新****H-1B****申请的****H-1B****职位在政府网站上发布****30****天**。如果劳工部无法在180天内启动此网站，则该法案只允许30天的延长期。如果该网站届时仍然无法正常运行，则H-1B程序将不允许接收新的H-1B申请。
+**要求将新H-1B申请的H-1B职位在政府网站上发布30天**。如果劳工部无法在180天内启动此网站，则该法案只允许30天的延长期。如果该网站届时仍然无法正常运行，则H-1B程序将不允许接收新的H-1B申请。
 
 - *Comments*: This seems like it is risking a lot for DOL to create a working website in less than a year. Forcing employers to advertise positions that may or may not actually be available makes little sense.- *评论*：对于DOL而言，在不到一年的时间内创建可正常运行的网站似乎将具很大风险。强迫雇主宣传可能对实际提供的职位并没什么意义。
 
-- ***Bans advertising only to H-1Bs*****.**
+- ***Bans advertising only to H-1Bs***.**
 
-***禁止仅仅只向******H-1B******身份员工投放广告****。***
+***禁止仅仅只向**H-1B**身份员工投放广告。***
 
 - *Comments*: This provision is not unreasonable.- *评论*：这条款并非无凭无据。
 
 - ***Bans recruiting primarily H-1Bs.***
 
-***禁止主要雇佣******H-1B******。***
+***禁止主要雇佣**H-1B**。***
 
 - Comments: Unlike the prior ban on advertising, this provision undermines a major purpose of the H-1B visa, which is to allow employers to hire workers for specialty positions. This tells businesses that they cannot simply recruit and hire a specific foreign worker or workers who they believe will fill whatever niche they need. Moreover, the “primarily” implies that companies would have to spend at least 50 percent of their time recruiting U.S. workers, even if they had already decided that a specific noncitizen was the person that they wanted. It treats the H-1B program like the lesser-skilled H-2 programs where the main purpose of the hire is labor, not skills. Moreover, it would greatly harm businesses that already employ the worker under a different visa category (L-1, F-1, J-1, etc.).- *评论*：与先前的广告禁令不同，该条款破坏了H-1B签证的主要目的之一，原目的是允许雇主雇用员工担任特殊职位。这告诉企业，他们不能简单地招聘和雇用特定的一个或多个外国员工，以填补他们认为的任何特定需求职位。而且，“主要”意味着即使公司已经确定特定的非公民是他们想要的人选，公司也将不得不花费至少50％的时间来招聘美国公民。它像低技能的H-2计划一样对待H-1B计划，在该计划中，雇用的主要目的是获得劳动力，而不是特殊技能。此外，这将极大损害已经雇用不同签证类别（如L-1，F-1，J-1等）员工的企业。
 
@@ -117,7 +117,7 @@ Employers could probably evade this requirement by making the job descriptions s
 
 - **Requires providing every W-2 for every H-1B worker employed by the company over whatever period DOL wants.**
 
-**要求在**DOL**认为需要时，公司向其提交任何时段的每个****H-1B****雇员的每个W-2工资证明。**
+**要求在**DOL**认为需要时，公司向其提交任何时段的每个H-1B雇员的每个W-2工资证明。**
 
 - *Comments*: This provision would impose a significant administrative burden for no upside. The H-1B process is already too time-consuming and expensive.- *评论*：此规定将带来巨大的行政负担而没有任何好处。 H-1B流程已经非常耗时耗力。
 
@@ -151,7 +151,7 @@ U.S. businesses contracting with foreign companies, foreign multinationals inves
 
 - **Requires DOL to review H-1B LCAs for “fraud or misrepresentation” rather than only for “completeness and obvious inaccuracies”**.
 
-**要求****DOL****审查****H-1B LCA****的****“****欺诈或失实陈述****”****，而不仅仅是****“****完整性和明显的不准确性****”****。******
+**要求DOL审查H-1B LCA的“欺诈或失实陈述”，而不仅仅是“完整性和明显的不准确性”。**
 
 - *Comments*: This undermines the type of expedited review that LCAs receive. As soon as adjudicators must undertake a more substantive review than completeness and obvious inaccuracies (such as, an internal inconsistency), the review will add significantly more time and expense to an already expensive and time-consuming process.- *评论*：这破坏了接收LCA后快速审查的类型。一旦审查者必须进行比“完整性和明显不准确性”（例如内部意见不一致）更为实质性的审查，那么该审查就会在时间和费用上本来就很昂贵且耗时的流程基础上，再大大增加成本。
 
@@ -169,7 +169,7 @@ U.S. businesses contracting with foreign companies, foreign multinationals inves
 - **Eliminates the requirement that the DOL secretary personally certify that reasonable cause exists for an H-1B investigation.**
 - **Removes the 60-day time limit on investigations.**
 
-**大大扩展****DOL****的审核和调查权限：******
+**大大扩展DOL的审核和调查权限：**
 
 - **允许DOL对任何H-1B雇主进行合规性调查或年度审核。**
 - **要求对所有雇佣超过100名H-1B员工（如果占其雇员超过15％）的雇主进行审核。**
@@ -186,6 +186,6 @@ U.S. businesses contracting with foreign companies, foreign multinationals inves
 
 - **Triples the fines for H-1B LCA violations.** Fines increase from $1,000 to $3,000 for non-willful violations, from $5,000 to $15,000 for willful violations, from $35,000 to $100,000 for displacement of U.S. workers.
 
-**对H-1B LCA违规处以三倍罚款。**非故意违反的罚款从1,000美元提高到3,000美元，故意违反的罚款从5,000美元提高到15,000美元，导致美国员工失业的罚款从35,000美元提高到100,000美元。****
+**对H-1B LCA违规处以三倍罚款。**非故意违反的罚款从1,000美元提高到3,000美元，故意违反的罚款从5,000美元提高到15,000美元，导致美国员工失业的罚款从35,000美元提高到100,000美元。
 
 - **Comments:** Adjustments for inflation since 1998 would not quite double the fine amounts, so these increases are clearly intended as more than an update to outdated statutory figures.- *评论*：自1998年以来的通货膨胀调整不至于导致罚款数额增加一倍，因此，这些加倍显然不仅是对过时法定数字的更新。

@@ -86,17 +86,25 @@ Del Norte High
 
 And the following is a complete list of those who made into the final round:
 
-**Name****School****Name****School**
-Amy WangWestview High SchoolAndrew GaoCanyon Crest Academy
-Brandon XuNorthwood High SchoolAnna ChenOak Avenue Intermediate School
-Katherine HanWestview High SchoolBennett HochnerSage Creek High School
-Lucy LiuValley Christian High SchoolBruce ZhangBowditch Middle School
-Minghui Grace YaoMesa Verde Middle SchoolHarry Huai GuanHomestead High School
-Minle GuoCerritos High SchoolIsabelle ZhangCrystal Springs Uplands School
-Nicole CuiModernBrainKane XuDel Norte High School
-Sophia FangWestview High SchoolMadeleine Chang
-Orange County School of ArtsYujia WangWestview High SchoolNatalie Kwok
-Heritage Oak Private Education
+
+- **Amy Wang** — Westview High School
+- **Andrew Gao** — Canyon Crest Academy
+- **Brandon Xu** — Northwood High School
+- **Anna Chen** — Oak Avenue Intermediate School
+- **Katherine Han** — Westview High School
+- **Bennett Hochner** — Sage Creek High School
+- **Lucy Liu** — Valley Christian High School
+- **Bruce Zhang** — Bowditch Middle School
+- **Minghui Grace Yao** — Mesa Verde Middle School
+- **Harry Huai Guan** — Homestead High School
+- **Minle Guo** — Cerritos High School
+- **Isabelle Zhang** — Crystal Springs Uplands School
+- **Nicole Cui** — ModernBrain
+- **Kane Xu** — Del Norte High School
+- **Sophia Fang** — Westview High School
+- **Madeleine Chang** — Orange County School of Arts
+- **Yujia Wang** — Westview High School
+- **Natalie Kwok** — Heritage Oak Private Education
 
  
 

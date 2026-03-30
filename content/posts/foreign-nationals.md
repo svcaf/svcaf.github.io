@@ -26,7 +26,7 @@ Persons who knowingly and willfully engage in these activities may be subject to
 
 **Definition**
 
-**定义******
+**定义**
 
 The following groups and individuals are considered "foreign nationals" and are subject to the prohibition:
 
@@ -51,7 +51,7 @@ The following groups and individuals are considered "foreign nationals" and are 
 
 **Individuals: The "green card" exception**
 
-**个人："绿卡"例外******
+**个人："绿卡"例外**
 
 The Act does not prohibit individuals with permanent resident status (commonly referred to as "green card holders") from making contributions or donations in connection with federal, state or local elections, as they are not considered foreign nationals.
 
@@ -59,7 +59,7 @@ The Act does not prohibit individuals with permanent resident status (commonly r
 
 **Participation by foreign nationals in decisions involving election-related activities**
 
-**外国人参与和选举决策相关的活动******
+**外国人参与和选举决策相关的活动**
 
 Commission regulations prohibit foreign nationals from directing, dictating, controlling, or directly or indirectly participating in the decision-making process of any person (such as a corporation, labor organization, political committee, or political organization) with regard to any election-related activities. Such activities include, the making of contributions, donations, expenditures, or disbursements in connection with any federal or nonfederal elections in the United States, or decisions concerning the administration of any political committee. Foreign nationals are also prohibited from involvement in the management of a political committee, including any separate segregated fund (SSF), nonconnected committee, or the nonfederal accounts of any of these committees. See Explanation and Justification for 11 CFR 110.20 at [67 *FR* 69946 (November 19, 2002)](http://sers.fec.gov/fosers/showpdf.htm?docid=3182) [PDF].
 
@@ -71,7 +71,7 @@ The Commission has pursued a number of enforcement actions related to this prohi
 
 **Volunteer activity**
 
-**志愿者活动******
+**志愿者活动**
 
 Generally, an individual (including a foreign national) may volunteer personal services to a federal candidate or federal political committee without making a contribution. The Act provides this volunteer "exemption" as long as the individual performing the service is not compensated by anyone. The Commission has addressed applicability of this exemption to several situations involving volunteer activity by a foreign national, as explained below.
 
@@ -87,7 +87,7 @@ In MUR 5987, the Commission examined a situation in which a foreign national pro
 
 **Non-election activity by foreign nationals**
 
-**外国人参与非竞选活动******
+**外国人参与非竞选活动**
 
 Despite the general prohibition on foreign national contributions and donations, foreign nationals may lawfully engage in political activity that is not connected with any election to political office at the federal, state, or local levels. The Commission has issued advisory opinions that help to define the parameters of that activity.
 
@@ -103,7 +103,7 @@ In a decision that was later [affirmed by the Supreme Court](/files/archive-blum
 
 **Providing assistance with foreign national election activity**
 
-**向外国人选举提供帮助******
+**向外国人选举提供帮助**
 
 Under Commission regulations, it is unlawful to knowingly provide "substantial assistance" to foreign nationals making contributions or donations in connection with any U.S. election. Further, no person may provide substantial assistance in the making of any expenditure, independent expenditure, or disbursement by a foreign national. "Substantial assistance" refers to active involvement in the solicitation, making, receipt or acceptance of a foreign national contribution or donation with the intent of facilitating the successful completion of the transaction. This prohibition includes, but is not limited to individuals who act as conduits or intermediaries. See Explanation and Justification for 11 CFR 110.20 at [67 *FR* 69945-46 (November 19, 2002)](http://sers.fec.gov/fosers/showpdf.htm?docid=3182).
 
@@ -111,7 +111,7 @@ Under Commission regulations, it is unlawful to knowingly provide "substantial a
 
 **Soliciting, accepting, or receiving contributions and donations from foreign nationals**
 
-**招募招揽，主动接受或被动接收外国人捐款和捐赠******
+**招募招揽，主动接受或被动接收外国人捐款和捐赠**
 
 The Act prohibits knowingly soliciting, accepting or receiving contributions or donations from foreign nationals. In this context, "knowingly" means that a person:
 
@@ -139,7 +139,7 @@ In MUR 4638, the Commission found reason to believe that a law firm had violated
 
 **Monitoring prohibited contributions**
 
-**监管违禁捐款******
+**监管违禁捐款**
 
 When a federal political committee (a committee active in federal elections) receives a contribution it believes may be from a foreign national, it must:
 
@@ -169,7 +169,7 @@ In MUR 4530 and several related MURs (MURs 4531, 4587, 4642, 4909, and 5295), th
 
 **Domestic subsidiaries and foreign-owned corporations**
 
-**本土分支机构和外资公司******
+**本土分支机构和外资公司**
 
 A U.S. subsidiary of a foreign corporation or a U.S. corporation that is owned by foreign nationals or by a foreign parent corporation may be subject to the prohibition, as discussed further below.
 
@@ -177,7 +177,7 @@ A U.S. subsidiary of a foreign corporation or a U.S. corporation that is owned b
 
 **PAC contributions for federal activity**
 
-**向****PAC****联邦活动捐款******
+**向PAC联邦活动捐款**
 
 Based on a series of FEC advisory opinions, domestic subsidiaries of foreign corporations may establish federal political action committees (known as separate segregated funds or SSFs) for the purpose of make federal contributions and expenditures, so long as:
 
@@ -203,7 +203,7 @@ For example, in [AO 2000-17 (Extendicare)](https://www.fec.gov/data/legal/adviso
 
 **Corporate donations and disbursements for nonfederal activity**
 
-**向非联邦活动的公司捐赠和支出******
+**向非联邦活动的公司捐赠和支出**
 
 A domestic subsidiary of a foreign corporation (or a domestic corporation owned by foreign nationals) may make donations and disbursements in connection with state or local elections (if permissible under state and local law) provided that:
 

@@ -7,23 +7,25 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/06/SVCAF-Award-Sample.png)
-SVCAF announces a new program to recognize Chinese Americans who publish influential articles which help advance the mission of SVCAF.  A recipient of this award will get a certificate and a small honorarium. 
+SVCAF announces a new program to recognize Chinese Americans who publish influential articles which help advance the mission of SVCAF.  A recipient of this award will get a certificate and a small honorarium.
 
-## Criteria 
+## Criteria
 
-- The articles are related to at least one of the items listed in SVCAF’s mission statement: The Foundation shall advance better integration of Chinese communities in Silicon Valley and its neighboring areas into the U.S. society by: providing education to Chinese communities on legal and political systems in California and the nation;- encouraging active civic engagement and political participation by Chinese communities; and- promoting recognition of Chinese communities’ contributions.- Due to restrictions on 501(c)3, the articles should be non-partisan. Nor can they be tied to any election campaigns. - The articles should be first published within the past six months at the time of the nomination. - The articles can be written in either English or Chinese.
+- The articles are related to at least one of the items listed in SVCAF's mission statement: The Foundation shall advance better integration of Chinese communities in Silicon Valley and its neighboring areas into the U.S. society by: providing education to Chinese communities on legal and political systems in California and the nation;
+- encouraging active civic engagement and political participation by Chinese communities; and
+- promoting recognition of Chinese communities' contributions.- Due to restrictions on 501(c)3, the articles should be non-partisan. Nor can they be tied to any election campaigns. - The articles should be first published within the past six months at the time of the nomination. - The articles can be written in either English or Chinese.
 
 ## How to Nominate An Article
 
-If you think you have found an article meeting our criteria above, please send us  ([info@svcaf.org](mailto:info@svcaf.org) ) your nomination with the following information:
+If you think you have found an article meeting our criteria above, please send us  ([info@svcaf.org](mailto:info@svcaf.org) ) your nomination with the following information:
 
-- Email title: Nomination for VCAA- Email body：The link to the article to be nominated - The name of the author and - The author’s contact information (email, phone number, wechat ID, etc.). 
+- Email title: Nomination for VCAA- Email body：The link to the article to be nominated - The name of the author and - The author's contact information (email, phone number, wechat ID, etc.).
 
-Self-nomination is allowed and encouraged. 
+Self-nomination is allowed and encouraged.
 
 ## Sponsor this Award
 
-If you would like to donate to us to support this award, please click  on the link below: [/donate/](/donate/)  . In your donation message, please mention the keyword VCAA so we will use your donations to fund this award. 
+If you would like to donate to us to support this award, please click  on the link below: [/donate/](/donate/)  . In your donation message, please mention the keyword VCAA so we will use your donations to fund this award.
 
 ## Recipients of the Award
 

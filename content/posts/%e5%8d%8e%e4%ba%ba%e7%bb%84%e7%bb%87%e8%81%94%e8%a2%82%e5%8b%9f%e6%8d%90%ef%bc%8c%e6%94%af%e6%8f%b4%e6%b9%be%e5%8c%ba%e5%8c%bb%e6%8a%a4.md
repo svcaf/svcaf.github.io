@@ -14,12 +14,15 @@ categories: ["SVCAF"]
 
 我们以下几个组织讨论了一下，决定立即携手发起口罩募捐活动：
 
-- **Herbert Chiu, DDS, Health Chair, Citizens for Better Community (CBC)**- **Chunchi Ma, President, Huaren Rotary Club**- **Jenny Zhao, President, Bay Area Homeowners Network(BAHN)  **- **Crystal Lu, President, Silicon Valley Chinese Association Foundation (SVCAF)**
+- **Herbert Chiu, DDS, Health Chair, Citizens for Better Community (CBC)**
+- **Chunchi Ma, President, Huaren Rotary Club**
+- **Jenny Zhao, President, Bay Area Homeowners Network(BAHN)**
+- **Crystal Lu, President, Silicon Valley Chinese Association Foundation (SVCAF)**
 
 目标是未来10天-两周内，募集2万美元的善款，用来购买5-10万只医用口罩。货源是广州的一家厂商，有FDA认证，是援美公益活动提供最低的价格（1.5人民币/只左右)。目 前 运 输通 关 等 准 备工 作 都 在平行进行中， 速度是关键。如果Local医院派送不完，还有大量的机构可以赠送，包括老人中心，警察局，需要口罩的服务性行业人员，及各市府工作人员等。我们现在可以安全的在大后方家里工作，应该感恩那些没得选择而勇敢战斗在第一线的医护人员。
 
 祈福加州，天佑美国！谢谢大家的不懈支持！
 
-CBC网站 
+CBC网站
 
 [http://www.cbcsfbay.org](http://www.cbcsfbay.org)

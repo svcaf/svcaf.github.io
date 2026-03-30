@@ -161,11 +161,22 @@ U.S. businesses contracting with foreign companies, foreign multinationals inves
 
 - *Comments*: This provision extends a [current provision of the law](https://www.law.cornell.edu/uscode/text/8/1182) to state the “actual wages” must be based only on wages of workers in the area of intended employment. There is also a slight tightening in how it defines similar U.S. workers from “similar experience and qualifications” to “substantially the same duties and responsibilities.” In some cases, using only U.S. workers in one area might raise the wage in some cases, while it might lower the wage in other cases. Again, narrowing the workers to those with “substantially similar duties and responsibilities” would have the same ambiguous effect.- *评论*：此条款扩展了的现行法规，即规定“实际工资”必须仅基于预期就业地区员工的工资。从“相似的经验和资历”到“基本相同的职责和责任”，它对相似的美国员工的定义也略有收紧。某些情况下，在一个地区仅使用美国员工可能会提高工资，而在其他情况下则可能会降低工资。同样，将员工范围缩小到“职责和责任基本相似”的员工，将导致相同的模棱两可效果。
 
-- **Vastly expands DOL audit and investigation authority:****Allows DOL to conduct compliance surveys or annual audits of any H-1B employer.**- **Requires audits of anyone with 100 H-1B workers if more than 15% of their employees.**- **Allows investigations based on anonymous sources not in the form of a complaint from workers or other harmed parties.**- **Allows DOL to audit or investigate based on information in an LCA.**- **Eliminates the requirement that the DOL secretary personally certify that reasonable cause exists for an H-1B investigation.**- **Removes the 60-day time limit on investigations.**
+- **Vastly expands DOL audit and investigation authority:**
+- **Allows DOL to conduct compliance surveys or annual audits of any H-1B employer.**
+- **Requires audits of anyone with 100 H-1B workers if more than 15% of their employees.**
+- **Allows investigations based on anonymous sources not in the form of a complaint from workers or other harmed parties.**
+- **Allows DOL to audit or investigate based on information in an LCA.**
+- **Eliminates the requirement that the DOL secretary personally certify that reasonable cause exists for an H-1B investigation.**
+- **Removes the 60-day time limit on investigations.**
 
 **大大扩展****DOL****的审核和调查权限：******
 
-- **允许DOL对任何H-1B雇主进行合规性调查或年度审核。**- **要求对所有雇佣超过100名H-1B员工（如果占其雇员超过15％）的雇主进行审核。**- **允许基于匿名来源进行调查，而不因员工或其他受害方的投诉。**- **允许DOL根据LCA中的信息进行审核或调查。**- **消除了劳工部部长亲自证明对H-1B调查存在合理原因的要求。**- **取消了调查的60天期限要求。***Comments*: Currently, H-1B audits are based only on complaints or other verified, non anonymous sources that come to the DOL from people DOL knows would have knowledge of an H-1B violation. According to DOL, this latter authority [had never been used](https://www.dol.gov/newsroom/releases/dol/dol20200731) as of this year, so H-1B audits have exclusively been based on complaints. Congress imposed these restrictions because it wanted to limit the authority of DOL to conduct meritless investigations. These provisions would allow DOL to target employers for audits without any reason to believe a violation has occurred. This is yet another burden in an already burdensome and expensive process.- *评论*：目前，DOL 启动H-1B审核仅基于：1.违反H-1B流程的知情人员投诉；或2.其他经过验证的非匿名信息来源。根据DOL官方规定，后一项到今年为止从未被使用过，至此H-1B审核完全基于投诉。国会之所以增加这些约束，是因为它希望限制DOL自行开展无缘故调查的权限。这些规定将使DOL可以将雇主定位为审核对象，而无需任何相信发生了违规情况理由。这是本来已经很麻烦且昂贵的行政过程中的又一个负担。
+- **允许DOL对任何H-1B雇主进行合规性调查或年度审核。**
+- **要求对所有雇佣超过100名H-1B员工（如果占其雇员超过15％）的雇主进行审核。**
+- **允许基于匿名来源进行调查，而不因员工或其他受害方的投诉。**
+- **允许DOL根据LCA中的信息进行审核或调查。**
+- **消除了劳工部部长亲自证明对H-1B调查存在合理原因的要求。**
+- **取消了调查的60天期限要求。***Comments*: Currently, H-1B audits are based only on complaints or other verified, non anonymous sources that come to the DOL from people DOL knows would have knowledge of an H-1B violation. According to DOL, this latter authority [had never been used](https://www.dol.gov/newsroom/releases/dol/dol20200731) as of this year, so H-1B audits have exclusively been based on complaints. Congress imposed these restrictions because it wanted to limit the authority of DOL to conduct meritless investigations. These provisions would allow DOL to target employers for audits without any reason to believe a violation has occurred. This is yet another burden in an already burdensome and expensive process.- *评论*：目前，DOL 启动H-1B审核仅基于：1.违反H-1B流程的知情人员投诉；或2.其他经过验证的非匿名信息来源。根据DOL官方规定，后一项到今年为止从未被使用过，至此H-1B审核完全基于投诉。国会之所以增加这些约束，是因为它希望限制DOL自行开展无缘故调查的权限。这些规定将使DOL可以将雇主定位为审核对象，而无需任何相信发生了违规情况理由。这是本来已经很麻烦且昂贵的行政过程中的又一个负担。
 
 - **Eliminates the protection from penalties for employers that made a good faith effort to follow the rules or that underpaid employees based on use of a prevailing wage methodology based on industry standards.**
 

@@ -29,4 +29,8 @@ Recording included after the meeting:
 
 Related links:
 
-- [SFFA诉哈佛录取歧视案宣传片](/posts/sffa诉哈佛录取歧视案宣传片/)- [SVCA基金会恳请华人社区继续捐款支持SFFA](/posts/svcaf-provides-donation-match-for-sffa/)- [Harvard Amicus Brief Filed by SVCAF](/pages/harvard-amicus-brief-filed-by-svcaf/)- [SVCA基金会5/30 Blum教育论坛语音整理2-Consovoy](/posts/2015-530-blum教育论坛语音整理2-consovoy/)- [Boston Rally Live](/posts/bostonrally/)
+- [SFFA诉哈佛录取歧视案宣传片](/posts/sffa诉哈佛录取歧视案宣传片/)
+- [SVCA基金会恳请华人社区继续捐款支持SFFA](/posts/svcaf-provides-donation-match-for-sffa/)
+- [Harvard Amicus Brief Filed by SVCAF](/pages/harvard-amicus-brief-filed-by-svcaf/)
+- [SVCA基金会5/30 Blum教育论坛语音整理2-Consovoy](/posts/2015-530-blum教育论坛语音整理2-consovoy/)
+- [Boston Rally Live](/posts/bostonrally/)

@@ -1,6 +1,7 @@
 ---
 title: "SVCAF Co-Founder Chunhua Liao Runs for SFFA Board of Directors"
 date: 2019-12-08T22:04:43
+tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: svcaf-co-founder-runs-for-sffa-board-of-director
 categories: ["SVCAF"]
 ---

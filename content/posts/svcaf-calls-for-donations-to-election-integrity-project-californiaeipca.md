@@ -1,9 +1,9 @@
 ---
 title: "SVCAF Calls for Donations to Election Integrity Project ® California"
 date: 2022-12-11T22:11:34
+tags: ['election-integrity', 'advocacy', 'election-law']
 slug: svcaf-calls-for-donations-to-election-integrity-project-californiaeipca
 categories: ["SVCAF"]
-tags: ["election integrity"]
 ---
 
 

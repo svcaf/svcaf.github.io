@@ -1,6 +1,7 @@
 ---
 title: "Webinar Recap: AI Programming for Data Analysis with Mr. Leon Guo"
 date: 2025-06-09T18:52:45
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: webinar-recap-ai-programming-for-data-analysis-with-mr-leon-guo
 categories: ["SVCAF"]
 ---

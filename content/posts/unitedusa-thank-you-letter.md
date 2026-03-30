@@ -1,6 +1,7 @@
 ---
 title: "UnitedUSA 致信赞赏SVCAF为抗击新冠疫情所付出的努力"
 date: 2020-06-27T01:47:53
+tags: ['healthcare', 'community-action', 'volunteer']
 slug: unitedusa-thank-you-letter
 categories: ["SVCAF"]
 ---

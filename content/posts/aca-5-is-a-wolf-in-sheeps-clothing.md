@@ -1,6 +1,7 @@
 ---
 title: "ACA-5, 一只披着羊皮的狼"
 date: 2020-07-04T07:19:34
+tags: ['legislation', 'affirmative-action', 'advocacy']
 slug: aca-5-is-a-wolf-in-sheeps-clothing
 aliases:
   - "/posts/aca-5-%E4%B8%80%E5%8F%AA%E6%8A%AB%E7%9D%80%E7%BE%8A%E7%9A%AE%E7%9A%84%E7%8B%BC/"

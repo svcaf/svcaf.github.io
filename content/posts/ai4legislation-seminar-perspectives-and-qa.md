@@ -1,6 +1,7 @@
 ---
 title: "AI4Legislation: Seminar Perspectives and Q&A"
 date: 2025-04-03T13:58:46
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: ai4legislation-seminar-perspectives-and-qa
 description: "Quick Recap The webinar covered discussions on an upcoming project, the AI for Legislation competition, and the potential of AI in legal and legislative processes. Participants shared their experience"
 categories: ["SVCAF"]

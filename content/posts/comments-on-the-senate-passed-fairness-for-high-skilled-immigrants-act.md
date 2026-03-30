@@ -1,6 +1,7 @@
 ---
 title: "点评参议院通过的“高技术移民法案”"
 date: 2020-12-12T02:34:34
+tags: ['immigration', 'advocacy', 'civic-education']
 slug: comments-on-the-senate-passed-fairness-for-high-skilled-immigrants-act
 categories: ["SVCAF"]
 ---

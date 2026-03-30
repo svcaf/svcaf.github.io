@@ -1,6 +1,7 @@
 ---
 title: "AI4Legislation: AI for Civic Awareness and Action"
 date: 2025-02-02T11:17:45
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: civic-ai-competition-ai4legislation
 categories: ["SVCAF"]
 ---

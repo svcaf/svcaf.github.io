@@ -1,6 +1,7 @@
 ---
 title: "SVCAF Accepts Nominations for the Voice of Chinese Americans Award"
 date: 2020-06-29T12:55:15
+tags: ['awards', 'svcaf-news', 'community-events']
 slug: svcaf-accepts-nominations-for-the-voice-of-chinese-americans-award
 categories: ["SVCAF"]
 ---

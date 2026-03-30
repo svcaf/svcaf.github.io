@@ -1,6 +1,7 @@
 ---
 title: "Asian American Coalition Condemns California Asian American Legislators’ Scapegoating All Children for Votes"
 date: 2020-06-14T18:46:11
+tags: ['legislation', 'affirmative-action', 'advocacy']
 slug: asian-american-coalition-condemns-california-asian-american-legislators-scapegoating-all-children-for-votes
 description: "For Immediate Release June 14, 2020 Fremont, San Diego & Irving, California: Representing a diverse and broad-based coalition of concerned organizations to oppose Assembly Constitutional Amendment ACA"
 categories: ["SVCAF"]

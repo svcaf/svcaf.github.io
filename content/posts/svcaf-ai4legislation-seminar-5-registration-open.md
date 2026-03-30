@@ -1,6 +1,7 @@
 ---
 title: "SVCAF AI4Legislation Seminar #5 — Registration Open!"
 date: 2025-06-26T23:13:11
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: svcaf-ai4legislation-seminar-5-registration-open
 description: "Saturday, July 12 · 10 AM Pacific / 1 PM Eastern Guest: Prof. Foaad Khosmood Why you’ll want to meet him • Forbes Endowed Professor of Computer Engineering at Cal Poly SLO • Research Director, Institu"
 categories: ["SVCAF"]

@@ -1,6 +1,7 @@
 ---
 title: "[Action!] SVCAF Calls for Santa Clara Voters to Oppose Unjustified Voting Adjudication"
 date: 2023-09-22T22:10:34
+tags: ['election-integrity', 'advocacy', 'election-law']
 slug: svcaf-calls-for-santa-clara-voters-to-take-actions
 description: "FOR IMMEDIATE RELEASE Sep 22, 2023 Are You OK with the Santa Clara County Registrar of Voters Second Guessing Your Vote? For the last four years, Group of Santa Clara County Citizens been Citizen Obse"
 categories: ["SVCAF"]

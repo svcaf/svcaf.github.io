@@ -1,6 +1,7 @@
 ---
 title: "美国政府诉陈刚案-刑事起诉书"
 date: 2021-01-26T02:52:57
+tags: ['svcaf-news', 'community-action', 'civic-education']
 slug: gangchen
 categories: ["SVCAF"]
 ---

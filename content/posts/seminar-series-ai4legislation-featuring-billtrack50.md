@@ -1,6 +1,7 @@
 ---
 title: "Seminar Series: AI4Legislation – featuring BillTrack50"
 date: 2025-04-25T20:50:54
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: seminar-series-ai4legislation-featuring-billtrack50
 categories: ["SVCAF"]
 ---

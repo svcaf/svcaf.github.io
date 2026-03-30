@@ -1,13 +1,13 @@
 ---
 title: "SVCAF Urging for Immediate Actions for COVID-19 Pandemic"
 date: 2020-03-27T21:07:37
+tags: ['legislation', 'affirmative-action', 'advocacy']
 slug: strongertogether
 aliases:
   - "/pages/strongertogether/"
   - "/strongertogether/"
 description: "Project #StrongerTogether To alleviate the extreme shortage of personal protective equipment for healthcare professionals and public service workers, Silicon Valley Chinese Association Foundation has "
 categories: ["SVCAF"]
-tags: ["coronavirus", "donation", "strongertogether"]
 ---
 
 **Project #StrongerTogether**

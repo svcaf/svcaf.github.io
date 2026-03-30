@@ -1,6 +1,7 @@
 ---
 title: "SVCA基金会再次恳请全美朋友加入SFFA并捐款支持Blum的诉讼"
 date: 2017-08-10T18:56:31
+tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: "svca基金会再次恳请全美朋友加入sffa并捐款支持blum的诉"
 description: "**********重要事情放最前*********        行动是最有力的抗议！2017/8/3, 著名左翼媒体华盛顿邮报上登载了一篇奇葩文章“Don’t use Asian Americans to Justify Anti-affirmative Action Politics”（https://www.washingtonpost.com/news/posteverything/wp"
 categories: ["SVCAF"]

@@ -1,6 +1,7 @@
 ---
 title: "Lunar New Year Party 2024 & SVCA 10th Anniversary"
 date: 2024-02-02T13:31:17
+tags: ['community-events', 'svcaf-news', 'community-action']
 slug: lunar-new-year-party-2024
 categories: ["SVCAF"]
 ---

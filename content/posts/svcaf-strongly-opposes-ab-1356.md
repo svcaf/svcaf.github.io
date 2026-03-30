@@ -1,6 +1,7 @@
 ---
 title: "SVCAF Strongly Opposes AB 1356"
 date: 2019-05-10T10:45:25
+tags: ['legislation', 'affirmative-action', 'advocacy']
 slug: svcaf-strongly-opposes-ab-1356
 categories: ["SVCAF"]
 ---

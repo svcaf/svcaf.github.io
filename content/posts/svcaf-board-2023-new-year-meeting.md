@@ -1,6 +1,7 @@
 ---
 title: "硅谷华人协会基金会新老理事2023新年茶话会"
 date: 2023-02-12T22:09:45
+tags: ['svcaf-news', 'community-action', 'civic-education']
 slug: svcaf-board-2023-new-year-meeting
 categories: ["SVCAF"]
 ---

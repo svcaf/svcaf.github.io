@@ -1,6 +1,7 @@
 ---
 title: "随着向每位选民邮寄选票，加州选举的廉正性受到威胁"
 date: 2020-07-10T06:06:28
+tags: ['healthcare', 'community-action', 'volunteer']
 slug: california-election-integrity-in-jeopardy-with-vote-by-mail-ballots-to-every-voter
 categories: ["SVCAF"]
 ---

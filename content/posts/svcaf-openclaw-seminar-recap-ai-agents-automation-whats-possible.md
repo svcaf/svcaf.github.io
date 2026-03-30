@@ -1,6 +1,7 @@
 ---
 title: "SVCAF OpenClaw Seminar Recap: AI Agents, Automation & What’s Possible"
 date: 2026-03-07T22:52:49
+tags: ['ai-technology', 'civic-education', 'svcaf-news']
 slug: svcaf-openclaw-seminar-recap-ai-agents-automation-whats-possible
 description: "A recap of SVCAF's first OpenClaw Seminar on March 7, 2026 — covering AI agents, automation workflows, and real demos presented by Chunhua Liao, Sam Li, and Rich Liu."
 categories: ["SVCAF"]

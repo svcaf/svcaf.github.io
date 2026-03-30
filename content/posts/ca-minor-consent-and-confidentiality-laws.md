@@ -1,6 +1,7 @@
 ---
 title: "加利福尼亚州未成年人医疗同意和保密法（手机版）"
 date: 2021-01-12T02:19:28
+tags: ['healthcare', 'legislation', 'community-events']
 slug: ca-minor-consent-and-confidentiality-laws
 description: "加利福尼亚州未成年人医疗同意和保密法CALIFORNIA MINOR CONSENT AND CONFIDENTIALITY LAWS 1. 任何年纪的未成年人可以同意MINORS OF ANY AGE MAY CONSENT 1.1 怀孕PREGNANCY 1.1.1 法规、细则LAW/DETAILS 未成年人可以同意接受与避孕或治疗妊娠有关的医疗服务，而绝育除外。（家庭法§ 6925）“A m"
 categories: ["SVCAF"]

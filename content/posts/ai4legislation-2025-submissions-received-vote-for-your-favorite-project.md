@@ -1,6 +1,7 @@
 ---
 title: "AI4Legislation 2025: Submissions Received! Vote for Your Favorite Project"
 date: 2025-08-03T11:14:12
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: ai4legislation-2025-submissions-received-vote-for-your-favorite-project
 description: "We’re excited to announce that the AI4Legislation 2025 competition has officially closed for submissions — and we received 4 outstanding projects from individuals and teams passionate about using AI t"
 categories: ["SVCAF"]

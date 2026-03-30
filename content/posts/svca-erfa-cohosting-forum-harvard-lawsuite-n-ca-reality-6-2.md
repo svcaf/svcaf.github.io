@@ -1,6 +1,7 @@
 ---
 title: "SVCAF and ERFA Cohosting Forum: “Harvard Lawsuit & the Reality in CA” 6/25 Register Now!"
 date: 2022-06-11T17:46:41
+tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: svca-erfa-cohosting-forum-harvard-lawsuite-n-ca-reality-6-2
 description: "The SVCAF (Silicon Valley Chinese Association Foundation) and ERFA (Equal Rights for All Political Action Committee) are proudly co-hosting a forum on 6/25/2022, Saturday! “The significance of Harvard"
 categories: ["SVCAF"]

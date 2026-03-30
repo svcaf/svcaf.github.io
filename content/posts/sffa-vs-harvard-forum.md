@@ -1,6 +1,7 @@
 ---
 title: "《黎明前的黑暗：哈佛官司的意义和加州的现实》论坛报告"
 date: 2022-06-26T21:55:21
+tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: sffa-vs-harvard-forum
 categories: ["SVCAF"]
 ---

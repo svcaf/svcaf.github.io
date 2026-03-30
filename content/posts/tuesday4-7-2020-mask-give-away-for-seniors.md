@@ -1,6 +1,7 @@
 ---
 title: "Tuesday(4/7/2020) Mask Give-Away for Seniors @ Sunnyvale"
 date: 2020-04-05T19:36:58
+tags: ['healthcare', 'community-action', 'volunteer']
 slug: tuesday4-7-2020-mask-give-away-for-seniors
 aliases:
   - "/pages/tuesday4-7-2020-mask-give-away-for-seniors/"

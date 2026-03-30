@@ -1,6 +1,7 @@
 ---
 title: "【行动】抗击种族歧视恶法ACA7，签署在线情愿书"
 date: 2024-01-03T19:10:10
+tags: ['legislation', 'affirmative-action', 'advocacy']
 slug: sign-petition-noaca7
 categories: ["SVCAF"]
 ---

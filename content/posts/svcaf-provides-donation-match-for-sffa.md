@@ -1,6 +1,7 @@
 ---
 title: "SVCA基金会恳请华人社区继续捐款支持SFFA"
 date: 2022-01-25T22:55:06
+tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: svcaf-provides-donation-match-for-sffa
 categories: ["SVCAF"]
 ---

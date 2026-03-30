@@ -1,6 +1,7 @@
 ---
 title: "Jason Lu 职场讲座笔记"
 date: 2019-11-10T22:32:13
+tags: ['education-policy', 'volunteer', 'svcaf-news']
 slug: jason-lu
 aliases:
   - "/pages/jason-lu/"

@@ -1,9 +1,9 @@
 ---
 title: "Seminar Series: AI4Legislation – featuring Legalese Decoder"
 date: 2025-03-24T20:25:14
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: seminar-series-ai4legislation-featuring-legalese-decoder
 categories: ["SVCAF"]
-tags: ["ai", "ai4legislation", "competition", "legalese decoder", "seminar"]
 ---
 
 

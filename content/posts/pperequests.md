@@ -1,6 +1,7 @@
 ---
 title: "How To Accept Future PPE Donations from SVCAF (CA only)"
 date: 2020-04-01T13:30:46
+tags: ['healthcare', 'community-action', 'volunteer']
 slug: pperequests
 aliases:
   - "/pages/pperequests/"

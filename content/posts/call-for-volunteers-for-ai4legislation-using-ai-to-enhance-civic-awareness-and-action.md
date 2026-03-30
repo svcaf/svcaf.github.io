@@ -1,6 +1,7 @@
 ---
 title: "Call for Volunteers of AI4Legislation: Using AI to Enhance Civic Awareness and Action"
 date: 2025-02-09T11:48:41
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action
 aliases:
   - "/2025/02/call-for-volunteers-for-ai4legislation-using-ai-to-enhance-civic-awareness-and-action/"

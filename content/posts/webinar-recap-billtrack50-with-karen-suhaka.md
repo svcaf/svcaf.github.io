@@ -1,6 +1,7 @@
 ---
 title: "Webinar Recap: BillTrack50 with Karen Suhaka"
 date: 2025-04-29T16:19:46
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: webinar-recap-billtrack50-with-karen-suhaka
 description: "Quick Recap Yesterday, our guest Karen Suhaka, founder of BillTrack50, presented with us on using AI to analyze legislative data, highlighting how her platform provides bill summaries, tracks legislat"
 categories: ["SVCAF"]

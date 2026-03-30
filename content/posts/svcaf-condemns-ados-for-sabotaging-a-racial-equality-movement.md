@@ -1,6 +1,7 @@
 ---
 title: "SVCAF Condemns ADOS for Sabotaging a Racial Equality Movement"
 date: 2020-06-08T22:08:32
+tags: ['legislation', 'affirmative-action', 'advocacy']
 slug: svcaf-condemns-ados-for-sabotaging-a-racial-equality-movement
 description: "For Immediate Release June 8, 2020 FREMONT, Calif. — On behalf of a growing civil rights campaign against state government-sponsored racial discrimination, the Silicon Valley Chinese Association Found"
 categories: ["SVCAF"]

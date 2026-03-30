@@ -1,12 +1,12 @@
 ---
 title: "Update on Project #StrongerTogether: Where Are Those Masks?"
 date: 2020-04-10T17:23:35
+tags: ['healthcare', 'community-action', 'volunteer']
 slug: update-on-strongertogether-1
 aliases:
   - "/pages/update-on-strongertogether-1/"
 description: "[IMPORTANT update on Free Masks for Seniors ] Up till 4/10 17:08, all of our existing available masks are all donated out, including the masks for seniors. Thus we are pausing the online request and d"
 categories: ["SVCAF"]
-tags: ["BayArea", "community4community", "coronavirus", "covid19", "donatingmasks", "essentialbusinesses", "fighting", "hospitals", "strongertogether", "Sunnyvale"]
 ---
 
 **[IMPORTANT update on  Free Masks for Seniors ]**  Up till 4/10 17:08, all of our existing available masks are all **donated out**, including the masks for seniors. Thus we are **pausing** the online request and delivery service for seniors until future notice. If you have not received our confirmation about the drop off, please come come back to our website for next such activity. Thanks.

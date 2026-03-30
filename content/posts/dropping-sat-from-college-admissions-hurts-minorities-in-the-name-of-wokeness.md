@@ -1,6 +1,7 @@
 ---
 title: "以“觉醒”为名，大学录取程序取消SAT成绩将伤害少数族裔"
 date: 2020-07-08T06:13:54
+tags: ['awards', 'svcaf-news', 'community-events']
 slug: dropping-sat-from-college-admissions-hurts-minorities-in-the-name-of-wokeness
 categories: ["SVCAF"]
 ---

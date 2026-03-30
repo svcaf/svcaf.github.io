@@ -1,6 +1,7 @@
 ---
 title: "联邦选举委员会关于外国人参与选举的规则"
 date: 2020-07-15T23:26:02
+tags: ['community-events', 'svcaf-news', 'community-action']
 slug: foreign-nationals
 description: "https://www.fec.gov/updates/foreign-nationals/ The Federal Election Commission (hereafter FEC) often receives questions about the rules governing foreign nationals’ participation in U.S. elections. Wh"
 categories: ["SVCAF"]

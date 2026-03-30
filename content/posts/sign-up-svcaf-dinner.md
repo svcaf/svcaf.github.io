@@ -1,6 +1,7 @@
 ---
 title: "SVCA Foundation New Year Dinner"
 date: 2015-12-19T07:44:19
+tags: ['community-events', 'svcaf-news', 'community-action']
 slug: sign-up-svcaf-dinner
 categories: ["SVCAF"]
 ---

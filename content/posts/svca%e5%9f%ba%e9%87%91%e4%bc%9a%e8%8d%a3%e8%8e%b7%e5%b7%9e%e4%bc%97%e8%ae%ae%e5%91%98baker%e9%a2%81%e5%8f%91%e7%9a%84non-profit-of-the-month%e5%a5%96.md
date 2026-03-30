@@ -1,6 +1,7 @@
 ---
 title: "SVCA基金会荣获州众议员Baker颁发的“Non-Profit of the Month”奖"
 date: 2017-05-25T21:01:18
+tags: ['awards', 'svcaf-news', 'community-events']
 slug: "svca基金会荣获州众议员baker颁发的non-profit-of-the-month奖"
 categories: ["SVCAF"]
 ---

@@ -1,6 +1,7 @@
 ---
 title: "【行动！】请致信给圣县参事禁止对Under Vote进行人工裁决"
 date: 2023-09-22T22:22:54
+tags: ['election-integrity', 'advocacy', 'election-law']
 slug: svcaf-calls-for-voters-to-oppose-unjustified-voting-adjudication-cn
 categories: ["SVCAF"]
 ---

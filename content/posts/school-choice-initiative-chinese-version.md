@@ -1,6 +1,7 @@
 ---
 title: "加州公投倡议： 教育储蓄账户/教育自由法"
 date: 2022-02-26T22:05:38
+tags: ['civic-education', 'advocacy', 'svcaf-news']
 slug: school-choice-initiative-chinese-version
 categories: ["SVCAF"]
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Defending the US Constitution as Owners of the USA"
 date: 2022-11-01T19:50:09
+tags: ['sffa-lawsuit', 'education-policy', 'affirmative-action']
 slug: defending-the-us-constitution-as-owners-of-the-usa
 categories: ["SVCAF"]
 ---

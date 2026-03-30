@@ -1,6 +1,7 @@
 ---
 title: "SVCAF Advises White House Against 2020 Census Proposal on Racial Data Subdivision"
 date: 2017-04-30T12:29:11
+tags: ['election-law', 'advocacy', 'civic-education']
 slug: svcaf-advises-white-house-against-2020-census-proposal-on-racial-data-subdivision
 categories: ["SVCAF"]
 ---

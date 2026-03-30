@@ -1,6 +1,7 @@
 ---
 title: "亚裔学生告赢学区,将获66.5万美元赔偿及公开道歉"
 date: 2020-04-09T20:15:30
+tags: ['awards', 'svcaf-news', 'community-events']
 slug: danville-student-settles-free-speech-lawsuit-against-srvusd
 aliases:
   - "/pages/danville-student-settles-free-speech-lawsuit-against-srvusd/"

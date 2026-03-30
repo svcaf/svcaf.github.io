@@ -1,6 +1,7 @@
 ---
 title: "Project #StrongerTogether Kickoff"
 date: 2020-03-31T10:27:59
+tags: ['healthcare', 'community-action', 'volunteer']
 slug: project-strongertogether-kickoff
 aliases:
   - "/pages/project-strongertogether-kickoff/"

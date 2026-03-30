@@ -1,6 +1,7 @@
 ---
 title: "AI4Legislation Seminar #4 Recording and Slides: AI Coding Tools for Beginners "
 date: 2025-06-26T08:16:43
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: seminar-4-recording-ai-coding-tools-for-beginners
 categories: ["SVCAF"]
 ---

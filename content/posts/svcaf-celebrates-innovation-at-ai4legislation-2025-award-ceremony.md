@@ -1,6 +1,7 @@
 ---
 title: "SVCAF Celebrates Innovation at AI4Legislation 2025 Award Ceremony"
 date: 2025-09-28T20:50:28
+tags: ['ai4legislation', 'civic-education', 'ai-technology']
 slug: svcaf-celebrates-innovation-at-ai4legislation-2025-award-ceremony
 categories: ["SVCAF"]
 ---

@@ -132,14 +132,9 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <div class="gallery-caption-overlay">Board &amp; Members Outdoor Gathering, 2023</div>
 </div>
 
-<div class="gallery-item" data-caption="SVCAF members, volunteers, community leaders, and their families gather on stage for a group photo at an annual meeting, celebrating the strength and unity of Silicon Valley's Chinese American community.">
-<img src="/images/slide-15.jpg" loading="lazy" alt="SVCAF Annual Meeting Group Photo">
-<div class="gallery-caption-overlay">SVCAF Annual Meeting Community Group Photo</div>
-</div>
-
 <div class="gallery-item" data-caption="Nearly 50 SVCAF members, families, and community leaders pose together on stage in a Silicon Valley auditorium — a powerful image of the organization's depth and community roots.">
 <img src="/images/gallery-g15.jpg" loading="lazy" alt="SVCAF Large Group Photo on Stage">
-<div class="gallery-caption-overlay">SVCAF Community — Large Group Photo on Stage</div>
+<div class="gallery-caption-overlay">SVCAF Annual Meeting Community Group Photo</div>
 </div>
 
 </div>

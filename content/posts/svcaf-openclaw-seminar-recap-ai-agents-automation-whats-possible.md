@@ -11,7 +11,7 @@ On Saturday, March 7, 2026, SVCAF hosted its first internal OpenClaw Seminar —
 
 Presenters Chunhua Liao, Sam Li, and Rich Liu walked attendees through live demos, real workflows, and practical insights on getting started with AI agents. Here is a recap of the key highlights.
 
-📊 **View the full slides:** [SVCAF OpenClaw Seminar — March 7, 2026](https://docs.google.com/presentation/d/1ssEx-mIHDvr77znexC2Y80G04Nh8VcblXs0KJShunCs/pub)
+📊 **View the full slides:** [SVCAF OpenClaw Seminar — March 7, 2026](https://docs.google.com/presentation/u/0/d/1ssEx-mIHDvr77znexC2Y80G04Nh8VcblXs0KJShunCs/mobilepresent)
 
 🎬 **Watch the full recording:** [SVCAF OpenClaw Seminar — March 7, 2026 (YouTube)](https://www.youtube.com/watch?v=oUYEDHhqaI0)
 

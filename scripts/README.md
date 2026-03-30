@@ -9,6 +9,8 @@ Scans all Hugo posts for site integrity issues.
 - **External CDN images** — Images hosted on 3rd-party CDNs (LinkedIn, etc.) that may expire
 - **Duplicate images** — Same image appearing at top AND in body of post
 - **Posts missing images** — Event/Chinese-language posts with no images at all
+- **Tag validation** — Enforces exactly 3 tags from the 23-tag controlled vocabulary (see TAGGING-RULES.md)
+- **Semantic consistency** — High-risk tags must have supporting keywords in post body
 
 ### Usage
 ```bash

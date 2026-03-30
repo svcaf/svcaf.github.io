@@ -13,6 +13,24 @@ POSTS_DIR = BASE_DIR / 'content' / 'posts'
 STATIC_DIR = BASE_DIR / 'static'
 REPORT_FILE = BASE_DIR / 'integrity-report.md'
 
+VALID_TAGS = {
+    'civic-education','education-policy','immigration','election-law','legal-rights',
+    'healthcare','firearm-safety','advocacy','community-action','legislation',
+    'affirmative-action','sffa-lawsuit','election-integrity','ai4legislation',
+    'community-events','awards','chinese-american','anti-discrimination','volunteer',
+    'ai-technology','svcaf-news'
+}
+
+HIGH_RISK_TAGS = {
+    'healthcare': ['hospital','medical','health','doctor','nurse','covid','pandemic','mask','ppe','kaiser','医疗','医院'],
+    'firearm-safety': ['firearm','gun','shooting','weapon','枪','射击'],
+    'volunteer': ['volunteer','donation','donate','志愿','捐'],
+    'immigration': ['immigration','visa','green card','citizen','移民','签证'],
+    'ai-technology': ['ai ','artificial intelligence','openclaw','chatgpt','人工智能'],
+    'awards': ['award','honor','recognition','prize','winner','奖','荣誉'],
+    'sffa-lawsuit': ['sffa','harvard','unc','north carolina','supreme court','哈佛','最高法院'],
+}
+
 def find_all_posts():
     return sorted(glob.glob(str(POSTS_DIR / '*.md')))
 
@@ -40,12 +58,47 @@ def has_duplicate_image_at_top(content, front_matter_end):
     rest = after_fm[len(m.group(1)):]
     return top_img in rest, top_img
 
+def get_post_tags(content):
+    """Extract tags from front matter."""
+    m = re.match(r'^---\n(.*?)---\n', content, re.DOTALL)
+    if not m: return []
+    fm = m.group(1)
+    tag_match = re.search(r"tags:\s*\[([^\]]+)\]", fm)
+    if tag_match:
+        return [t.strip().strip("'\"") for t in tag_match.group(1).split(',')]
+    return []
+
+def validate_tags(slug, content):
+    """Validate tag count, vocabulary, and semantic consistency."""
+    issues = []
+    tags = get_post_tags(content)
+    
+    # Check tag count (must be exactly 3)
+    if len(tags) != 3:
+        issues.append(f"has {len(tags)} tags (expected exactly 3): {tags}")
+    
+    # Check against valid vocabulary
+    for tag in tags:
+        if tag not in VALID_TAGS:
+            issues.append(f"unknown tag '{tag}' — not in 23-tag vocabulary")
+    
+    # Check high-risk tags for semantic consistency
+    body = content.lower()
+    for tag in tags:
+        if tag in HIGH_RISK_TAGS:
+            keywords = HIGH_RISK_TAGS[tag]
+            if not any(kw in body for kw in keywords):
+                issues.append(f"suspicious tag '{tag}' — no supporting keywords in post body")
+    
+    return issues
+
 def scan_all_posts(static_dir, verbose=True):
     issues = {
         'missing_local_images': [],
         'external_images': [],
         'duplicate_images': [],
         'posts_no_images': [],
+        'tag_issues': [],
     }
 
     posts = find_all_posts()
@@ -83,6 +136,11 @@ def scan_all_posts(static_dir, verbose=True):
             # Only flag posts that likely should have images (has Chinese content or is an event)
             if re.search(r'[\u4e00-\u9fff]', content) or 'event' in slug or 'gala' in slug or 'forum' in slug or 'seminar' in slug:
                 issues['posts_no_images'].append(slug)
+
+        # Validate tags (skip _index files - they're section pages, not posts)
+        if slug != '_index':
+            for issue in validate_tags(slug, content):
+                issues['tag_issues'].append((slug, issue))
 
     return issues
 
@@ -125,6 +183,15 @@ def generate_report(issues):
         for slug in issues['posts_no_images']:
             lines.append(f'- `{slug}`')
 
+    # Tag issues
+    if issues['tag_issues']:
+        lines.append(f'\n## ❌ Tag Validation Issues ({len(issues["tag_issues"])})\n')
+        lines.append('Posts with incorrect tags (see scripts/TAGGING-RULES.md):\n')
+        for slug, issue in issues['tag_issues']:
+            lines.append(f'- `{slug}`: {issue}')
+    else:
+        lines.append('\n## ✅ Tags — All valid\n')
+
     return '\n'.join(lines)
 
 def main():
@@ -148,12 +215,14 @@ def main():
             print(f'\nReport written to: {REPORT_FILE}')
 
     # Exit with error code if critical issues found
-    critical = len(issues['missing_local_images']) + len(issues['duplicate_images'])
+    critical = len(issues['missing_local_images']) + len(issues['duplicate_images']) + len(issues['tag_issues'])
+    warnings = len(issues['external_images']) + len(issues['posts_no_images'])
+    
     if critical > 0:
-        print(f'\n⚠️ {critical} critical issues found (missing files or duplicates)')
+        print(f'\n⚠️ {critical} critical issues found (missing files, duplicates, or invalid tags)')
         sys.exit(1)
     else:
-        print(f'\n✅ No critical issues. {len(issues["external_images"])} warnings (external images).')
+        print(f'\n✅ No critical issues. {warnings} warnings (external images, missing images).')
         sys.exit(0)
 
 if __name__ == '__main__':

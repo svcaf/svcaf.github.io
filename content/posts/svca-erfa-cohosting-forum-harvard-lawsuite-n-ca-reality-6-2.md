@@ -8,8 +8,6 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2022/06/ForumFlyer.png)
-
-![](/wp-content/uploads/2022/06/ForumFlyer.png)
 The SVCAF ([Silicon Valley Chinese Association Foundation](/)) and ERFA ([Equal Rights for All Political Action Committee](http://erfapac.com)) are proudly co-hosting a forum on 6/25/2022, Saturday!
 
 **“The significance of Harvard Lawsuit and the Reality in California – A Forum on Combating Racial Discrimination in College Admissions” (title in Chinese: “黎明前的黑暗：哈佛官司的意义和加州的现状” )**

@@ -7,8 +7,6 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/07/QQ截图20200710155650.png)
-
-![](/wp-content/uploads/2020/07/QQ截图20200710155650.png)
 ### **California Election Integrity in Jeopardy With Vote-by-Mail Ballots to Every Voter**
 
 ### **随着向每位选民邮寄选票，加州选举的廉正性受到威胁**

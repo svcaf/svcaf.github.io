@@ -6,8 +6,6 @@ slug: svcaf-board-2023-new-year-meeting
 categories: ["SVCAF"]
 ---
 
-![](/wp-content/uploads/2023/02/Image_20230212220501.jpg)
-
 ![2023新年茶话会](/wp-content/uploads/2023/02/Image_20230212220501.jpg)
 
 2023 年2月12 日，星期天，中午，硅谷华人协会基金会的部分新老理事在Fremont举行疫情以来的第一次新年茶话会。

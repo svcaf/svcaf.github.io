@@ -8,8 +8,6 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2018/06/5568.jpg)
-
-![](/wp-content/uploads/2018/06/5568.jpg)
 Dear Friends,
 
 For decades, Harvard and many other elite universities have been discriminating against Asian American students, just as they did to Jewish students in the 1920s and 30s. [Students For Fair Admissions](https://studentsforfairadmissions.org/) (SFFA), a not-for-profit organization led by Mr. Edward Blum, sued Harvard in 2014 for its discriminatory practice in admissions. Last week, documents detailing Harvard’s admissions processes were made public. Discrimination evidenced in these documents is so overwhelming that SFFA moved for a summary judgment, “a request that the judge rule against Harvard without a trial, based on facts not in dispute.” Media coverage has been extensive, appearing in numerous major outlets.

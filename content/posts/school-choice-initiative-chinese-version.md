@@ -7,8 +7,6 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2022/02/voteyourvoice.png)
-
-![](/wp-content/uploads/2022/02/voteyourvoice.png)
 【译者按】加州学校选择组织正在发起公民签名，准备把一项宪法修正案提交今年11月大选，作为选民公投选择。本公投意义重大，可以赋予加州家长直接支配每个学生每年14000美元的加州教育经费，用于K-12私立，教会或者家庭学校。余额也可以用于以后的大学教育。为了让加州华人更好了解本公投法案，硅谷华人协会基金会组织义工翻译了公投全文，仅供社区参考。如有错误遗漏，请电邮 info@svcaf.org 。一切以英文[原文](/files/archive-school_choice_petition_8.5x11_rev3.pdf)为准。
 
 **准备直接提交给选民的公投提案**

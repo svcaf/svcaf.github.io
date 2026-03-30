@@ -7,8 +7,6 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/07/209.png)
-
-![](/wp-content/uploads/2020/07/209.png)
 [Proposition 209: How California’s Battle Over Affirmative Action Exposed Deep Flaws with Direct Democracy](https://5clpp.com/2018/03/23/proposition-209-how-californias-battle-over-affirmative-action-exposed-deep-flaws-with-direct-democracy/)
 
 [209号法案：加州的平权行动之战暴露了直接民主制的深层缺陷](https://5clpp.com/2018/03/23/proposition-209-how-californias-battle-over-affirmative-action-exposed-deep-flaws-with-direct-democracy/)

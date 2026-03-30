@@ -8,8 +8,6 @@ categories: ["SVCAF"]
 ---
 
 ![](/wp-content/uploads/2020/07/FEC.png)
-
-![](/wp-content/uploads/2020/07/FEC.png)
 [https://www.fec.gov/updates/foreign-nationals/](https://www.fec.gov/updates/foreign-nationals/)
 
 The Federal Election Commission (hereafter FEC) often receives questions about the rules governing foreign nationals’ participation in U.S. elections. While this article responds to some of the most common questions, it does not cover all aspects of foreign national activity. Readers should consult the Federal Election Campaign Act (the Act) and Commission regulations, advisory opinions, and relevant case law for additional information. For questions involving proposed activity for which there may not be clear guidance, you may consider [requesting your own advisory opinion (AO)](https://www.fec.gov/legal-resources/advisory-opinions-process/) from the Commission. Please note, however, that the Commission’s jurisdiction is limited to provisions of the Act and does not include other laws that may also apply to foreign national activity.

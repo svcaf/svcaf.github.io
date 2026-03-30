@@ -29,6 +29,36 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <div class="gallery-caption-overlay">Ed Blum Forum Community Group Photo, 2018</div>
 </div>
 
+<div class="gallery-item" data-caption="~25 SVCAF rally organizers and volunteers in neon safety vests pose in front of the 'Harvard: STOP Discriminating Against Asian American Students' banner at Boston's Copley Square, October 2018.">
+<img src="/images/gallery-sf1.jpg" loading="lazy" alt="Boston Rally Volunteer Team 2018">
+<div class="gallery-caption-overlay">Boston Rally Organizer Team at Harvard Protest, 2018</div>
+</div>
+
+<div class="gallery-item" data-caption="A speaker addresses the crowd from the main stage at the Boston SFFA rally, with 'Harvard: STOP Discriminating' banner and SFFA/AACE signs prominently displayed, October 2018.">
+<img src="/images/gallery-sf2.jpg" loading="lazy" alt="Boston SFFA Rally Speaker on Stage 2018">
+<div class="gallery-caption-overlay">Speaker on Stage — Boston SFFA Rally, 2018</div>
+</div>
+
+<div class="gallery-item" data-caption="Over 100 supporters fill Copley Square in Boston holding 'Support SFFA,' 'Harvard No More Racial Stereotyping,' 'My Race Should Not Hurt Me,' and American flags at the landmark SFFA rally, October 2018.">
+<img src="/images/gallery-sf3.jpg" loading="lazy" alt="100+ Crowd Boston SFFA Rally 2018">
+<div class="gallery-caption-overlay">100+ Rally Crowd — Copley Square, Boston, 2018</div>
+</div>
+
+<div class="gallery-item" data-caption="Two SFFA rally participants hold a 'Harvard STOP Asian Quota' stop-sign protest poster at the Boston rally. Organizer volunteer in safety vest stands alongside, 2018.">
+<img src="/images/gallery-sf4.jpg" loading="lazy" alt="Harvard Stop Asian Quota Protest Sign 2018">
+<div class="gallery-caption-overlay">"Harvard STOP Asian Quota" — Boston Rally, 2018</div>
+</div>
+
+<div class="gallery-item" data-caption="SVCA Foundation's landmark 2015 Ed Blum Forum — a panel discussion featuring Ed Blum (SFFA architect), William Consovoy (SFFA's lead attorney), Ward Connerly, and Chenming Hu on college admissions fairness.">
+<img src="/images/gallery-sf5.jpg" loading="lazy" alt="Ed Blum Forum Panel Discussion 2015">
+<div class="gallery-caption-overlay">Ed Blum Forum Panel Discussion, 2015</div>
+</div>
+
+<div class="gallery-item" data-caption="A speaker delivers remarks at the SVCAF-ERFA co-hosted SFFA v. Harvard forum, 2022 — one of many community events organized by SVCAF to inform and mobilize the Asian American community on the admissions fairness case.">
+<img src="/images/gallery-sf6.jpg" loading="lazy" alt="SFFA Forum Speaker 2022">
+<div class="gallery-caption-overlay">SFFA v. Harvard Forum Speaker, 2022</div>
+</div>
+
 </div>
 </div>
 

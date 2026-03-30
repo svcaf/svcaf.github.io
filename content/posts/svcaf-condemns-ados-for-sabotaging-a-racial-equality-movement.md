@@ -24,7 +24,7 @@ She continues, “Reviving racial preferences in government programs, as intende
 
 **Silicon Valley Chinese Association Foundation**
 
-**MEDIA CONTACT: info@svcaf.org****
+**MEDIA CONTACT: info@svcaf.org**
 **
 
 **About SVCAF:** [/](/).

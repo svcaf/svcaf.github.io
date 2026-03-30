@@ -20,7 +20,9 @@ BASE_DIR   = Path(__file__).parent.parent
 PUBLIC_DIR = BASE_DIR / 'public'
 REPORT_FILE = BASE_DIR / 'render-report.md'
 
-EMOJI_BULLETS = ['✅', '🔹', '📌', '📢', '◆', '♦', '▶', '▸', '🔸', '🔶', '🔷']
+# Only list-style bullet emojis — NOT announcement/pin emojis (📢📌) which are
+# legitimately used as standalone paragraph prefixes in contact/CTA sections.
+EMOJI_BULLETS = ['✅', '🔹', '◆', '♦', '▶', '▸', '🔸', '🔶', '🔷']
 
 def find_html_files(pub_dir):
     return sorted(glob.glob(str(pub_dir / 'posts' / '**' / 'index.html'), recursive=True))
@@ -60,8 +62,11 @@ def check_emoji_bullets(text):
     return None
 
 def check_broken_bold(html):
-    """Detect **** artifacts that survived into HTML as literal asterisks."""
-    return '****' in html or re.search(r'\*\*\s*\*\*', html)
+    """Detect **** artifacts that survived into HTML as literal asterisks.
+    Check plain text only (strip tags first) to avoid false positives from
+    URLs or HTML attributes containing asterisks."""
+    text = re.sub(r'<[^>]+>', '', html)
+    return '****' in text or bool(re.search(r'\*\*\s*\*\*', text))
 
 def check_collapsed_link_list(html):
     """Detect </a>- <a or </a>- [text] patterns = link list not split."""

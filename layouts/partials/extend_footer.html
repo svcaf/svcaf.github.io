@@ -47,6 +47,50 @@
 </script>
 {{- end }}
 
+{{- if eq .RelPermalink "/gallery/" }}
+<script>
+/* Photo Gallery Lightbox */
+var galleryPhotos = [];
+document.querySelectorAll('.gallery-item').forEach(function(item, i) {
+  var img = item.querySelector('img');
+  var cap = item.querySelector('.gallery-caption-overlay');
+  galleryPhotos.push({ src: img.src, caption: item.getAttribute('data-caption') || (cap ? cap.textContent.trim() : '') });
+  item.setAttribute('data-index', i);
+  item.addEventListener('click', function() { openLightbox(parseInt(this.getAttribute('data-index'))); });
+});
+var lbCurrent = 0;
+function openLightbox(index) {
+  lbCurrent = index; updateLightbox();
+  document.getElementById('lightbox').classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('active');
+  document.body.style.overflow = '';
+}
+function shiftLightbox(dir) {
+  lbCurrent = (lbCurrent + dir + galleryPhotos.length) % galleryPhotos.length;
+  updateLightbox();
+}
+function updateLightbox() {
+  var p = galleryPhotos[lbCurrent];
+  document.getElementById('lightbox-img').src = p.src;
+  document.getElementById('lightbox-caption').textContent = p.caption;
+  document.getElementById('lightbox-counter').textContent = (lbCurrent + 1) + ' / ' + galleryPhotos.length;
+}
+document.getElementById('lightbox').addEventListener('click', function(e) { if (e.target === this) closeLightbox(); });
+document.addEventListener('keydown', function(e) {
+  if (!document.getElementById('lightbox').classList.contains('active')) return;
+  if (e.key === 'Escape') closeLightbox();
+  if (e.key === 'ArrowLeft') shiftLightbox(-1);
+  if (e.key === 'ArrowRight') shiftLightbox(1);
+});
+window.openLightbox = openLightbox;
+window.closeLightbox = closeLightbox;
+window.shiftLightbox = shiftLightbox;
+</script>
+{{- end }}
+
 {{- if (or .IsHome (eq .Kind "section")) }}
 <script>
 /* Infinite scroll */

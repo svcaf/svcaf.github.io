@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 10 * * 1'  # Every Monday 10am UTC
-  workflow_dispatch:       # Manual trigger anytime
+    - cron: '0 10 * * 1'   # Every Monday 10am UTC
+  workflow_dispatch:         # Manual trigger from Actions tab
 
 jobs:
   integrity-scan:
@@ -18,15 +18,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests
-
       - name: Run integrity scan
         run: python scripts/integrity-scan.py --report
 
-      - name: Upload scan report
+      - name: Post summary
+        if: always()
+        run: |
+          if [ -f integrity-report.md ]; then
+            echo "### 🔍 Site Integrity Scan" >> $GITHUB_STEP_SUMMARY
+            cat integrity-report.md >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Upload report
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: integrity-report
+          name: integrity-report-${{ github.run_number }}
           path: integrity-report.md

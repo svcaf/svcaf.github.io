@@ -14,6 +14,6 @@ Another exciting AI4Legislation seminar hosted by SVCAF! This event is designed 
 
 Seminar slides
 
-- [Seminar 4: Introduction](https://github.com/svcaf/2025-AI4Legislation-Public/blob/24991a1249000940463a9e8c9a6105a934a25911/svcaf_ai4legislation_seminar_4.pdf)
+- [Seminar 4: Introduction](/files/github-svcaf_ai4legislation_seminar_4.pdf)
 
-- [AI Coding Tools](https://github.com/svcaf/2025-AI4Legislation-Public/blob/24991a1249000940463a9e8c9a6105a934a25911/Seminar%204%20%20AI%20Tools%20-by%20Liao%20Kakani%20Gowda%20Jain%20and%20Agarwal.pdf)
+- [AI Coding Tools](/files/github-seminar-4-ai-tools-by-liao-kakani-gowda-jain-and-agarwal.pdf)

@@ -345,7 +345,7 @@ The introduction of sophisticated AI agents into the political sphere could, ove
 
 - Political-LLM: Large Language Models in Political Science, accessed June 8, 2025, [https://political-llm.org/](https://political-llm.org/)
 
-- AI and Democracy: The Coming Civilization – HEC Paris, accessed June 8, 2025, [https://www.hec.edu/sites/default/files/documents/AI-and-Democracy_The-Coming-Civilization_Yann-ALGAN-HEC-Paris_January-2025.pdf](https://www.hec.edu/sites/default/files/documents/AI-and-Democracy_The-Coming-Civilization_Yann-ALGAN-HEC-Paris_January-2025.pdf)
+- AI and Democracy: The Coming Civilization – HEC Paris, accessed June 8, 2025, [/files/archive-ai-and-democracy_the-coming-civilization_yann-algan-hec-paris_january-2025.pdf](/files/archive-ai-and-democracy_the-coming-civilization_yann-algan-hec-paris_january-2025.pdf)
 
 - Driving Civic Engagement: How AI is Revolutionizing Municipalities – CommBox, accessed June 8, 2025, [https://www.commbox.io/driving-civic-engagement-with-ai-is-revolutionizing-municipalities/](https://www.commbox.io/driving-civic-engagement-with-ai-is-revolutionizing-municipalities/)
 
@@ -359,7 +359,7 @@ The introduction of sophisticated AI agents into the political sphere could, ove
 
 - Predicting Popular-vote Shares in US Presidential Elections: A Model-based Strategy Relying on Anes Data – Cambridge University Press, accessed June 8, 2025, [https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/predicting-popularvote-shares-in-us-presidential-elections-a-modelbased-strategy-relying-on-anes-data/CC6B59BAC456CAC43C96F27FBAAF2290](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/predicting-popularvote-shares-in-us-presidential-elections-a-modelbased-strategy-relying-on-anes-data/CC6B59BAC456CAC43C96F27FBAAF2290)
 
-- Information, incentives, and goals in election forecasts – Columbia University, accessed June 8, 2025, [https://sites.stat.columbia.edu/gelman/research/published/jdm200907b.pdf](https://sites.stat.columbia.edu/gelman/research/published/jdm200907b.pdf)
+- Information, incentives, and goals in election forecasts – Columbia University, accessed June 8, 2025, [/files/archive-jdm200907b.pdf](/files/archive-jdm200907b.pdf)
 
 - Election Night Forecasting With DDHQ: A Real-Time Predictive Framework, accessed June 8, 2025, [https://hdsr.mitpress.mit.edu/pub/zr6hjsfl](https://hdsr.mitpress.mit.edu/pub/zr6hjsfl)
 
@@ -379,7 +379,7 @@ The introduction of sophisticated AI agents into the political sphere could, ove
 
 - arXiv:2412.15291v4 [cs.CL] 10 Apr 2025, accessed June 8, 2025, [https://arxiv.org/abs/2412.15291](https://arxiv.org/abs/2412.15291)
 
-- Agent-Based Models of Quadratic Voting, accessed June 8, 2025, [https://ccl.northwestern.edu/2021/Kelter2021.pdf](https://ccl.northwestern.edu/2021/Kelter2021.pdf)
+- Agent-Based Models of Quadratic Voting, accessed June 8, 2025, [/files/archive-kelter2021.pdf](/files/archive-kelter2021.pdf)
 
 - Digital twins – dynamic models that respond to real-time data – POST Parliament, accessed June 8, 2025, [https://post.parliament.uk/digital-twins-dynamic-models-that-respond-to-real-time-data/](https://post.parliament.uk/digital-twins-dynamic-models-that-respond-to-real-time-data/)
 
@@ -403,7 +403,7 @@ The introduction of sophisticated AI agents into the political sphere could, ove
 
 - Algorithmic Political Bias in Artificial Intelligence Systems – PMC – PubMed Central, accessed June 8, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC8967082/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8967082/)
 
-- Ethics in Artificial Intelligence and Government – Institute for Citizen-Centred Service -, accessed June 8, 2025, [https://iccs-isac.org/assets/uploads/research-repository/JC-Research-Report-Ethics-in-AI-and-Government-April-2023.pdf](https://iccs-isac.org/assets/uploads/research-repository/JC-Research-Report-Ethics-in-AI-and-Government-April-2023.pdf)
+- Ethics in Artificial Intelligence and Government – Institute for Citizen-Centred Service -, accessed June 8, 2025, [/files/archive-jc-research-report-ethics-in-ai-and-government-april-2023.pdf](/files/archive-jc-research-report-ethics-in-ai-and-government-april-2023.pdf)
 
 - Full article: Artificial intelligence and democracy: pathway to progress or decline?, accessed June 8, 2025, [https://www.tandfonline.com/doi/full/10.1080/19331681.2025.2473994](https://www.tandfonline.com/doi/full/10.1080/19331681.2025.2473994)
 

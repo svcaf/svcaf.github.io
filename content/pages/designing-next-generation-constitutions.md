@@ -283,7 +283,7 @@ In conclusion, while artificial intelligence offers powerful new instruments tha
 
 - Legal Text Analysis Using Large Language Models – ResearchGate, accessed June 8, 2025, [https://www.researchgate.net/publication/384182158_Legal_Text_Analysis_Using_Large_Language_Models](https://www.researchgate.net/publication/384182158_Legal_Text_Analysis_Using_Large_Language_Models)
 
-- Report-on-the-use-of-text-generation-tools-by-legal-professionals.pdf – AI4Lawyers, accessed June 8, 2025, [https://ai4lawyers.eu/wp-content/uploads/2022/03/Report-on-the-use-of-text-generation-tools-by-legal-professionals.pdf](https://ai4lawyers.eu/wp-content/uploads/2022/03/Report-on-the-use-of-text-generation-tools-by-legal-professionals.pdf)
+- Report-on-the-use-of-text-generation-tools-by-legal-professionals.pdf – AI4Lawyers, accessed June 8, 2025, [/files/archive-report-on-the-use-of-text-generation-tools-by-legal-professionals.pdf](/files/archive-report-on-the-use-of-text-generation-tools-by-legal-professionals.pdf)
 
 - About | Brookings The AI Equity Lab – Brookings Institution, accessed June 8, 2025, [https://www.brookings.edu/projects/the-ai-equity-lab/about/](https://www.brookings.edu/projects/the-ai-equity-lab/about/)
 
@@ -295,7 +295,7 @@ In conclusion, while artificial intelligence offers powerful new instruments tha
 
 - C3AI: Crafting and Evaluating Constitutions for Constitutional AI – arXiv, accessed June 8, 2025, [https://arxiv.org/html/2502.15861v1](https://arxiv.org/html/2502.15861v1)
 
-- Optimization of computational model of constitutional interpretation and its in uence on judicial practice in China – Combinatorial Press, accessed June 8, 2025, [https://combinatorialpress.com/article/jcmcc/volume%20126/optimization-of-computational-model-of-constitutional-interpretation-and-its-influence-on-judicial-practice-in-china.pdf](https://combinatorialpress.com/article/jcmcc/volume%20126/optimization-of-computational-model-of-constitutional-interpretation-and-its-influence-on-judicial-practice-in-china.pdf)
+- Optimization of computational model of constitutional interpretation and its in uence on judicial practice in China – Combinatorial Press, accessed June 8, 2025, [/files/archive-optimization-of-computational-model-of-constitutional-interpretation-and-its-influence-on-judicial-practice-in-china.pdf](/files/archive-optimization-of-computational-model-of-constitutional-interpretation-and-its-influence-on-judicial-practice-in-china.pdf)
 
 - The Oxford Handbook of Digital Constitutionalism | Oxford Academic, accessed June 8, 2025, [https://academic.oup.com/edited-volume/58210](https://academic.oup.com/edited-volume/58210)
 
@@ -317,6 +317,6 @@ In conclusion, while artificial intelligence offers powerful new instruments tha
 
 - Potential Legal Structures of a Mars Colony Over Time – New Space Economy, accessed June 8, 2025, [https://newspaceeconomy.ca/2024/12/31/potential-legal-structures-of-a-mars-colony-over-time/](https://newspaceeconomy.ca/2024/12/31/potential-legal-structures-of-a-mars-colony-over-time/)
 
-- The Colonization of Mars: Law, Politics, and Ethics – Ramapo College, accessed June 8, 2025, [https://www.ramapo.edu/honors/wp-content/uploads/sites/55/2019/08/Collins-Poster.pdf](https://www.ramapo.edu/honors/wp-content/uploads/sites/55/2019/08/Collins-Poster.pdf)
+- The Colonization of Mars: Law, Politics, and Ethics – Ramapo College, accessed June 8, 2025, [/files/archive-collins-poster.pdf](/files/archive-collins-poster.pdf)
 
 - [2504.03274] Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations – arXiv, accessed June 8, 2025, [https://arxiv.org/abs/2504.03274](https://arxiv.org/abs/2504.03274)

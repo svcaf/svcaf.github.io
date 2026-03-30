@@ -12,7 +12,7 @@ categories: ["SVCAF"]
 
 After a few days of preparation, we are finally ready to distribute the free disposable masks for the senior members of the community, at three Safeway stores.
 
-**Important**: We really do not want any of our senior members to go shopping just because of the masks. If you are above age of 65, and you need a mask, you can sign this form and send it to me with your home address, we will try to drop off. The liability form can be downloaded [ here](https://drive.google.com/file/d/1sDsEORg1XYxRAI2sw7QYmWXp_6wItcuA/view?usp=sharing)。
+**Important**: We really do not want any of our senior members to go shopping just because of the masks. If you are above age of 65, and you need a mask, you can sign this form and send it to me with your home address, we will try to drop off. The liability form can be downloaded [ here](/files/gdrive-view.pdf)。
 
 ![](/wp-content/uploads/2020/04/Love-1024x1022.jpeg)
 

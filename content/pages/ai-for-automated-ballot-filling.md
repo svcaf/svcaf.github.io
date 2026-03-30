@@ -209,7 +209,7 @@ The conversation surrounding AI in elections serves as a microcosm of the broade
 
 - Voters Guide – The League of Women Voters of Texas, accessed June 8, 2025, [https://lwvtx.clubexpress.com/voters-guide](https://lwvtx.clubexpress.com/voters-guide)
 
-- Preparing for Generative AI in the 2024 Election: Recommendations and Best Practices Based on Academic Research, accessed June 8, 2025, [https://harris.uchicago.edu/files/ai_and_elections_best_practices_no_embargo.pdf](https://harris.uchicago.edu/files/ai_and_elections_best_practices_no_embargo.pdf)
+- Preparing for Generative AI in the 2024 Election: Recommendations and Best Practices Based on Academic Research, accessed June 8, 2025, [/files/archive-ai_and_elections_best_practices_no_embargo.pdf](/files/archive-ai_and_elections_best_practices_no_embargo.pdf)
 
 - Artificial Intelligence (AI) in Elections and Campaigns, accessed June 8, 2025, [https://www.ncsl.org/elections-and-campaigns/artificial-intelligence-ai-in-elections-and-campaigns](https://www.ncsl.org/elections-and-campaigns/artificial-intelligence-ai-in-elections-and-campaigns)
 

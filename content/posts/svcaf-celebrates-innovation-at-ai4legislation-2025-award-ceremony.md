@@ -16,7 +16,7 @@ The [AI4Legislation 2025 competition](https://github.com/svcaf/2025-AI4Legislat
 
 **Watch the full award ceremony recording:** [YouTube Event Recording](https://youtu.be/MvAMJF8fexo)
 
-Take a look at the slides for the ceremony: [pdf](https://github.com/svcaf/2025-AI4Legislation-Public/blob/3a590711c42cb55ebb4666b9e63944b56a73220b/submissions/svcaf_ai4legislation_award_ceremony.pdf)
+Take a look at the slides for the ceremony: [pdf](/files/github-svcaf_ai4legislation_award_ceremony.pdf)
 
 The competition focused on five key categories:
 
@@ -54,9 +54,9 @@ The competition focused on five key categories:
 
 - Team Name: DebateSim  [YouTube Demo Video](https://www.youtube.com/watch?v=vhyM2QNZ3VM)
 
-- [Live Product Online](https://debatesim.us/)[](https://docs.google.com/presentation/d/1PX7PzdyxYKlxaXpjZY7a5Bq-TLe-cN4DXaJ78WPWjyw/edit?usp=sharing)
+- [Live Product Online](https://debatesim.us/)[](/files/gslides-edit.pdf)
 
-- [Presentation Slideshow](https://docs.google.com/presentation/d/1PX7PzdyxYKlxaXpjZY7a5Bq-TLe-cN4DXaJ78WPWjyw/edit?usp=sharing)
+- [Presentation Slideshow](/files/gslides-edit.pdf)
 
 [![](/wp-content/uploads/2025/09/Screenshot-2025-09-28-at-8.40.25-PM-1024x546.png)](/wp-content/uploads/2025/09/Screenshot-2025-09-28-at-8.40.25-PM.png)
 
@@ -70,7 +70,7 @@ The competition focused on five key categories:
 
 - YouTube Demo Video: [https://youtu.be/pG4KonR68Fk](https://youtu.be/pG4KonR68Fk)
 
-- Technical Documentation (Project Report): [link](https://github.com/svcaf/2025-AI4Legislation-Public/blob/e0092ae8125581944cf4a8c429393bcc933534c2/submissions/Project%201%20Behind%20the%20Bill/Behind%20the%20Bill%20-%20Project%20Report.pdf)
+- Technical Documentation (Project Report): [link](/files/github-behind-the-bill-project-report.pdf)
 
 [![](/wp-content/uploads/2025/09/Screenshot-2025-09-28-at-8.42.33-PM-1024x491.png)](/wp-content/uploads/2025/09/Screenshot-2025-09-28-at-8.42.33-PM.png)
 

@@ -227,7 +227,7 @@ Therefore, while a rich array of resources exists for evaluating laws, critical 
 
 - Safest and Most Dangerous States in America in 2024 – Simmrin Law Group, accessed June 8, 2025, [https://www.simmrinlawgroup.com/research/the-safest-and-most-dangerous-states-in-america-2024/](https://www.simmrinlawgroup.com/research/the-safest-and-most-dangerous-states-in-america-2024/)
 
-- Freedom in the 50 states – Mercatus Center, accessed June 8, 2025, [https://www.mercatus.org/system/files/Freedom_in_the_50_States.pdf](https://www.mercatus.org/system/files/Freedom_in_the_50_States.pdf)
+- Freedom in the 50 states – Mercatus Center, accessed June 8, 2025, [/files/archive-freedom_in_the_50_states.pdf](/files/archive-freedom_in_the_50_states.pdf)
 
 - A legal scholar talks about 10 laws he says are ‘ruining America’ – NPR, accessed June 8, 2025, [https://www.npr.org/2025/03/24/nx-s1-5338663/a-legal-scholar-talks-about-that-10-laws-he-says-are-ruining-america](https://www.npr.org/2025/03/24/nx-s1-5338663/a-legal-scholar-talks-about-that-10-laws-he-says-are-ruining-america)
 
@@ -261,7 +261,7 @@ Therefore, while a rich array of resources exists for evaluating laws, critical 
 
 - Senator Jones Earns “A” Grade from Howard Jarvis Taxpayers Association, accessed June 8, 2025, [https://sr40.senate.ca.gov/content/senator-jones-earns-grade-howard-jarvis-taxpayers-association](https://sr40.senate.ca.gov/content/senator-jones-earns-grade-howard-jarvis-taxpayers-association)
 
-- Endorsements and ballot-measure recommendations – The Howard Jarvis Taxpayers Association PAC has endorsed these candidates for the November 6, 2018, Statewide General Election, accessed June 8, 2025, [https://www.hjta.org/wp-content/uploads/2018/08/HJTA-Election-Information-for-Voters-PDF_v9.pdf](https://www.hjta.org/wp-content/uploads/2018/08/HJTA-Election-Information-for-Voters-PDF_v9.pdf)
+- Endorsements and ballot-measure recommendations – The Howard Jarvis Taxpayers Association PAC has endorsed these candidates for the November 6, 2018, Statewide General Election, accessed June 8, 2025, [/files/archive-hjta-election-information-for-voters-pdf_v9.pdf](/files/archive-hjta-election-information-for-voters-pdf_v9.pdf)
 
 - Howard Jarvis Taxpayers Association, accessed June 8, 2025, [https://www.hjta.org/](https://www.hjta.org/)
 

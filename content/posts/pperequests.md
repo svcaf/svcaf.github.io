@@ -20,7 +20,7 @@ We will need your:
 
 In order to qualify for donations from SVCAF, we require a legal disclaimer to be provided before hand, otherwise, we are afraid that we can’t help. 
 
-Please ***[download the template here](https://drive.google.com/file/d/1sDsEORg1XYxRAI2sw7QYmWXp_6wItcuA/view?usp=sharing).***
+Please ***[download the template here](/files/gdrive-view.pdf).***
 
 Please Sign and send the disclaimer via your **hospital or clinic’s office email **with **your title and contacts** (If it’s before the donation and you are not sure about the quantity of donated PPE, please fill in the space of Type x Quantity as ‘See receipt’), so that we can verify your identity.
 

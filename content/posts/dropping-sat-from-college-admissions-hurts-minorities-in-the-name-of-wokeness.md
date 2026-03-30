@@ -20,7 +20,7 @@ We should all be concerned about the University of California regents’ [decis
 
  “在2025年前大学录取过程中取消SAT和ACT成绩作为参考” 我们都应该对加利福尼亚大学系统（拥有十所公立大学组成的研究性大学系统，下文简称“UC系统”）董事会这一决定而感到担忧。这一变化将损害那些原本应由校方行政管理层保护的少数族裔学生。
 
-The decision flouts the recommendations of UC’s own [faculty leadership](https://edsource.org/2020/uc-faculty-leaders-want-admissions-tests-restored-after-health-crisis/629622) and the [task force](https://senate.universityofcalifornia.edu/_files/underreview/sttf-report.pdf) convened to study the issue. It reflects not rational policymaking but a growing movement on the Left to do away with standardized testing in college admissions due to a perceived racial bias against black and Hispanic applicants.
+The decision flouts the recommendations of UC’s own [faculty leadership](https://edsource.org/2020/uc-faculty-leaders-want-admissions-tests-restored-after-health-crisis/629622) and the [task force](/files/archive-sttf-report.pdf) convened to study the issue. It reflects not rational policymaking but a growing movement on the Left to do away with standardized testing in college admissions due to a perceived racial bias against black and Hispanic applicants.
 
 这项决定无视了来自UC系统教职员工及为研究该问题而召集的专家工作组两方的建议。它反映了非理性的政策制定，体现左派越发高涨的运动：因为“普遍认为”地对非裔和拉丁裔申请人的种族偏见，近而取消大学招生过程中的标准化考试。
 

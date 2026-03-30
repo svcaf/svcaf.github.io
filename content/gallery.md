@@ -6,13 +6,35 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <p class="gallery-intro">Explore highlights from SVCAF's community events, advocacy work, annual galas, and youth programs across the years.</p>
 
 <div class="gallery-section">
-<h2>🏛️ Advocacy &amp; Civic Engagement</h2>
+<h2>⚖️ SFFA &amp; Fight for Fair Admissions</h2>
 <div class="gallery-grid">
 
-<div class="gallery-item" data-caption="SVCAF members and supporters rally at the U.S. Supreme Court in support of equal education rights and against race-based admissions discrimination, 2022.">
-<img src="/images/slide-22.jpg" loading="lazy" alt="Rally at U.S. Supreme Court">
-<div class="gallery-caption-overlay">U.S. Supreme Court Rally for Equal Education, 2022</div>
+<div class="gallery-item" data-caption="SVCAF members and supporters rally at the U.S. Supreme Court in support of Students for Fair Admissions (SFFA) as the landmark case against Harvard and UNC reaches its final stage, 2022.">
+<img src="/images/slide-22.jpg" loading="lazy" alt="Rally at U.S. Supreme Court 2022">
+<div class="gallery-caption-overlay">U.S. Supreme Court Rally — SFFA v. Harvard, 2022</div>
 </div>
+
+<div class="gallery-item" data-caption="Community members and SVCAF supporters rally in Boston to protest Harvard University's race-based admissions policies that discriminate against Asian American applicants, October 2018.">
+<img src="/images/gallery-g5.jpg" loading="lazy" alt="Harvard Admissions Rally Boston 2018">
+<div class="gallery-caption-overlay">Boston Rally Against Harvard Admissions Discrimination, 2018</div>
+</div>
+
+<div class="gallery-item" data-caption="Protesters gather outside a courthouse holding 'Fair Admissions' signs, calling for an end to racial stereotyping and discriminatory quota systems in university admissions, 2018.">
+<img src="/images/gallery-g6.jpg" loading="lazy" alt="Fair Admissions Protest 2018">
+<div class="gallery-caption-overlay">Fair Admissions Protest — End Racial Stereotyping, 2018</div>
+</div>
+
+<div class="gallery-item" data-caption="SVCAF and community leaders gather for a group photo outside the Ed Blum Forum venue, 2018 — a landmark community event on college admissions fairness and Asian American civil rights.">
+<img src="/images/gallery-g20.jpg" loading="lazy" alt="Ed Blum Forum Group Photo 2018">
+<div class="gallery-caption-overlay">Ed Blum Forum Community Group Photo, 2018</div>
+</div>
+
+</div>
+</div>
+
+<div class="gallery-section">
+<h2>🏛️ Civic Engagement &amp; Community Service</h2>
+<div class="gallery-grid">
 
 <div class="gallery-item" data-caption="SVCAF leaders present a hand-crafted calligraphy banner to a California state official at the 2017 Annual Gala, celebrating civic partnership and community recognition.">
 <img src="/images/slide-23.jpg" loading="lazy" alt="Calligraphy Banner Presentation">
@@ -22,21 +44,6 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <div class="gallery-item" data-caption="An SVCAF volunteer delivers PPE and care packages to a USPS mail carrier during the COVID-19 pandemic, 2020. SVCAF organized donations for frontline workers across Silicon Valley.">
 <img src="/images/slide-16.jpg" loading="lazy" alt="PPE Donation to Frontline Workers">
 <div class="gallery-caption-overlay">PPE Donation to Frontline Workers, 2020</div>
-</div>
-
-<div class="gallery-item" data-caption="Community members and SVCAF supporters speak at an outdoor rally protesting Harvard University's race-based admissions policies that discriminate against Asian American applicants, October 2018.">
-<img src="/images/gallery-g5.jpg" loading="lazy" alt="Harvard Admissions Rally 2018">
-<div class="gallery-caption-overlay">Rally Against Harvard Admissions Discrimination, 2018</div>
-</div>
-
-<div class="gallery-item" data-caption="Protesters gather outside a courthouse holding 'Fair Admissions' signs, calling for an end to racial stereotyping and quota systems in university admissions, 2018.">
-<img src="/images/gallery-g6.jpg" loading="lazy" alt="Fair Admissions Protest 2018">
-<div class="gallery-caption-overlay">Fair Admissions Protesters Outside Courthouse, 2018</div>
-</div>
-
-<div class="gallery-item" data-caption="SVCAF and community leaders gather for a group photo outside the venue of the Ed Blum Forum, 2018 — a landmark event on college admissions fairness and Asian American rights.">
-<img src="/images/gallery-g20.jpg" loading="lazy" alt="Blum Forum Group Photo 2018">
-<div class="gallery-caption-overlay">Ed Blum Forum Community Group Photo, 2018</div>
 </div>
 
 </div>

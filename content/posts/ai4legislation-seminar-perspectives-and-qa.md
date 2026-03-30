@@ -29,11 +29,11 @@ Chunhua discussed his background in computer science and his realization of the 
 
 ## Startups vs Big Tech
 
-Chunhua then asked about positioning the startup in the competitive AI landscape, to which William advised against direct competition with larger tech companies like Google.** **William discussed the company’s specialization on legal matters for small business owners, leveraging foundational models from Google and OpenAI. He emphasized the importance of user engagement with AI tools and the need for affordable solutions.
+Chunhua then asked about positioning the startup in the competitive AI landscape, to which William advised against direct competition with larger tech companies like Google. William discussed the company’s specialization on legal matters for small business owners, leveraging foundational models from Google and OpenAI. He emphasized the importance of user engagement with AI tools and the need for affordable solutions.
 
 ## Evaluating AI as a Tool
 
-Cynthia raised concerns about bias in AI, particularly in legal advice, and William acknowledged the issue, noting that it’s not unique to their company.** **William and Chunhua discussed the challenges and improvements in AI models for legal interpretation. They acknowledged that AI is not a complete replacement for human judges or lawyers but is getting better with time. They emphasized the importance of establishing a baseline for AI performance, comparing it to human capabilities, and focusing on the quality of services provided. They also expressed optimism about the potential of AI in the future, with the belief that it will lead to a society with abundance.
+Cynthia raised concerns about bias in AI, particularly in legal advice, and William acknowledged the issue, noting that it’s not unique to their company. William and Chunhua discussed the challenges and improvements in AI models for legal interpretation. They acknowledged that AI is not a complete replacement for human judges or lawyers but is getting better with time. They emphasized the importance of establishing a baseline for AI performance, comparing it to human capabilities, and focusing on the quality of services provided. They also expressed optimism about the potential of AI in the future, with the belief that it will lead to a society with abundance.
 
 ## Passion Over Prizes: Advice for Young Entrepreneurs
 

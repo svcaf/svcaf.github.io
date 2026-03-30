@@ -10,7 +10,7 @@ categories: ["SVCAF"]
 
 Sep 22, 2023
 
-***Are You OK with the Santa Clara County Registrar of Voters*** ***Second Guessing Your Vote?***
+***Are You OK with the Santa Clara County Registrar of Voters* *Second Guessing Your Vote?***
 
 For the last four years, Group of Santa Clara County Citizens been Citizen Observers of the Ballot Processing and Vote Tabulation Processes at the Santa Clara County Registrar of Voters (SCCROV). They have discovered during our observations that the SCCROV unilaterally has made the executive decision to suspend and manually **“Adjudicate and Determine the Voter’s Intent” **for Under-Votes on all Voters’ Mail-In and Vote-in-Person Ballots.
 

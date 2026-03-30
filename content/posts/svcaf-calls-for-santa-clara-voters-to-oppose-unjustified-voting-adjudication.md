@@ -15,7 +15,7 @@ A group of Santa Clara citizens contacted the Registrar of Voters of Santa Clara
 
 Below is a summary of the discovery, by Mr. Ronald J. Meyer.
 
-***Are You OK with the Santa Clara County Registrar of Voters*** ***Second Guessing Your Vote?***
+***Are You OK with the Santa Clara County Registrar of Voters* *Second Guessing Your Vote?***
 
 For the last three years, a Group of Santa Clara County Citizens and I have been Citizen Observers of the Ballot Processing and Vote Tabulation Processes at the Santa Clara County Registrar of Voters (SCCROV). We have discovered during our observations that the SCCROV unilaterally has made the executive decision to suspend and manually **“Adjudicate and Determine the Voter’s Intent” **for Under-Votes on all Voters’ Mail-In and Vote-in-Person Ballots.
 

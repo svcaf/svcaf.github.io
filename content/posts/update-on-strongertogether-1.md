@@ -56,7 +56,7 @@ As of 4/10, we have received** $18,254** monetary donation and goods donation of
 
 **And we are having another shipment of masks on the way, fingers crossed! So stay tuned and please keep us in your prayers too!**
 
-**While we are all waiting for the next wave of mask donations by this project, we are also preparing for the busy work ahead! ** **Please consider join the volunteer team by sending an email to : projectstronger2020@gmail.com**
+**While we are all waiting for the next wave of mask donations by this project, we are also preparing for the busy work ahead!  Please consider join the volunteer team by sending an email to : projectstronger2020@gmail.com**
 
 Our philosophy: **Even if we can prevent just one community member from contracting that COVID-19 virus, all of our efforts will be worthy!!!
 **

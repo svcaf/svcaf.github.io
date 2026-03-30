@@ -219,7 +219,7 @@ Therefore, while a rich array of resources exists for evaluating laws, critical 
 
 - Global Scores & Rankings | World Justice Project, accessed June 8, 2025, [https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-open-government-index/global-scores-rankings](https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-open-government-index/global-scores-rankings)
 
-- Fiscal Policy Report Card on America’s Governors 2024 | Cato Institute, accessed June 8, 2025, [https://www.cato.org/sites/cato.org/files/2024-10/fiscal-policy-report-card-americas-governors-2024-updated.pdf](https://www.cato.org/sites/cato.org/files/2024-10/fiscal-policy-report-card-americas-governors-2024-updated.pdf)
+- Fiscal Policy Report Card on America’s Governors 2024 | Cato Institute, accessed June 8, 2025, _[PDF no longer available]_
 
 - Best and Worst States to Work in the US – Oxfam America, accessed June 8, 2025, [https://www.oxfamamerica.org/explore/issues/economic-justice/workers-rights/best-states-to-work/](https://www.oxfamamerica.org/explore/issues/economic-justice/workers-rights/best-states-to-work/)
 

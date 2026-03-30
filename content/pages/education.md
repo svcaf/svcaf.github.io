@@ -54,7 +54,7 @@ type: page
 
 ### 非赢利组织话题 | Non-Profit Organizations
 
-- [501(c)(3)非盈利组织可以做哪些事情？哪些事情不能做？| 501(c)(3) What a non-profit organization can and cannot do](https://docs.google.com/document/d/1tnZtd64pUjPWjB8nPqmzCqEUctdIi0jz_YMNu38v5N4/pub)
+- [501(c)(3)非盈利组织可以做哪些事情？哪些事情不能做？| 501(c)(3) What a non-profit organization can and cannot do](/files/svcaf-501c3-explainer.pdf)
 
 -  [通过雇主把义工小时换钱捐非盈利组织 | Through employers, volunteer hours changed to donations for non-profit organizations](/posts/通过雇主把义工小时换钱捐非盈利组织/)
 
@@ -70,7 +70,7 @@ type: page
 
 - [成为沃伦•巴菲特 2017 HBO纪录片| Becoming Warren Buffett 2017 HBO Documentary Films](/pages/becoming-warren-buffett-2017-hbo-documentary-films/)
 
-- [巴菲特在佛罗里达大学商学院的演讲| Buffett Lecture at the University of Florida School of Business October 15, 1998 ](https://docs.google.com/document/d/1wgtw63irGrvu_lbMp2wMuVufXC8Cn-47VJ9m9U8bT2A/edit?ts=5dfa35ab)
+- [巴菲特在佛罗里达大学商学院的演讲| Buffett Lecture at the University of Florida School of Business October 15, 1998 ](/files/buffett-uf-lecture-1998.pdf)
 
 - [Jason Lu 职场讲座笔记](/pages/jason-lu/)
 

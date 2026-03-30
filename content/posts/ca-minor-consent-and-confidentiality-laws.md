@@ -385,4 +385,4 @@ EXC: Providers may refuse to provide parents access to a minor’s medical recor
 
 **Reference:**
 
-[https://www.altamed.org/sites/default/files/2019CaMinorConsentConfChartFull.pdf](https://www.altamed.org/sites/default/files/2019CaMinorConsentConfChartFull.pdf)
+[/files/ca-minor-consent-chart-2019.pdf](/files/ca-minor-consent-chart-2019.pdf)

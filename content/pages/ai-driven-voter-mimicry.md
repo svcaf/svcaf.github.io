@@ -375,7 +375,7 @@ The introduction of sophisticated AI agents into the political sphere could, ove
 
 - A Large-Scale Simulation on Large Language Models for Decision-Making in Political Science – arXiv, accessed June 8, 2025, [https://arxiv.org/html/2412.15291v3](https://arxiv.org/html/2412.15291v3)
 
-- CV – Yue Zhao – University of Southern California, accessed June 8, 2025, [https://viterbi-web.usc.edu/~yzhao010/files/ZHAO_YUE_CV.pdf](https://viterbi-web.usc.edu/~yzhao010/files/ZHAO_YUE_CV.pdf)
+- CV – Yue Zhao – University of Southern California, accessed June 8, 2025, [/files/zhao-yue-cv.pdf](/files/zhao-yue-cv.pdf)
 
 - arXiv:2412.15291v4 [cs.CL] 10 Apr 2025, accessed June 8, 2025, [https://arxiv.org/abs/2412.15291](https://arxiv.org/abs/2412.15291)
 

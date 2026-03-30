@@ -118,6 +118,6 @@ The [Election Integrity Project-California](https://www.eip-ca.com/who-we-are.ht
 
 [加州选举廉正项目](https://www.eip-ca.com/who-we-are.htm)成立于2010年，据其网站描述，是一家无党派、非盈利性志愿者组织，提倡公民在选举过程中成为积极的参与者。
 
-If you need to report voting irregularities, EIPCa has this [**Citizen Incident Statement**](https://www.eip-ca.com/EIPCa-Citizen-Incident-Statement_2152020.pdf).
+If you need to report voting irregularities, EIPCa has this **Citizen Incident Statement** _[PDF no longer available]_.
 
-如果你需要报告在投票上的不正当行为，EIPCa有一份[**公民事件声明**](https://www.eip-ca.com/EIPCa-Citizen-Incident-Statement_2152020.pdf)。
+如果你需要报告在投票上的不正当行为，EIPCa有一份**公民事件声明** _[PDF已失效]_。

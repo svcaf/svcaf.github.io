@@ -5,6 +5,9 @@ tags: ['svcaf-news', 'chinese-american', 'community-events']
 slug: svcaf-board-2023-new-year-meeting
 categories: ["SVCAF"]
 ---
+
+![2023新年茶话会](/wp-content/uploads/2023/02/Image_20230212220501.jpg)
+
 2023 年2月12 日，星期天，中午，硅谷华人协会基金会的部分新老理事在Fremont举行疫情以来的第一次新年茶话会。
 
 大家一起回顾了基金会从2014年以来的维护华人宪法平等权利的各项义工活动，也展望了新一年的工作。 主要重点是继续跟进最高法院的状告哈佛/北卡大学歧视亚裔的诉讼。同时加强对加州大学隐形打压亚裔学生入学的违宪行为的监督和披露，不排除发起相关诉讼的可能。

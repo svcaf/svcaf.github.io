@@ -28,6 +28,19 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run integrity scan (warnings only, non-blocking)
+        run: |
+          python scripts/integrity-scan.py --report || true
+          if [ -f integrity-report.md ]; then
+            echo "### Integrity Scan Results" >> $GITHUB_STEP_SUMMARY
+            cat integrity-report.md >> $GITHUB_STEP_SUMMARY
+          fi
+
       - name: Build
         run: hugo --minify
 

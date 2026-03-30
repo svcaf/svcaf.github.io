@@ -7,6 +7,8 @@ description: "Asian American Coalition condemns CA legislators for targeting mer
 categories: ["SVCAF"]
 ---
 
+![](/wp-content/uploads/2020/06/aace-logo-2-e1445906123878.jpg)
+
 **For Immediate Release**
 
 **June 14, 2020**

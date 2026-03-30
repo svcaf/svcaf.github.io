@@ -6,6 +6,8 @@ slug: svcaf-condemns-ados-for-sabotaging-a-racial-equality-movement
 description: "SVCAF condemns ADOS movement for sabotaging racial equality and promoting divisive rhetoric."
 categories: ["SVCAF"]
 ---
+
+![](/wp-content/uploads/2020/06/103361232_104195634666934_4003885750601166194_o.png)
 **For Immediate Release**
 
 **June 8, 2020**

@@ -5,6 +5,8 @@ tags: ['legal-rights', 'civic-education', 'chinese-american']
 slug: defending-the-us-constitution-as-owners-of-the-usa
 categories: ["SVCAF"]
 ---
+
+![](/wp-content/uploads/2022/11/IMG_5249.jpg)
 Unabridged speech transcript for the “Equal Education Rights for All” Rally 
 
 By  Mr. Chunhua Liao, VP of SVCAF 

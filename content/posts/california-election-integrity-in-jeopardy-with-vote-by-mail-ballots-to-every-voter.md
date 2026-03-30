@@ -5,6 +5,8 @@ tags: ['election-integrity', 'advocacy', 'civic-education']
 slug: california-election-integrity-in-jeopardy-with-vote-by-mail-ballots-to-every-voter
 categories: ["SVCAF"]
 ---
+
+![](/wp-content/uploads/2020/07/QQ截图20200710155650.png)
 ### **California Election Integrity in Jeopardy With Vote-by-Mail Ballots to Every Voter**
 
 ### **随着向每位选民邮寄选票，加州选举的廉正性受到威胁**

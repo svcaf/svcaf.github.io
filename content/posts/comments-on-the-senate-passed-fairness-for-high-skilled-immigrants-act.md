@@ -5,6 +5,8 @@ tags: ['immigration', 'legislation', 'advocacy']
 slug: comments-on-the-senate-passed-fairness-for-high-skilled-immigrants-act
 categories: ["SVCAF"]
 ---
+
+![](/wp-content/uploads/2020/12/8.jpg)
 Comments on the Senate Passed Fairness for High Skilled Immigrants Act
 
 December 4, 2020 10:08AM

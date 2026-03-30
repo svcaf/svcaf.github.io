@@ -6,6 +6,8 @@ slug: do-this-immediately-to-protect-your-ballot-in-november
 description: "Urgent steps to protect your November ballot: verify registration and request mail-in ballot."
 categories: ["SVCAF"]
 ---
+
+![](/wp-content/uploads/2020/07/wheres-my-ballot-button.png)
 [**加州选民**，**请立即注册WheresMyballot**，**以保护您的11月的投票！**](https://myemail.constantcontact.com/DO-THIS-IMMEDIATELY-TO-PROTECT-YOUR-BALLOT-IN-NOVEMBER.html)
 
 作者：EIP-Ca （加州选举完整项目) 立法监督总监Ruth Weiss， ruthweiss@eip-ca.com

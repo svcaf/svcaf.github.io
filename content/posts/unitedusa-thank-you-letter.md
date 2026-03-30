@@ -5,6 +5,8 @@ tags: ['healthcare', 'volunteer', 'chinese-american']
 slug: unitedusa-thank-you-letter
 categories: ["SVCAF"]
 ---
+
+![](/wp-content/uploads/2020/06/united-usa-1.png)
 Since late March this year, SVCAF has collected ~$50,000 donations from the Chinese American communities to purchase and deliver masks for local charities, hospitals, police stations, small businesses, senior homes, and so on.  We just got a thank-you letter today!  For hospitals or essential businesses to accept our PPE donations, please refer to: [/pages/pperequests/](/pages/pperequests/)
 
 ### **A Warm Thank You Letter **for SVCAF’s COVID-19 Contribution

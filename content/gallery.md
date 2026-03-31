@@ -143,11 +143,6 @@ description: "A visual journey through SVCAF's community events, advocacy progra
 <div class="gallery-caption-overlay">Community Gathering with SVCAF Banners, 2022</div>
 </div>
 
-<div class="gallery-item" data-caption="SVCAF members and organizational leaders pose for a group photo outside a community event venue, celebrating another year of civic service and community building.">
-<img src="/images/slide-17.jpg" loading="lazy" alt="SVCAF Outdoor Group Photo">
-<div class="gallery-caption-overlay">SVCAF Members &amp; Leaders Outdoor Group Photo</div>
-</div>
-
 <div class="gallery-item" data-caption="SVCAF board members and community partners enjoy an outdoor gathering in 2023, reflecting the warm bonds built through years of shared mission and service.">
 <img src="/images/slide-21.jpg" loading="lazy" alt="Board Outdoor Lunch 2023">
 <div class="gallery-caption-overlay">Board &amp; Members Outdoor Gathering, 2023</div>

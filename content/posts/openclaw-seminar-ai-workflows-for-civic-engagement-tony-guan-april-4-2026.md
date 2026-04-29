@@ -22,9 +22,10 @@ Join us for a free community seminar featuring **Tony Guan**, Vice Chair of Equa
 
 ## 📺 Event Recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzWHumK7J_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "RzWHumK7J_c" >}}
 
-> Watch the full event recording on [YouTube](https://youtu.be/RzWHumK7J_c).
+Watch the full event recording on [YouTube](https://youtu.be/RzWHumK7J_c).
+
 
 ## About the Speaker
 

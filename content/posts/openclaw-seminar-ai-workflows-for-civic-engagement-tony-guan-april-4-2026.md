@@ -20,6 +20,12 @@ Join us for a free community seminar featuring **Tony Guan**, Vice Chair of Equa
 
 🔗 **[Register here (free)](https://us06web.zoom.us/meeting/register/yR_vW-MgS3OpwXAa5kVTcg)**
 
+## 📺 Event Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzWHumK7J_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> Watch the full event recording on [YouTube](https://youtu.be/RzWHumK7J_c).
+
 ## About the Speaker
 
 **Tony Guan** is an SVCA board member and Silicon Valley tech company engineering manager who has long been active in community service and civil rights advocacy. Since 2016, he organized multiethnic residents in Sunnyvale and Cupertino to oppose unfair aircraft noise relocation, coordinated with local governments and the FAA, and helped establish the Santa Clara County aviation roundtable.
